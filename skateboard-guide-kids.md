@@ -43,48 +43,123 @@ Tvrdost bushingů se měří v jednotkách "A" (durometer):
 
 ---
 
-## Doporučené kompletní skateboardy do 3000 Kč
+## Konkrétní modely s cenami (prosinec 2024)
 
-### VARIANTA 1: Globe G1 Lineform (cca 2500-2900 Kč)
+---
 
-- **Šířka:** 7.75" (ideální pro 10 let a starší)
-- **Kolečka:** 52 mm, 99A
-- **Trucky:** Globe – dobře reagující
-- **Výhoda:** Kvalitní komponenty, vhodné pro začátečníky i pokročilé triky
+### VARIANTA 1: Globe Goodstock 7.75" – NEJLEPŠÍ VOLBA
 
-**Tip:** Bushingy jsou standardní, ale dají se snadno vyměnit za měkčí (viz níže).
+| Parametr | Hodnota |
+|----------|---------|
+| **Cena** | **1 428 – 1 679 Kč** |
+| **Šířka** | 7.75" (ideální pro 10 let) |
+| **Kolečka** | 52 mm, 99A |
+| **Ložiska** | ABEC 7 |
+| **Nosnost** | 100 kg |
 
-### VARIANTA 2: Enuff Fade (cca 1800-2200 Kč)
+**Kde koupit:**
+- [Alza.cz](https://www.alza.cz/sport/globe-goodstock-7-75fu-red-d5817754.htm) – **1 428 Kč** (sleva 22%)
+- [Snowboard Zezula](https://www.snowboard-zezula.com/skateboard-globe-goodstock-black/pn-115470) – cca 1 700 Kč
+- [Zboží.cz](https://www.zbozi.cz/vyrobek/globe-goodstock-skateboard-7-75/) – porovnání cen od 1 679 Kč
 
-- **Šířka:** 7.75"
-- **Kolečka:** 54 mm, 99A
-- **Výhoda:** Dobrý poměr cena/výkon, solidní základ pro učení
+**Výhoda:** 7vrstvý kanadský javor lepený Epoxy Resin technologií, kvalitní trucky Tensor Alloy.
 
-### VARIANTA 3: Jart Classic (cca 2200-2600 Kč)
+---
 
-- **Šířka:** 7.5" nebo 7.75"
-- **Kolečka:** 52 mm, 102A
-- **Výhoda:** Španělská značka s dobrou pověstí, kvalitní deska
+### VARIANTA 2: Enuff Skully 7.75" – SKVĚLÁ CENA
 
-### VARIANTA 4: Skateboard Ambassadors (cca 2000-2500 Kč)
+| Parametr | Hodnota |
+|----------|---------|
+| **Cena** | **1 659 Kč** |
+| **Šířka** | 7.75" |
+| **Materiál** | 7 vrstev javoru |
+| **Trucky** | Enuff Decade |
 
-- **Česká značka** s dobrým poměrem cena/výkon
-- **Šířka:** 7.5" - 8.0"
-- **Výhoda:** Lokální podpora, slušná kvalita
+**Kde koupit:**
+- [Honzovy-Longboardy.cz](https://www.honzovy-longboardy.cz/enuff-skully-blue-7-75--7-25-skateboard/) – **1 659 Kč**
+- [Heureka.cz](https://skate-komplety.heureka.cz/f:6701:952703/) – porovnání cen
+
+**Další modely Enuff 7.75":**
+- Enuff Splat 7.75" – cca 1 600–1 800 Kč
+- Enuff Logo Stain 7.75" – cca 1 500–1 700 Kč
+- Enuff Lucha Libre 7.75" – dostupné na [ScootShop.cz](https://www.scootshop.cz/enuff-lucha-libre-skateboard-komplet-7-75-ruzova-1/)
+
+---
+
+### VARIANTA 3: Jart Scrabble 8.0" – VÝPRODEJ
+
+| Parametr | Hodnota |
+|----------|---------|
+| **Cena** | **1 449 Kč** (sleva 50% z 2 899 Kč) |
+| **Šířka** | 8.0" (trochu širší, ale OK) |
+
+**Kde koupit:**
+- [Tornadoshop.cz](https://www.tornadoshop.cz/vyprodej_k491/sport-vyprodej_k442/skate-vyprodej_k838/) – **1 449 Kč** výprodej
+
+**O značce:** Jart je španělská značka založená 2002, největší výrobce skateboardových desek v Evropě.
+
+---
+
+### VARIANTA 4: Oxelo CP500 Mid 7.5" (Decathlon) – PRO ZAČÁTEČNÍKY
+
+| Parametr | Hodnota |
+|----------|---------|
+| **Cena** | **1 099 – 1 499 Kč** |
+| **Šířka** | 7.5" – 7.6" |
+| **Věk** | 8–12 let |
+| **Hodnocení** | 4.8/5 (1351 recenzí) |
+
+**Kde koupit:**
+- [Decathlon.cz – CP500 Mid Flag](https://www.decathlon.cz/detske/detske-skateboardy) – **1 499 Kč**
+- [Decathlon.cz – CP100 Mid Cosmic](https://www.decathlon.cz/detske/detske-skateboardy) – **1 099 Kč**
+
+**Výhoda:** 6vrstvá deska (lehčí pro děti), kvalitní ložiska, skvělé recenze.
+
+---
+
+### VARIANTA 5: Ambassadors komplet 7.75" – ČESKÁ ZNAČKA
+
+| Parametr | Hodnota |
+|----------|---------|
+| **Cena** | **cca 2 000 – 2 500 Kč** |
+| **Šířka** | 7.75" – 8.0" |
+| **Kolečka** | 52 mm, 103A |
+| **Ložiska** | ABEC 5 |
+
+**Kde koupit:**
+- [Ambassadors.eu](https://www.ambassadors.eu/skateboard-komplety) – oficiální e-shop
+- [BoardStar.cz](https://www.boardstar.cz/skate-komplety-ambassadors/) – od 2 999 Kč
+- [Skate-Praha.cz](https://www.skate-praha.cz/skate-komplety/?b=ambassadors)
+
+**Výhoda:** Česká značka, 7 vrstev kanadského javoru, jezdí na nich top čeští skateři (Maxim Habanec).
+
+---
+
+### VARIANTA 6: Globe G1 Argo 8.125" – AKCE
+
+| Parametr | Hodnota |
+|----------|---------|
+| **Cena** | **1 881 Kč** (sleva 16% z 2 250 Kč) |
+| **Šířka** | 8.125" (širší, ale kvalitní) |
+
+**Kde koupit:**
+- [Honzovy-Longboardy.cz](https://www.honzovy-longboardy.cz/globe-skateboardy/) – **1 881 Kč**
 
 ---
 
 ## Výměna bushingů za měkčí
 
-Pokud jsou standardní bushingy příliš tvrdé, doporučuji koupit měkčí zvlášť:
+Pokud jsou standardní bushingy příliš tvrdé pro 10letého kluka, doporučuji koupit měkčí zvlášť:
 
 ### Doporučené měkké bushingy pro děti
 
-| Značka | Model | Tvrdost | Cena |
-|--------|-------|---------|------|
-| **Bones Hardcore** | Soft | 81A | cca 250-350 Kč |
-| **Independent** | Soft Cylinder | 88A | cca 200-300 Kč |
-| **Doh-Doh** | Orange | 86A | cca 150-200 Kč |
+| Značka | Model | Tvrdost | Cena | Kde koupit |
+|--------|-------|---------|------|------------|
+| **Bushingy 85A** | Univerzální sada | 85A | **49 Kč** | [inSPORTline.cz](https://www.insportline.cz/13206/bushingy-85a) |
+| **Enuff Soft** | Červené | 92A | cca 100–150 Kč | [Heureka.cz](https://skate-komplety.heureka.cz/) |
+| **Bones Hardcore** | Soft | 81A | cca 250–350 Kč | [SkatePro.cz](https://www.skatepro.cz/m536.htm) |
+
+**Tip:** Sada bushingů z inSPORTline za 49 Kč je skvělá levná volba – obsahuje 2 válce a 2 kužele.
 
 **Instalace:** Jednoduše se vymění v truckách (horní a spodní gumička) – zvládne to každý.
 
@@ -105,29 +180,41 @@ Pokud jsou standardní bushingy příliš tvrdé, doporučuji koupit měkčí zv
 
 ---
 
-## Kde koupit
+## Kde koupit – ověřené e-shopy
 
-- [SkateboardyShop.cz](https://skateboardyshop.cz)
-- [Funstorm.cz](https://funstorm.cz)
-- [BoardStar.cz](https://boardstar.cz)
-- [SkatePro.cz](https://skatepro.cz)
+| E-shop | Specialita | Doprava zdarma |
+|--------|------------|----------------|
+| [Alza.cz](https://www.alza.cz/sport/) | Globe, rychlé doručení | od 1 000 Kč |
+| [Decathlon.cz](https://www.decathlon.cz/detske/detske-skateboardy) | Oxelo (vlastní značka) | od 2 000 Kč |
+| [Honzovy-Longboardy.cz](https://www.honzovy-longboardy.cz/skateboardy/) | Globe, Enuff, široký výběr | od 1 000 Kč |
+| [BoardStar.cz](https://www.boardstar.cz/skateboardove-komplety/) | Ambassadors, Globe | od 1 500 Kč |
+| [Snowboard-Zezula.com](https://www.snowboard-zezula.com/) | Globe, značkové | - |
+| [Tornadoshop.cz](https://www.tornadoshop.cz/) | Výprodeje Jart | - |
+| [Boardmania.cz](https://www.boardmania.cz/obchod/Skateboard-pro-deti) | Jart, Independent, Ambassadors | - |
+| [Heureka.cz](https://skate-komplety.heureka.cz/) | Porovnávač cen | - |
 
 ---
 
 ## Shrnutí doporučení
 
-**Nejlepší volba pro 10letého na triky do 3000 Kč:**
+### TOP 3 nejlepší volby pro 10letého na triky:
 
-1. **Globe G1 Lineform 7.75"** nebo **Jart Classic 7.5"** (~2500 Kč)
-2. + **Bones Hardcore Soft bushingy 81A** (~300 Kč)
+| Pořadí | Model | Cena | Poznámka |
+|--------|-------|------|----------|
+| 🥇 | **Globe Goodstock 7.75"** | 1 428 Kč | Nejlepší poměr cena/kvalita |
+| 🥈 | **Enuff Skully 7.75"** | 1 659 Kč | Skvělá alternativa |
+| 🥉 | **Jart Scrabble 8.0"** | 1 449 Kč | Výprodej, trochu širší |
 
-**Celkem: cca 2800 Kč**
+### Doporučená kombinace:
+
+**Globe Goodstock 7.75"** (1 428 Kč) + **Bushingy 85A** (49 Kč) = **1 477 Kč**
 
 Tato kombinace zajistí:
-- ✅ Kvalitní desku pro triky
-- ✅ Měkké zatáčení díky soft bushingům
-- ✅ Vhodnou velikost pro 10letého
+- ✅ Kvalitní desku pro triky (7vrstvý kanadský javor)
+- ✅ Měkké zatáčení díky soft bushingům 85A
+- ✅ Vhodnou velikost 7.75" pro 10letého
 - ✅ Prostor pro růst – skateboard vydrží i když vyroste
+- ✅ **Úspora 1 500 Kč** z rozpočtu!
 
 ---
 
