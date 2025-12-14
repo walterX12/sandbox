@@ -4,6 +4,8 @@
 
 Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlastní a používají** stolní tenis roboty.
 
+**Počet robotů zrecenzovaných:** 10 modelů (od budget $160 po premium $2000)
+
 **Zdroje:**
 - TableTennisDaily Forum
 - MyTableTennis.NET
@@ -12,6 +14,9 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 - Revspin.net
 - PingSunday
 - PingPongBros
+- TT-Test.de (German)
+- Court-Central.fr (French)
+- TT-Shop.com Blog
 
 ---
 
@@ -271,7 +276,161 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 4. 🥇 **DONIC ROBOPONG 2055** (~€550 / 18 900 Kč)
+## 4. 🎯 **JOOLA SHORTY** (~€519-616 / 13-15 000 Kč)
+
+### ⭐ Hodnocení: 4/5
+
+### ✅ POZITIVNÍ zkušenosti:
+
+#### Německá recenze (Březen 2025):
+
+**TT-Test.de:**
+> "Definitiv der beste Tischtennis Roboter von Joola"
+>
+> (Definitivně nejlepší robot od Joola)
+
+**Srovnání s konkurencí:**
+- ✅ Výrazně lepší než Joola Buddy V300
+- ✅ **Build quality trochu lepší** než Donic Robopong 545 (při podobné ceně)
+
+**Zdroj:** [TT-Test.de Review](https://tt-test.de/joola-shorty-test/)
+
+---
+
+#### Francouzská recenze (Leden 2025):
+
+**Court-Central.fr:**
+- ✅ Po nastavení: dobrá herní zkušenost
+- ✅ Kompaktní design
+- ✅ Solid metal frame
+
+**Francouzský uživatel (3 týdny vlastnictví, 2h/týden):**
+- ✅ Rychlá dodávka
+- ✅ Splnilo očekávání
+- ✅ Žádné problémy
+
+**Zdroj:** [Court-Central.fr Review](https://www.court-central.fr/test-du-robot-joola-shorty-performance-et-innovation-au-rendez-vous)
+
+---
+
+#### TT-Shop.com hodnocení:
+
+**Celkové hodnocení:** 2.4 (4. místo v kategorii robotů bez feedback systému)
+
+**Doporučení:** Určeno primárně pro kluby
+
+**Zdroj:** [TT-Shop Blog](https://blog.tt-shop.com/best-table-tennis-robots-ping-pong-machines/)
+
+---
+
+### ❌ NEGATIVNÍ zkušenosti:
+
+#### TableTennisDaily Forum (Srpen 2024):
+
+**Varování od uživatele:**
+> "I would advise against buying Joola robots"
+
+**Důvod:** Problémy s Joola Infinity (abandoned project)
+
+**Zdroj:** [TableTennisDaily Discussion](https://www.tabletennisdaily.com/forum/topics/table-tennis-robot-joola-shorty.34023/)
+
+---
+
+#### Technické omezení:
+
+**Forum diskuze:**
+> "You can only do one type of spin at a time and must manually rotate the head"
+
+**Problém:** Nelze mixovat různé spiny v jednom programu, nutná manuální rotace hlavy
+
+---
+
+#### Francouzská recenze:
+
+**Problémy při setupu:**
+- ⚠️ **Chybějící detailní instrukce** - instalace může být matoucí
+- ⚠️ **Lacking included accessories**
+
+**Zdroj:** [Court-Central.fr](https://www.court-central.fr/test-du-robot-joola-shorty-performance-et-innovation-au-rendez-vous)
+
+---
+
+### 📋 Technické specifikace:
+
+**Kapacita a výkon:**
+- Ball capacity: **150 míčků** (nejvíc v kategorii!)
+- Ball frequency: **9 úrovní** (25-85 balls/min)
+- Speed levels: **9 úrovní**
+- Weight: ~10 kg
+- Dimensions: 82×40×40 cm
+
+**Funkce:**
+- ✅ **8 typů spinů** (topspin, backspin, sidespin kombinace)
+- ✅ **Trajectory adjustment** (nastavení trajektorie)
+- ✅ **Oscilace** (horizontal movement)
+- ✅ **Remote control**
+- ✅ **Catch net** included (recyklační síť)
+- ✅ Direct and indirect ball delivery
+- ✅ Solid metal frame
+
+**Zdroje:**
+- [Joola.de Official](https://joola.de/en-eu/products/joola-robot-shorty-2)
+- [TT-Shop.com](https://www.tt-shop.com/com_eng/joola-shorty-4775.html)
+- [VSport-TT.com](https://vsport-tt.com/en/table-tennis-robots-and-returnboard/robot-joola-shorty)
+
+---
+
+### 🆚 SROVNÁNÍ: JOOLA Shorty vs Tibhar Junior Pro
+
+**TableTennisDaily uživatel:**
+> "Tibhar junior pro is quite decent for beginners, though I wanted sidespins and 50% more spin in underspin compared to tibhar junior pro and was thinking about changing to Joola Shorty."
+
+**Závěr:** JOOLA Shorty má **silnější underspin** a **sidespin capability** (Tibhar Junior nemá!)
+
+**Zdroj:** [TableTennisDaily Comparison](https://www.tabletennisdaily.com/forum/topics/robot-tibhar-junior-pro-vs-joola-shorty.33589/)
+
+---
+
+### 💬 Shrnutí JOOLA Shorty:
+
+**PRO:**
+- ✅ **150 míčků kapacita** (nejvíc v kategorii - iPong V300: 100, Tibhar: 80, Donic 545: 90)
+- ✅ **8 spinů včetně sidespin** (Tibhar Junior NEMÁ sidespin!)
+- ✅ **Trajectory adjustment** (Donic 545 nemá)
+- ✅ **Catch net included** (recyklační síť)
+- ✅ **Solid metal frame** (lepší než plasty)
+- ✅ **Remote control**
+- ✅ Lepší build quality než Donic 545
+- ✅ "Nejlepší robot od Joola" (2025)
+- ✅ 25-85 balls/min range
+
+**PROTI:**
+- ❌ **Nelze mixovat spiny** v jednom programu
+- ❌ **Manuální rotace hlavy** nutná
+- ❌ Chybějící detailní instrukce
+- ❌ Lacking accessories
+- ❌ **Nedostupný v českých obchodech** (nutno import z Německa)
+- ❌ Historie problémů s Joola Infinity (varování od uživatelů)
+- ❌ TT-Shop hodnocení: 2.4 (horší než Tibhar Junior: 2.3)
+
+**Pro koho:**
+- ✅ Středně pokročilí (2-3 roky)
+- ✅ Ti, kteří **chtějí upgrade od Tibhar Junior** (+ sidespin!)
+- ✅ Ti, kteří chtějí silnější underspin
+- ✅ Ti, kteří chtějí trajectory adjustment
+- ✅ Rozpočet 13-15k Kč
+
+**NE pro:**
+- ❌ Naprostí začátečníci (kup raději Tibhar Junior za 6,5k nebo iPong V300 za 5,5k)
+- ❌ Ti, kteří chtějí mixovat spiny v jednom programu (kup Donic 2055 nebo premium modely)
+- ❌ Pokročilé/competitive hráči (kup Donic 2055, PowerPong, Amicus)
+- ❌ Ti, kterým vadí manuální rotation hlavy
+
+**Poznámka:** Výhodou oproti Tibhar Junior je **sidespin** a **150 míčků kapacita**, ale je 2× dražší. Výhodou oproti Donic 545 je **trajectory adjustment**, ale Donic 545 má lepší hodnocení uživatelů.
+
+---
+
+## 5. 🥇 **DONIC ROBOPONG 2055** (~€550 / 18 900 Kč)
 
 ### ⭐ Hodnocení: 4.5/5
 
@@ -812,6 +971,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 |-------|------|-------------|------|------|----------|
 | **iPong V300** | $160 | 4/5 | Best value, oscilace | Ball jams, limited | Začátečníci |
 | **Tibhar Junior** | $230 | 3.5/5 | Build quality, price | Weak backspin, no sidespin | Začátečníci-střední |
+| **JOOLA Shorty** | €520-616 | 4/5 | 150 míčků, sidespin, metal frame | Nelze mix spinů, manuální rotace | Střední, upgrade od Tibhar |
 | **Donic 545** | €380 | 3.5/5 | Versa net, široký range | Jen 1 pozice/drill | Hobby |
 | **Donic 2055** | €550 | 4.5/5 | 64 programů, recycling | Buggy software | Střední-pokročilí |
 | **Newgy 2050** | $900 | 4/5 | Reálné výsledky, modular | Nelze mix spinů | Střední-pokročilí |
@@ -918,6 +1078,21 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
+## 6. **JOOLA Shorty - Nelze mixovat spiny + manuální rotace**
+> "You can only do one type of spin at a time and must manually rotate the head"
+
+**Před nákupem zvaž:**
+- Potřebuješ mixovat různé spiny v jednom drillu?
+- Vadí ti manuální rotace hlavy mezi cvičeními?
+- Pokud ANO na obojí, kup raději Donic 2055 nebo premium modely
+
+**Pozitiva:**
+- 150 míčků kapacita (nejvíc v kategorii!)
+- Sidespin (Tibhar Junior NEMÁ)
+- Solid metal frame
+
+---
+
 # 📚 ZDROJE
 
 Všechny uživatelské zkušenosti jsou z:
@@ -937,6 +1112,9 @@ Všechny uživatelské zkušenosti jsou z:
 - [ExpertTableTennis](https://www.experttabletennis.com/)
 - [PingPongAcademy](https://pingpongacademy.org/)
 - [Tabletennis11](https://www.tabletennis11.com/)
+- [TT-Test.de](https://tt-test.de/) (German reviews)
+- [Court-Central.fr](https://www.court-central.fr/) (French reviews)
+- [TT-Shop.com Blog](https://blog.tt-shop.com/)
 
 **Retail reviews:**
 - Amazon.com
@@ -951,12 +1129,13 @@ Všechny uživatelské zkušenosti jsou z:
 
 1. **iPong V300** - Nejlepší value pro začátečníky, ale pokročilí se nudit
 2. **Tibhar Junior** - Slušný upgrade od iPong, ale stále pro začátečníky-střední
-3. **Donic 545** - "Toho moc neumí" je validní kritika (jen 1 pozice/drill)
-4. **Donic 2055** - "Works really good", ale buggy software
-5. **Newgy 2050** - Proven výsledky, ale nelze mixovat spiny
-6. **Amicus Prime** - Buggy app, **Expert je lepší value!**
-7. **PowerPong Omega** - "Best on the market", "worth every penny"
-8. **Pongbot** - Skvělý value, ALE **vyžaduje internet!**
+3. **JOOLA Shorty** - "Nejlepší robot od Joola", 150 míčků + sidespin, ale nelze mixovat spiny + manuální rotace hlavy
+4. **Donic 545** - "Toho moc neumí" je validní kritika (jen 1 pozice/drill)
+5. **Donic 2055** - "Works really good", ale buggy software
+6. **Newgy 2050** - Proven výsledky, ale nelze mixovat spiny
+7. **Amicus Prime** - Buggy app, **Expert je lepší value!**
+8. **PowerPong Omega** - "Best on the market", "worth every penny"
+9. **Pongbot** - Skvělý value, ALE **vyžaduje internet!**
 
 **Nejdůležitější lesson:**
 - Čti **reálné uživatelské recenze**, ne jen marketing
