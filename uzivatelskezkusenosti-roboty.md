@@ -4,7 +4,7 @@
 
 Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlastní a používají** stolní tenis roboty.
 
-**Počet robotů zrecenzovaných:** 10 modelů (od budget $160 po premium $2000)
+**Počet robotů zrecenzovaných:** 13 modelů (od budget $160 po premium $2000)
 
 **Zdroje:**
 - TableTennisDaily Forum
@@ -212,11 +212,95 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
+## 3. ⚠️ **HUI PANG HP-07** (~$200-250 / 5 000-6 500 Kč)
+
+### ⭐ Hodnocení: 2.5/5
+
+### ✅ POZITIVNÍ zkušenosti:
+
+#### Revspin.net Review (Září 2024):
+
+**Základní hodnocení:**
+> "A good robot for a very good price"
+
+**Pro koho:**
+- ✅ Beginners
+- ✅ Budget-conscious hráči
+
+**Cena:**
+> "Very affordable" - jedna z nejlevnějších možností na trhu
+
+**Zdroj:** [Revspin.net HP-07](https://revspin.net/robot/huipang-hp-07.html)
+
+---
+
+### ❌ NEGATIVNÍ zkušenosti:
+
+#### Revspin.net - KRITICKÉ OMEZENÍ:
+
+**HLAVNÍ problém:**
+> ⚠️ **"Does NOT have continuous feed"**
+
+**Co to znamená:**
+- Robot ZASTAVÍ po vystřelení všech míčků
+- Musíš RUČNĚ znovu naplnit koš
+- ❌ **ŽÁDNÁ recyklační síť!**
+
+**Srovnání:**
+- HP-07: **BEZ recyklace** (musíš sbírat míčky)
+- JT-A/S8-PRO: **S recyklační sítí** (míčky se vrací)
+
+---
+
+#### Další omezení:
+
+**Ball capacity:**
+> Pouze ~110 míčků (vs. iPong V300: 100, Tibhar: 80)
+
+**Trajectory:**
+> ⚠️ **Manuální nastavení** - nelze měnit během drillu
+
+**Zdroj:** [Revspin.net](https://revspin.net/robot/huipang-hp-07.html)
+
+---
+
+### 💬 Shrnutí HP-07:
+
+**PRO:**
+- ✅ **Velmi levný** ($200-250)
+- ✅ "Good robot for the price"
+- ✅ Vhodný pro začátečníky
+- ✅ Sidespin (má víc funkcí než iPong V300)
+
+**PROTI:**
+- ❌ **ŽÁDNÁ recyklační síť** - musíš sbírat míčky!
+- ❌ **BEZ continuous feed**
+- ❌ Manuální trajectory adjustment
+- ❌ Málo uživatelských recenzí
+- ❌ Není dostupný v ČR (import z Číny)
+
+**Pro koho:**
+- ✅ Naprostí začátečníci (0-1 rok)
+- ✅ Extrémně omezený rozpočet ($200)
+- ✅ Ti, kterým **NEVADÍ sbírat míčky** po každém drillu
+
+**NE pro:**
+- ❌ **Kohokoliv, kdo chce pohodlný trénink** - sbírání míčků je otrava!
+- ❌ Ti, kteří chtějí recyklační síť
+- ❌ Ti, kteří chtějí continuous feed
+
+**⚠️ DOPORUČENÍ:**
+- Za podobnou cenu (nebo trochu víc) kup raději **iPong V300** nebo **Tibhar Junior Pro**
+- iPong V300 má lepší reviews a je dostupný v ČR
+- HP-07 má smysl POUZE pokud máš extrémně omezený rozpočet
+
+---
+
 # 💵 MID-RANGE ROBOTY ($500-1500 / 12-35k Kč)
 
 ---
 
-## 3. 🏅 **DONIC ROBOPONG 545** (~€380 / 14 400 Kč)
+## 4. 🏅 **DONIC ROBOPONG 545** (~€380 / 14 400 Kč)
 
 ### ⭐ Hodnocení: 3.5/5 (omezené recenze)
 
@@ -276,7 +360,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 4. 🎯 **JOOLA SHORTY** (~€519-616 / 13-15 000 Kč)
+## 5. 🎯 **JOOLA SHORTY** (~€519-616 / 13-15 000 Kč)
 
 ### ⭐ Hodnocení: 4/5
 
@@ -430,7 +514,258 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 5. 🥇 **DONIC ROBOPONG 2055** (~€550 / 18 900 Kč)
+## 6. 🚨 **HUI PANG JT-A** (~$390-400 / 10 000 Kč)
+
+### ⭐ Hodnocení: 1.5/5
+
+### 🚨 **KRITICKÁ VAROVÁNÍ!**
+
+#### Amazon Reviews (Leden 2025) - VÁŽNÉ PROBLÉMY SE SPOLEHLIVOSTÍ:
+
+**⚠️ Oscilator motor selhává po 2-4 měsících:**
+
+**Uživatel #1 (leden 2025):**
+> ⚠️ **"The oscillator motor failed after only 2 months of use"**
+>
+> **"I contacted the company and they claimed they don't have replacement parts"**
+
+**Výsledek:** Robot se stal nepoužitelný po 2 měsících!
+
+---
+
+**Uživatel #2 (leden 2025):**
+> ⚠️ **"Broke again after 2 more months"**
+>
+> **"The manufacturer does NOT sell replacement parts"**
+>
+> **"Avoid this product unless you can buy a bunch of the oscillator motors"**
+
+**Výsledek:** Druhý motor selhal po dalších 2 měsících (celkem 4 měsíce)
+
+---
+
+**Uživatel #3 (leden 2025):**
+> 🚨 **"The product becomes a junk after used only 4 months"**
+>
+> **"Can NOT use it anymore after 4 months of occasional use"**
+
+**Závěr:** JT-A se stane odpadem po 4 měsících!
+
+---
+
+**Uživatel #4:**
+> **"The motor of the machine broke"**
+>
+> **"I contacted the seller but there is no after sales service"**
+
+**Problém:** Žádný after-sales support!
+
+**Zdroj:** [Amazon JT-A Reviews](https://www.amazon.com/HUI-PANG-JT-Automatic-Ping-Pong/dp/B0758GJQYV)
+
+---
+
+### ⚠️ HLAVNÍ PROBLÉMY:
+
+1. **❌ Oscilator motor selhává po 2-4 měsících**
+2. **❌ Výrobce NEPRODÁVÁ náhradní díly**
+3. **❌ ŽÁDNÝ after-sales support**
+4. **❌ ŽÁDNÁ záruka v praxi**
+5. **❌ Robot se stane nepoužitelným po 4 měsících**
+
+---
+
+### ✅ POZITIVNÍ zkušenosti (pokud funguje):
+
+#### Technické specifikace:
+
+**Ball Performance:**
+- Ball capacity: ~120 míčků
+- Ball frequency: 30-80 balls/min
+- Ball speed: 4-40 m/s (14.4-144 km/h)
+
+**Spin:**
+- ✅ **9 spin types** včetně:
+  - Left sidespin
+  - Right sidespin
+  - Topspin + left sidespin
+  - Backspin + right sidespin
+  - Pure topspin/backspin
+
+**Recyklace:**
+- ✅ **Recycling net system** (oproti HP-07!)
+- Míčky se automaticky vrací do robota
+
+**Control:**
+- Wired remote control
+- One-button funkcí
+
+---
+
+### ❌ NEGATIVNÍ zkušenosti:
+
+#### Technická omezení:
+
+**⚠️ Manuální trajectory adjustment:**
+> Arc/trajectory se nastavuje **MANUÁLNĚ knoflíkem**
+>
+> ❌ **Nelze měnit úhel během drillu** - robot střílí všechny míčky ve stejném úhlu
+
+**Spin problémy:**
+> "Heavy spin balls just do not have realistic trajectory"
+
+**Dostupnost:**
+> ❌ Není dostupný v České republice (import z Číny/USA)
+
+---
+
+### 💬 Shrnutí JT-A:
+
+**PRO:**
+- ✅ Recycling net (lepší než HP-07)
+- ✅ 9 spin types včetně sidespin
+- ✅ Dobrý speed range (4-40 m/s)
+- ✅ 30-80 balls/min
+- ✅ Pokud funguje, slušný robot za cenu
+
+**PROTI:**
+- 🚨 **KATASTROFÁLNÍ spolehlivost** - motor selhává po 2-4 měsících!
+- 🚨 **ŽÁDNÉ náhradní díly** - nelze opravit!
+- 🚨 **ŽÁDNÝ after-sales support**
+- ❌ Manuální trajectory (nelze měnit během drillu)
+- ❌ Heavy spin nemá realistic trajectory
+- ❌ Není dostupný v ČR
+
+**Pro koho:**
+- ❌ **PRO NIKOHO!** Nedoporučuji koupit!
+
+**NE pro:**
+- ❌ **KOHOKOLIV** - motor selže po 2-4 měsících a nelze opravit!
+
+**⚠️ KRITICKÉ DOPORUČENÍ:**
+- **❌ NEKUPUJ JT-A!**
+- Motor garantovaně selže po 2-4 měsících
+- Náhradní díly nejsou dostupné
+- Robot se stane nepoužitelným odpadem
+- **Kup místo toho:**
+  - **Donic Robopong 545** (€380) - evropská záruka 2 roky
+  - **Donic Robopong 2055** (€550) - evropská záruka 2 roky
+  - **JOOLA Shorty** (€520-616) - evropská dostupnost
+
+---
+
+## 7. ⚠️ **HUI PANG S8-PRO** (~$329-346 / 8 500 Kč)
+
+### ⭐ Hodnocení: 2/5 (nedostatek recenzí)
+
+### ⚠️ VAROVÁNÍ:
+
+**Spolehlivost neznámá:**
+- Velmi málo uživatelských recenzí
+- **Stejný výrobce jako JT-A** (který má katastrofální spolehlivost!)
+- Není jasné, zda má stejné problémy s motorem jako JT-A
+
+---
+
+### ✅ POZITIVNÍ zkušenosti:
+
+#### Technické specifikace:
+
+**Ball Performance:**
+- **Ball capacity: 300+ míčků** 🏆 (NEJVÍC ZE VŠECH robotů!)
+- Ball frequency: 30-80 balls/min
+- Ball speed: 4-40 m/s (14.4-144 km/h)
+
+**Spin:**
+- ✅ Double wheel structure
+- ✅ **Mixed side spin**
+- ✅ One-button functions (topspin, downspin, non-spin, long/short ball)
+
+**Design:**
+- ✅ **Folding mechanism** - kompaktní skladování
+- ✅ **Remote control** (wireless) - lepší než JT-A wired
+- Lightweight konstrukce
+
+**Arc Settings:**
+- 9 angle settings
+- ⚠️ Ale **MANUÁLNÍ adjustment** - nelze měnit během drillu!
+
+---
+
+### ❌ NEGATIVNÍ zkušenosti:
+
+#### Nedostatek informací:
+
+**⚠️ HLAVNÍ PROBLÉM:**
+> Velmi málo reálných uživatelských recenzí
+>
+> Není jasné, zda má stejné reliability problémy jako JT-A
+
+---
+
+#### Technická omezení:
+
+**⚠️ Manuální trajectory adjustment:**
+> Arc/trajectory se nastavuje **MANUÁLNĚ**
+>
+> ❌ **Nelze automaticky měnit úhel během drillu**
+>
+> Robot střílí všechny míčky ve stejném úhlu
+
+**Recycling net:**
+> ❓ Není jasné, zda má recycling net (různé zdroje uvádějí různé info)
+
+**Dostupnost:**
+> ❌ Není dostupný v České republice (import z Číny)
+
+**Náhradní díly:**
+> ❓ Není známo, zda jsou dostupné (JT-A NEMÁ!)
+
+---
+
+### 💬 Shrnutí S8-PRO:
+
+**PRO:**
+- ✅ **300+ míčků kapacita** (nejvíc na trhu!)
+- ✅ **Wireless remote** (lepší než JT-A)
+- ✅ **Folding design** - snadné skladování
+- ✅ Mixed sidespin
+- ✅ Dobrý speed range (4-40 m/s)
+- ✅ **Levnější než JT-A** ($329 vs $390)
+
+**PROTI:**
+- ⚠️ **VELMI MÁLO uživatelských recenzí** - rizikové!
+- ⚠️ **Stejný výrobce jako JT-A** (který má katastrofální spolehlivost)
+- ❌ Manuální trajectory (nelze měnit během drillu)
+- ❌ Není dostupný v ČR
+- ❓ Neznámá spolehlivost
+- ❓ Neznámá dostupnost náhradních dílů
+
+**Pro koho:**
+- ⚠️ **Rizikový nákup** - nedoporučuji!
+- Pouze pokud:
+  - Chceš experimentovat s low-cost robotem
+  - Nevadí ti riziko, že motor selže jako u JT-A
+  - Nemáš přístup k evropským značkám
+
+**NE pro:**
+- ❌ **Kohokoliv, kdo chce spolehlivý robot**
+- ❌ Ti, kteří chtějí evropskou záruku
+- ❌ Ti, kteří chtějí dostupné náhradní díly
+
+**⚠️ DOPORUČENÍ:**
+- **Nedoporučuji koupit** kvůli:
+  1. Velmi málo recenzí (neověřená spolehlivost)
+  2. Stejný výrobce jako problematický JT-A
+  3. Není dostupný v ČR (žádná záruka)
+  4. Manuální trajectory adjustment
+- **Kup místo toho:**
+  - **Donic Robopong 545** (€380 / 9 600 Kč) - podobná cena, evropská záruka
+  - **JOOLA Shorty** (€520-616) - o trochu dražší, ale spolehlivější
+  - Pokud chceš ušetřit: **iPong V300** ($160) nebo **Tibhar Junior Pro** ($230)
+
+---
+
+## 8. 🥇 **DONIC ROBOPONG 2055** (~€550 / 18 900 Kč)
 
 ### ⭐ Hodnocení: 4.5/5
 
@@ -512,7 +847,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 5. 🔥 **NEWGY ROBO-PONG 2050** (~$900 / 21 000 Kč)
+## 9. 🔥 **NEWGY ROBO-PONG 2050** (~$900 / 21 000 Kč)
 
 ### ⭐ Hodnocení: 4/5
 
@@ -619,7 +954,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 6. 🥇 **BUTTERFLY AMICUS PRIME** (~$2000 / 47 000 Kč)
+## 10. 🥇 **BUTTERFLY AMICUS PRIME** (~$2000 / 47 000 Kč)
 
 ### ⭐ Hodnocení: 4/5
 
@@ -734,7 +1069,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 7. 🚀 **POWERPONG OMEGA** (~$2000 / 47 000 Kč)
+## 11. 🚀 **POWERPONG OMEGA** (~$2000 / 47 000 Kč)
 
 ### ⭐ Hodnocení: 4.5/5
 
@@ -841,7 +1176,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 8. 🆕 **PONGBOT OMNI S PRO / NOVA S PRO** (~$800-1300 / 19-30k Kč)
+## 12./13. 🆕 **PONGBOT OMNI S PRO / NOVA S PRO** (~$349-1300 / 8,5-30k Kč)
 
 ### ⭐ Hodnocení: 4/5 (s výhradami)
 
@@ -971,8 +1306,11 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 |-------|------|-------------|------|------|----------|
 | **iPong V300** | $160 | 4/5 | Best value, oscilace | Ball jams, limited | Začátečníci |
 | **Tibhar Junior** | $230 | 3.5/5 | Build quality, price | Weak backspin, no sidespin | Začátečníci-střední |
-| **JOOLA Shorty** | €520-616 | 4/5 | 150 míčků, sidespin, metal frame | Nelze mix spinů, manuální rotace | Střední, upgrade od Tibhar |
+| **HP-07** | $200-250 | 2.5/5 | Velmi levný, sidespin | BEZ recyklace, musíš sbírat míčky! | Jen extrémně omezený rozpočet |
 | **Donic 545** | €380 | 3.5/5 | Versa net, široký range | Jen 1 pozice/drill | Hobby |
+| **JOOLA Shorty** | €520-616 | 4/5 | 150 míčků, sidespin, metal frame | Nelze mix spinů, manuální rotace | Střední, upgrade od Tibhar |
+| **🚨 JT-A** | $390-400 | 1.5/5 | 9 spinů, recycling net | **MOTOR SELHÁVÁ po 2-4 měsících!** | **NEKUPUJ!** |
+| **⚠️ S8-PRO** | $329-346 | 2/5 | 300 míčků!, wireless remote | Velmi málo recenzí, rizikový | **Nedoporučuji** |
 | **Donic 2055** | €550 | 4.5/5 | 64 programů, recycling | Buggy software | Střední-pokročilí |
 | **Newgy 2050** | $900 | 4/5 | Reálné výsledky, modular | Nelze mix spinů | Střední-pokročilí |
 | **Amicus Prime** | $2000 | 4/5 | Wireless, mix spinů | Buggy app, drahý | Pokročilí/kluby |
@@ -1033,7 +1371,45 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 # ⚠️ DŮLEŽITÁ VAROVÁNÍ Z UŽIVATELSKÝCH ZKUŠENOSTÍ
 
-## 1. **Pongbot - Internet Requirement**
+## 1. 🚨 **HUI PANG JT-A - KATASTROFÁLNÍ spolehlivost**
+> ⚠️ **"The oscillator motor failed after only 2 months of use"**
+>
+> ⚠️ **"The product becomes a junk after used only 4 months"**
+>
+> ⚠️ **"The manufacturer does NOT sell replacement parts"**
+
+**Před nákupem:**
+- ❌ **NEKUPUJ JT-A!** Motor garantovaně selže po 2-4 měsících
+- ❌ Náhradní díly NEJSOU dostupné
+- ❌ Robot se stane nepoužitelným odpadem
+- ✅ **Kup místo toho:** Donic Robopong 545 (€380) nebo 2055 (€550) s evropskou zárukou
+
+---
+
+## 2. ⚠️ **HUI PANG S8-PRO - Neověřená spolehlivost**
+> Velmi málo uživatelských recenzí
+>
+> Stejný výrobce jako JT-A (který má katastrofální spolehlivost!)
+
+**Před nákupem zvaž:**
+- ⚠️ Rizikový nákup - není jasné, zda má stejné problémy jako JT-A
+- ❌ Není dostupný v ČR (žádná evropská záruka)
+- ❓ Neznámá dostupnost náhradních dílů
+- ✅ **Bezpečnější volba:** Donic 545 za podobnou cenu s evropskou zárukou
+
+---
+
+## 3. ⚠️ **HUI PANG HP-07 - Bez recyklační sítě**
+> ⚠️ **"Does NOT have continuous feed"**
+
+**Před nákupem zvaž:**
+- ❌ Musíš RUČNĚ sbírat míčky po každém drillu
+- ❌ Žádná recyklační síť
+- ✅ **Lepší volba za podobnou cenu:** iPong V300 ($160) nebo Tibhar Junior ($230)
+
+---
+
+## 4. **Pongbot - Internet Requirement**
 > "NO INTERNET, NO USE OF THE PONGBOT!"
 
 **Před nákupem ověř:**
@@ -1042,7 +1418,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 2. **Newgy 2050 - Nelze mixovat spiny**
+## 5. **Newgy 2050 - Nelze mixovat spiny**
 > "Can't mix different spin types in the same program"
 
 **Před nákupem zvaž:**
@@ -1051,7 +1427,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 3. **Butterfly Amicus Prime - Buggy software**
+## 6. **Butterfly Amicus Prime - Buggy software**
 > "App is buggy", "tablet is old, cheap, slow"
 
 **Před nákupem zvaž:**
@@ -1060,7 +1436,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 4. **Donic 545 - Jen 1 pozice během drillu**
+## 7. **Donic 545 - Jen 1 pozice během drillu**
 > "Within a single exercise, it shoots balls to only one location"
 
 **Před nákupem zvaž:**
@@ -1069,7 +1445,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 5. **Budget roboty - Competitive hráči se nudit**
+## 8. **Budget roboty - Competitive hráči se nudit**
 > "Competitive players sure are going to get bored soon"
 
 **iPong V300, Tibhar Junior:**
@@ -1078,7 +1454,7 @@ Tento dokument obsahuje **reálné zkušenosti** od uživatelů, kteří **vlast
 
 ---
 
-## 6. **JOOLA Shorty - Nelze mixovat spiny + manuální rotace**
+## 9. **JOOLA Shorty - Nelze mixovat spiny + manuální rotace**
 > "You can only do one type of spin at a time and must manually rotate the head"
 
 **Před nákupem zvaž:**
@@ -1129,13 +1505,16 @@ Všechny uživatelské zkušenosti jsou z:
 
 1. **iPong V300** - Nejlepší value pro začátečníky, ale pokročilí se nudit
 2. **Tibhar Junior** - Slušný upgrade od iPong, ale stále pro začátečníky-střední
-3. **JOOLA Shorty** - "Nejlepší robot od Joola", 150 míčků + sidespin, ale nelze mixovat spiny + manuální rotace hlavy
-4. **Donic 545** - "Toho moc neumí" je validní kritika (jen 1 pozice/drill)
-5. **Donic 2055** - "Works really good", ale buggy software
-6. **Newgy 2050** - Proven výsledky, ale nelze mixovat spiny
-7. **Amicus Prime** - Buggy app, **Expert je lepší value!**
-8. **PowerPong Omega** - "Best on the market", "worth every penny"
-9. **Pongbot** - Skvělý value, ALE **vyžaduje internet!**
+3. 🚨 **HUI PANG HP-07** - Bez recyklační sítě, musíš sbírat míčky - kup raději iPong/Tibhar
+4. 🚨 **HUI PANG JT-A** - **KATASTROFÁLNÍ spolehlivost!** Motor selhává po 2-4 měsících, **NEKUPUJ!**
+5. ⚠️ **HUI PANG S8-PRO** - Velmi málo recenzí, stejný výrobce jako JT-A, **rizikový nákup**
+6. **JOOLA Shorty** - "Nejlepší robot od Joola", 150 míčků + sidespin, ale nelze mixovat spiny + manuální rotace hlavy
+7. **Donic 545** - "Toho moc neumí" je validní kritika (jen 1 pozice/drill)
+8. **Donic 2055** - "Works really good", ale buggy software
+9. **Newgy 2050** - Proven výsledky, ale nelze mixovat spiny
+10. **Amicus Prime** - Buggy app, **Expert je lepší value!**
+11. **PowerPong Omega** - "Best on the market", "worth every penny"
+12. **Pongbot** - Skvělý value, ALE **vyžaduje internet!**
 
 **Nejdůležitější lesson:**
 - Čti **reálné uživatelské recenze**, ne jen marketing
