@@ -2002,6 +2002,50 @@ Když někdo řekne "Fed tiskne peníze":
 - Okamžitý dopad (trvá měsíce/roky)
 - Automatickou inflaci (závisí na mnoha faktorech)
 - Že vláda tiskne peníze (to dělá centrální banka)
+- Že banky mohou tisknout neomezeně (mají přísné limity!)
+
+### 🚨 Důležité upřesnění: Banky vs. Centrální banka
+
+**CENTRÁLNÍ BANKA (Fed, ECB, ČNB):**
+```
+✅ Vytváří "základní peníze" (rezervy)
+✅ Může vytvářet téměř neomezeně
+✅ Jediné omezení: inflace a důvěra v měnu
+✅ Nemůže zbankrotovat
+```
+
+**KOMERČNÍ BANKY (JPMorgan, Citibank, atd.):**
+```
+⚠️ Vytvářejí "depozita" (ne fyzické peníze!)
+❌ NEMOHOU tisknout neomezeně
+✓ Přísné limity:
+  • Kapitálové požadavky (Basel III) - max ~10× kapitálu
+  • Likvidita - musí vypořádat platby denně
+  • Poptávka po úvěrech
+  • Riziko nesplacení
+✓ MOHOU zbankrotovat (2008: Lehman Brothers!)
+```
+
+**I když Fed v 2020 zrušil rezervní požadavky (0%):**
+```
+Teoreticky: Banky mohou půjčovat ∞
+Realita: Multiplikátor ~4×
+
+Proč?
+→ Kapitálové požadavky jsou hlavní limit!
+→ Banka s $100M kapitálu může půjčit max ~$1 miliarda
+→ Banky dobrovolně drží rezervy (potřebují na vypořádání)
+→ Opatrnost po krizi 2008
+```
+
+**Klíčové poznání:**
+```
+90% peněz v ekonomice = depozita vytvořená bankami
+ALE banky je NEMOHOU vytvářet "z ničeho"!
+Mají přísné regulatorní limity (kapitál, likvidita, riziko)
+
+Fed vytváří základní peníze → banky je multiplikují (s limity)
+```
 
 **Klíčová myšlenka:**
-Moderní peníze jsou z 90% elektronické a centrální banka je může vytvořit doslova stisknutím tlačítka. Jediné omezení je riziko inflace a ztráta důvěry v měnu.
+Moderní peníze jsou z 90% elektronické. Centrální banka může vytvářet základní peníze téměř neomezeně (limit = inflace a důvěra). Komerční banky pak vytvářejí většinu peněz jako depozita, ale s přísnými limity (kapitál, likvidita, regulace).
