@@ -1250,7 +1250,12 @@ Pravda: Pravděpodobně obojí. ¯\_(ツ)_/¯
 
 **Odpověď:** Díky **frakčnímu bankovnictví** (fractional reserve banking) a **peněžnímu multiplikátoru**.
 
-Toto je možná NEJDŮLEŽITĚJŠÍ část celého systému - většinu peněz nevytváří centrální banka, ale **komerční banky půjčováním!**
+**⚠️ DŮLEŽITÉ:**
+- Fed vytváří "základní peníze" (rezervy) - $1 miliarda
+- Banky pak vytvářejí "depozita" (účetní peníze) půjčováním - až $19 miliard navíc
+- Celkem v ekonomice: $20 miliard v "kupní síle"
+
+Toto je možná NEJDŮLEŽITĚJŠÍ část celého systému - většinu "peněz" (ve formě depozitů) nevytváří centrální banka, ale **komerční banky schvalováním půjček!**
 
 ### 🏦 Frakční bankovnictví - Jak to funguje
 
@@ -1529,7 +1534,124 @@ USA (2020+):
 - Fed zrušil rezervní požadavky úplně! (0%)
 - Teoreticky: multiplikátor ∞!
 - Realita: ~4×
-- Proč? Banky dobrovolně drží rezervy
+- Proč? Jiná omezení (viz níže) ⬇️
+```
+
+### 🚨 "Pokud je rezerva 0%, mohou banky půjčovat neomezeně?"
+
+**NE! I když Fed zrušil rezervní požadavky, banky MAJÍ jiná kritická omezení:**
+
+#### 1. **Kapitálové požadavky (Basel III) - HLAVNÍ OMEZENÍ**
+
+```
+Pravidlo:
+Banka musí mít kapitál = minimálně 10% rizikově vážených aktiv
+
+Příklad:
+Banka má kapitál: $100 milionů
+→ Může mít max rizikových aktiv: $1 miliarda
+→ Půjčky jsou riziková aktiva
+→ MAX může půjčit: ~$1 miliarda
+
+Pokud chce půjčit více:
+→ MUSÍ získat více kapitálu (akcie, zisky, dluhopisy)
+```
+
+**To je TVRDÝ limit - nelze obejít!**
+
+#### 2. **Likvidita - musí vypořádat platby**
+
+```
+Rezerva 0% NEZNAMENÁ že banka nedrží rezervy!
+
+Příklad:
+Banka schválí hypotéku $500K
+→ Ty převedeš peníze prodejci (jiná banka)
+→ Banka MUSÍ mít rezervy u Fedu na vypořádání!
+
+Pokud nemá rezervy:
+→ Musí si půjčit od jiných bank (overnight)
+→ Nebo od Fedu (Discount Window)
+→ To stojí peníze (úrok)!
+
+→ Banky DOBROVOLNĚ drží rezervy i při 0% požadavku
+```
+
+#### 3. **Poptávka po úvěrech**
+
+```
+Banka nemůže NUTIT lidi brát si půjčky!
+→ Potřebuje kvalifikované dlužníky
+→ Recese = nikdo nechce půjčku
+→ Rezervy zůstávají nevyužité
+```
+
+#### 4. **Riziko nesplacení**
+
+```
+Každá půjčka = riziko
+Pokud dlužník nesplatí → ztráta z kapitálu
+→ Banky půjčují opatrně (zejména po 2008)
+```
+
+### 📊 Proč Fed zrušil rezervní požadavky?
+
+**Důvody (březen 2020):**
+
+```
+1. ZJEDNODUŠENÍ:
+   - Rezervní požadavky už nebyly efektivní nástroj
+   - Fed používá IOER (úrok na rezervy) místo toho
+
+2. COVID KRIZE:
+   - Banky měly OBROVSKÉ rezervy ($3+ biliony)
+   - Požadavek byl irelevantní
+
+3. MODERNIZACE:
+   - Kapitálové požadavky jsou modernější nástroj
+   - Basel III regulace jsou efektivnější
+```
+
+**Výsledek:**
+```
+Rezervní požadavek: 0%
+Teoretický multiplikátor: ∞
+
+ALE:
+Skutečný multiplikátor: ~4×
+
+Proč?
+→ Kapitálové požadavky (limit ~10× kapitálu)
+→ Likvidní potřeby (denní vypořádání)
+→ Opatrnost bank (strach z krize)
+→ Slabá poptávka po úvěrech
+```
+
+### 🎯 Klíčové poznání
+
+**Rezervní požadavky už nejsou hlavní omezení!**
+
+```
+DŘÍVE (před 2008):
+Hlavní omezení = rezervní požadavky (10%)
+→ Multiplikátor ~10×
+
+DNES (2020+):
+Hlavní omezení = KAPITÁLOVÉ požadavky (10%)
+→ Multiplikátor ~4× (realita je nižší kvůli opatrnosti)
+```
+
+**Analogie:**
+```
+Je to jako:
+"Můžeš mít neomezené množství jídla na talíři"
+Ale:
+- Tvůj žaludek má limit (kapitál)
+- Musíš platit za jídlo (likvidita)
+- Musíš mít hlad (poptávka)
+- Nechceš zvracet (riziko)
+
+→ I bez limitu na talíř nesníš nekonečné množství!
 ```
 
 **Graf vývoje:**
@@ -1614,16 +1736,65 @@ Když multiplikátor roste:
    Více základních peněz → více multiplikace
 ```
 
-#### 4. **Můžeš si půjčit peníze které neexistovaly!**
+#### 4. **Banky vytvářejí depozita, ne fyzické peníze**
+
+**⚠️ DŮLEŽITÉ UPŘESNĚNÍ:**
+
+Když se řekne "banky vytvářejí peníze", neznamená to:
+- ❌ Že tisknou bankovky (to jen centrální banka!)
+- ❌ Že to dělají bez omezení
+- ❌ Že to dělají "z ničeho"
+
+**Co to OPRAVDU znamená:**
 
 ```
 Když jdeš do banky pro hypotéku $500K:
-- Banka NEMÁ těch $500K v trezoru
-- Prostě napíše "$500K" na tvůj účet
-- Peníze vznikly "z ničeho" (ale s limity!)
-- Tys vytvořil nové peníze půjčením si!
 
-→ 97% peněz vzniklo jako dluh!
+1. BANKA ZKONTROLUJE:
+   - Tvůj příjem a schopnost splácet
+   - Zajištění (dům jako kolaterál)
+   - Má banka dostatek KAPITÁLU? (Basel III - min. 10% kapitálu)
+   - Má banka dostatek LIKVIDITY? (musí vypořádat platby)
+
+2. POKUD SCHVÁLÍ:
+   - Vytvoří ÚČETNÍ ZÁPIS:
+     * Aktiva: +$500K pohledávka (ty dlužíš)
+     * Pasiva: +$500K depozit (na tvém účtu)
+   - To je "vytvoření depozitu", ne tisknutí bankovek!
+
+3. TY UTRATÍŠ:
+   - Převedeš $500K prodejci domu
+   - Banka MUSÍ mít rezervy u Fedu na vypořádání!
+   - Pokud nemá → půjčí si od jiných bank (náklady!)
+
+4. OMEZENÍ:
+   - Kapitálové požadavky (max 10× kapitálu)
+   - Likvidita (musí vypořádat platby denně)
+   - Poptávka (potřebuje kvalifikované dlužníky)
+   - Riziko (ztráty kryjí z kapitálu)
+```
+
+**Klíčový rozdíl:**
+
+```
+CENTRÁLNÍ BANKA:
+- Vytváří "základní peníze" (rezervy)
+- Může doslova z ničeho (jen inflace jako limit)
+- Nemůže zbankrotovat
+
+KOMERČNÍ BANKA:
+- Vytváří "depozita" (účetní peníze)
+- S přísným limity (kapitál, likvidita, regulace)
+- MŮŽE zbankrotovat (2008: Lehman Brothers!)
+```
+
+**Statistika:**
+```
+97% peněz v ekonomice = depozita vytvořená půjčkami bank
+3% peněz = fyzická hotovost (bankovky, mince)
+
+→ Většina "peněz" jsou jen čísla v počítači!
+→ Ale NEJSOU to peníze "z ničeho" - mají omezení!
 ```
 
 ### 🎓 Shrnutí: Z $1B na $20B
