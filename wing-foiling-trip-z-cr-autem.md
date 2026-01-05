@@ -519,16 +519,217 @@ Praha → Vídeň → Graz → Ljubljana → Rijeka → Split → Viganj
 (1100 km, 12h čisté jízdy)
 ```
 
-#### Školy a pronájem:
-- **Windsurfing Center Viganj**
-- **Blue Lake Sports**
-- **X-Fun Viganj** - wing foiling kurzy
+#### 🗺️ PRAKTICKÉ INFO - Viganj
 
-#### ✅ Výhody:
-- ✅ **Levnější** než Itálie
-- ✅ **Teplejší voda** než Lago di Garda
-- ✅ **Česky friendly** (hodně Čechů v oblasti)
-- ✅ **Krásná příroda**
+### 🅿️ KDE PARKOVAT & Spaní v Karavanu
+
+**PARKING VIGANJ BEACH - HLAVNÍ** ⭐
+- 📍 **GPS:** 42.9534, 17.1842
+- 📍 **Kde:** Přímo u pláže Viganj, hlavní parking
+- **Popis:** Dlouhý parking podél pláže
+- **Povrch:** Asfalt + písek/štěrk
+- **Cena:**
+  - Květen: **5-10 kn/den** (~1-1.5 €) nebo zdarma
+  - Červenec/Srpen: ~20-30 kn (~3-4 €)
+- **Výhoda:** 20 metrů od vody! Rigging u auta
+
+**🚐 SPANÍ V KARAVANU - REALITA:**
+
+⚠️ **Chorvatsko = PŘÍSNÉ na free camping!**
+
+**Oficiálně:**
+- ❌ Free camping je **ZAKÁZANÝ** v celém Chorvatsku
+- ❌ Pokuty: 1000-15 000 kn (3500-55 000 Kč!)
+- ❌ Policie občas kontroluje
+
+**V REALITĚ Viganj (květen):**
+- ⚠️ **Viganj beach parking:** Někdy tolerováno
+  - Hodně camper vanů přes noc (wing/kite komunita)
+  - **V květnu = méně kontrol** (mimo sezónu)
+  - **V červenci/srpnu = KONTROLY!** Pokuta pravděpodobná
+  - Buďte diskrétní (žádné stanování venku, nezasviťte)
+
+**Co funguje (ověřeno):**
+- ✅ Spát V AUTĚ (ne stan vedle!) = méně nápadné
+- ✅ Dorazit pozdě večer (~22:00), odjet ráno (~7:00)
+- ✅ Žádný bordel venku (židle, stůl, gril = pokuta!)
+- ✅ Být slušný, nehlučný
+
+**Co NEFUNGUJE:**
+- ❌ Stan vedle auta = okamžitá pokuta
+- ❌ Gril, kempování "setup" = policie vás najde
+- ❌ Hlučnost, alkohol venku = problémy
+
+**Pokud přijde policie:**
+- Řeknou vám ODJET (většinou ne pokuta, když jste slušní)
+- Můžete jet na oficiální camping (10 min)
+
+**BEZPEČNĚJŠÍ: Oficiální campingy poblíž:**
+
+1. **Autocamp Antony**
+   - 📍 5 min autem od Viganj beach
+   - **Cena: 20-30 €/noc** (500-750 Kč)
+   - Sprchy, WC, elektřina
+   - **Výhoda:** Legální, klidný spánek
+
+2. **Camp Nevio**
+   - 📍 Blízko Viganj
+   - **Cena: 15-25 €/noc** (400-600 Kč)
+   - Levnější, základní
+
+**MOJE DOPORUČENÍ:**
+- **První noc:** Zkuste beach parking (diskrétně)
+- **Pokud kontrola:** Jděte na camping
+- **Červenec/Srpen:** Rovnou camping (kontroly časté!)
+
+---
+
+### 🚻 TOALETY & SPRCHY Viganj
+
+**U beach parkingu:**
+- 🚿 **Sprchy:** Venkovní sprchy na pláži
+  - **STUDENÉ!** (není teplá voda)
+  - Zdarma, vždy dostupné
+  - Pro opláchnout po wingu
+
+- 🚻 **Veřejné WC:** Na pláži
+  - Základní, ale funkční
+  - Květen = čisté (mimo sezónu méně využívané)
+  - **Papír:** Ne vždy! Mějte vlastní
+
+**Wing/kite školy:**
+- WC + sprchy (teplé) pouze pro klienty
+- **Tip:** Kup kávu/pivo v beach baru = můžeš použít WC
+
+---
+
+### 🏖️ KDE SE JEZDÍ - SPOTY ve Viganj
+
+**VIGANJ MAIN BEACH** - HLAVNÍ SPOT ⭐
+
+```
+    SZ ↓ (Maestral vítr odtud)
+
+🏔️ Poloostrov Pelješac (kopce)
+    ║
+🅿️  VIGANJ BEACH
+≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
+Korčulanský průliv (moře)
+    ║
+🏝️  Ostrov Korčula (naproti)
+```
+
+**Viganj Beach - Podmínky:**
+- **Kde:** Parking přímo u vody
+- **Vítr:** **Maestral** (SZ vítr) = **side-shore** (bezpečné!)
+  - Fouká z kopců přes vás na moře
+  - Pokud spadnete = vítr vás tlačí ZPĚT k břehu ✅
+- **Voda:** **Flat až malé vlny** (0.5-1m)
+  - Chráněný průliv (Korčula chrání před velkými vlnami)
+  - Ideální pro wing foiling!
+- **Dno:** Písek + kamínky (booties doporučuji)
+- **Hloubka:** Mělko u břehu (1-2m), pak rychle hlubší
+- **Pro:** Wing foiling, kite, windsurf
+- **Kdy:** **Odpoledne!** (12:00-18:00) - termický vítr
+
+**KUČIŠTE** - Klidnější spot
+- 📍 2 km západně od Viganj
+- **Vítr:** Stejný Maestral, trochu slabší
+- **Pro:** Když je Viganj přeplněné (vzácné v květnu)
+- **Výhoda:** Méně lidí
+
+---
+
+### 💨 VÍTR v Viganj - MAESTRAL
+
+**Co je Maestral:**
+- **Termický vítr** (vzniká ohříváním kopců na pevnině)
+- **Směr:** Severozápad (SZ) = fouká z kopců Pelješacu na moře
+- **Sezónní:** Duben-Říjen (nejlepší Červen-Září)
+- **Čas:** **Odpoledne!** (12:00-18:00 peak)
+
+**Maestral v KVĚTNU:**
+- **Frekvence:** 60-70% dní (ne 100%!)
+- **Síla:** 12-20 knots (slabší než v létě)
+- **Čas:** Začíná ~11:00-12:00, peak 14:00-16:00
+- **Někdy:** Ráno žádný vítr, pak se rozfouká odpoledne
+
+**Typický den s Maestral (květen):**
+```
+08:00 - Žádný vítr (calm)
+10:00 - Začíná foukat (5-10 knots)
+12:00 - Maestral se rozbíhá (12-15 knots) ✅
+14:00 - PEAK! (15-20 knots) ✅✅✅
+17:00 - Začíná slábnout (10-15 knots)
+19:00 - Skoro žádný vítr
+```
+
+**Wing size pro Maestral (květen):**
+- 12-15 knots: 6-7m²
+- 15-20 knots: 5-6m²
+- Máte jen 1 wing? Vezměte 6m² (univerzální)
+
+**Co když nefouká:**
+- ⚠️ Někdy Maestral nepřijde (30% dní v květnu)
+- **Backup:** Korčula island (krásný výlet), Dubrovník (1h autem)
+
+---
+
+### 🍴 LEVNÉ JÍDLO & Restaurace Viganj
+
+**U pláže:**
+
+**1. Konoba Antony** ⭐ NEJLEPŠÍ POMĚR
+- 📍 U beach parkingu
+- 💰 **Cena:** 60-100 kn/jídlo (~8-13 €)
+- 🐟 **Menu:** Grilovaná ryba, chobotnice, pasta, pizza
+- 🍺 **Pivo:** 20-25 kn (~3 €)
+- **Výhoda:** Místní kuchyně, velké porce
+- **Vibe:** Chorvatská konoba, friendly
+
+**2. Beach Bar u parkingu** - Rychlé jídlo
+- 💰 **Cena:** 30-60 kn (~4-8 €)
+- 🌭 **Menu:** Sendviče, burger, pommes
+- ☕ **Káva:** 10 kn (1.3 €)
+- **Výhoda:** Rychlé, levné
+
+**LEVNÉ ŘEŠENÍ - Vlastní vaření:**
+- 🛒 **Supermarket Orebić:** 10 min autem
+  - Konzum, Tommy (chorvatské řetězce)
+  - Otevřeno: 7:00-21:00
+  - Levnější než restaurace!
+- 🥖 **Pekárna Viganj:** Fresh pečivo ráno
+
+**Ceny jídla (kvě ten 2025):**
+- Grilovaná ryba: 80-120 kn (~10-15 €)
+- Pizza: 50-70 kn (~7-10 €)
+- Pivo (0.5L): 20-25 kn (~3 €)
+- Zmrzlina: 10-15 kn (~1.5-2 €)
+
+**TIP:** Chorvatsko = dražší než doma, ale levnější než Itálie!
+
+---
+
+#### ✅ SOUHRN Viganj
+
+**Výhody:**
+- ✅ **Levnější** než Západ (Tarifa, Leucate)
+- ✅ **Teplejší voda** (19-21°C, často stačí shorty!)
+- ✅ **Česky friendly** (hodně Čechů, personál často mluví česky)
+- ✅ **Krásná příroda** (Korčula, Dubrovník blízko)
+- ✅ **Side-shore vítr** = bezpečný
+
+**Nevýhody:**
+- ❌ **Vítr jen odpoledne** (ráno calm)
+- ❌ **Ne 100% spolehlivý** (70% dní)
+- ❌ **Free camping RIZIKOVÉ!** (pokuty!)
+- ❌ **Slabší vítr v květnu** než v létě
+
+**Ideální pro:**
+- Lidi co chtějí ušetřit
+- Ty co nemusí mít vítr 24/7
+- Milovníky tepla (teplá voda!)
+- Camper cestovatele (s rizikem pokut)
 
 ---
 
