@@ -584,6 +584,229 @@ Praha → Vídeň → Graz → Ljubljana → Rijeka → Split → Viganj
 
 ---
 
+### 🏕️ KOMPLETNÍ PRŮVODCE UBYTOVÁNÍM ve Viganj
+
+**Všechny varianty od nejlevnější po nejdražší:**
+
+---
+
+#### 1️⃣ STAN NA CAMPINGU - NEJLEVNĚJŠÍ
+
+**Autocamp Antony** (nejpopulárnější)
+- 📍 **Adresa:** Viganj 72, 20247 Viganj
+- 📧 **Web:** autocamp-antony.com
+- **Cena (květen):**
+  - **Stan (2 osoby + stan):** 80-120 kn/noc (~11-16 €, 270-400 Kč)
+  - **Stan (2 os + stan + auto):** 100-140 kn/noc (~13-19 €, 330-470 Kč)
+  - **Stan (4 osoby + stan + auto):** 140-180 kn (~19-24 €, 470-600 Kč)
+- **Co je v ceně:**
+  - Místo pro stan
+  - Sprchy (teplá voda!)
+  - WC
+  - Elektřina (za příplatek ~20 kn)
+  - WiFi (slabý)
+- **Výhoda:** Levné, u pláže (5 min pěšky)
+- **Nevýhoda:** Základní, občas plné
+
+**Camp Nevio**
+- 📍 Blízko Viganj
+- **Cena (květen):**
+  - **Stan (2 osoby):** 70-100 kn/noc (~9-13 €, 230-330 Kč)
+- **Výhoda:** Ještě levnější než Antony
+- **Nevýhoda:** Dál od pláže (10 min autem)
+
+**Camp Ponta**
+- **Cena (květen):**
+  - **Stan (2 osoby):** 90-130 kn/noc (~12-17 €, 300-430 Kč)
+- Podobné jako Antony
+
+**➡️ CELKEM stan (10 nocí, 2 osoby):**
+- **Nejlevnější:** 2 300-3 300 Kč (Camp Nevio)
+- **Střední:** 2 700-4 000 Kč (Autocamp Antony)
+
+---
+
+#### 2️⃣ MOBILHOME / CHATA NA CAMPINGU - STŘEDNÍ
+
+**Autocamp Antony - Mobilhome**
+- **Typ:** Malá chata/mobilhome pro 2-4 osoby
+- **Vybavení:**
+  - Postele, kuchyňka, lednice
+  - WC + sprcha uvnitř
+  - Terasa
+  - Základní nádobí
+- **Cena (květen):**
+  - **Mobilhome (2 osoby):** 400-600 kn/noc (~53-80 €, 1 330-2 000 Kč)
+  - **Mobilhome (4 osoby):** 600-900 kn/noc (~80-120 €, 2 000-3 000 Kč)
+- **Výhoda:** Pohodlnější než stan, pořád na campingu (blízko pláže)
+
+**Camp Nevio - Bungalovy**
+- **Cena (květen):**
+  - **Bungalow (2 os):** 350-550 kn/noc (~46-73 €, 1 160-1 830 Kč)
+- Základnější než Antony, ale levnější
+
+**➡️ CELKEM mobilhome/chata (10 nocí, 2 osoby):**
+- **Levnější:** 11 600-18 300 Kč (Camp Nevio)
+- **Střední:** 13 300-20 000 Kč (Autocamp Antony)
+
+---
+
+#### 3️⃣ APARTMÁN / STUDIO - STŘEDNÍ až DRAŽŠÍ
+
+**Kategorie A: ZÁKLADNÍ apartmány (levnější)**
+
+**Soukromé pokoje u místních** (Booking.com, Airbnb)
+- **Typ:** Pokoj s WC/sprchou, někdy kuchyňka
+- **Kde:** Viganj vesnice (5-10 min pěšky na pláž)
+- **Cena (květen):**
+  - **Studio (2 osoby):** 250-400 kn/noc (~33-53 €, 830-1 330 Kč)
+  - **Apartmán (2 os + kuchyň):** 350-500 kn/noc (~46-66 €, 1 160-1 660 Kč)
+- **Výhoda:** Levnější, autentické, místní atmosféra
+- **Nevýhoda:** Starší vybavení, ne vždy klimatizace
+
+**Příklady (Booking.com):**
+- **Apartments Viganj** - od 350 kn/noc
+- **Rooms Pelješac** - od 280 kn/noc
+- **Studio Mare** - od 400 kn/noc
+
+**➡️ CELKEM základní apartmán (10 nocí, 2 osoby):**
+- **8 300-16 600 Kč**
+
+---
+
+**Kategorie B: STŘEDNÍ apartmány**
+
+**Modernější apartmány s výhledem**
+- **Typ:** Celý apartmán, kuchyň, balkon, klimatizace
+- **Kde:** Blízko pláže (2-5 min pěšky)
+- **Cena (květen):**
+  - **Apartmán (2 osoby):** 500-800 kn/noc (~66-106 €, 1 660-2 660 Kč)
+  - **Apartmán (4 osoby):** 800-1200 kn/noc (~106-160 €, 2 660-4 000 Kč)
+- **Výhoda:** Moderní, čisté, klimatizace, WiFi
+- **Nevýhoda:** Dražší
+
+**Příklady (Airbnb, Booking.com):**
+- **Apartments Maestral Viganj** - od 600 kn/noc (s výhledem na moře)
+- **Villa Korta** - od 700 kn/noc (moderní, pool)
+- **Sunset Apartments** - od 550 kn/noc
+
+**➡️ CELKEM střední apartmán (10 nocí, 2 osoby):**
+- **16 600-26 600 Kč**
+
+---
+
+**Kategorie C: LUXUSNÍ apartmány/vily**
+
+**Premium apartmány s bazénem**
+- **Typ:** Luxusní apartmán nebo vila, bazén, terasa
+- **Kde:** Viganj nebo Kučište
+- **Cena (květen):**
+  - **Luxusní apartmán (2 os):** 1000-1500 kn/noc (~133-200 €, 3 330-5 000 Kč)
+  - **Vila (4-6 os):** 2000-3500 kn/noc (~266-466 €, 6 660-11 660 Kč)
+- **Výhoda:** Top kvalita, bazén, gril, výhled
+- **Nevýhoda:** Drahé (ale v květnu levnější než v létě!)
+
+**Příklady:**
+- **Villa Bellevue Viganj** - od 1200 kn/noc (bazén, 4 os)
+- **Luxury Apartments Sea View** - od 1000 kn/noc
+
+**➡️ CELKEM luxus (10 nocí, 2 osoby):**
+- **33 300-50 000 Kč**
+
+---
+
+#### 4️⃣ HOSTEL / SDÍLENÉ POKOJE - PRO SOLO CESTOVATELE
+
+**Hostel možnosti (vzácné ve Viganj, ale existují):**
+- **Kde:** Orebić (10 km od Viganj)
+- **Cena (květen):**
+  - **Postel v pokoji (4-6 osob):** 150-250 kn/noc (~20-33 €, 500-830 Kč)
+- **Výhoda:** Nejlevnější pro solo cestovatele
+- **Nevýhoda:** Sdílený pokoj, dál od Viganj
+
+---
+
+### 📊 SROVNÁNÍ - Co vybrat? (10 nocí)
+
+**Pro 2 osoby:**
+
+| Varianta | Cena (10 nocí) | Komfort | Vzdálenost k pláži |
+|----------|---------------|---------|-------------------|
+| **Free camping (auto)** | 0 Kč ⚠️ RIZIKO | ⭐ | 20m |
+| **Stan na campingu** | 2 700-4 000 Kč | ⭐⭐ | 5 min pěšky |
+| **Mobilhome camping** | 13 300-20 000 Kč | ⭐⭐⭐ | 5 min pěšky |
+| **Základní apartmán** | 8 300-16 600 Kč | ⭐⭐⭐ | 5-10 min pěšky |
+| **Střední apartmán** | 16 600-26 600 Kč | ⭐⭐⭐⭐ | 2-5 min pěšky |
+| **Luxus apartmán** | 33 300-50 000 Kč | ⭐⭐⭐⭐⭐ | U pláže |
+
+**Pro 1 osobu (solo):**
+
+| Varianta | Cena (10 nocí) |
+|----------|---------------|
+| **Free camping (auto)** | 0 Kč ⚠️ RIZIKO |
+| **Hostel (sdílený)** | 5 000-8 300 Kč |
+| **Stan na campingu** | 2 300-3 300 Kč |
+| **Studio (solo)** | 8 300-13 300 Kč |
+
+---
+
+### 💡 MOJE DOPORUČENÍ
+
+**Pro úsporu:**
+- ✅ **Stan na campingu** (2 700-4 000 Kč/10 nocí)
+- ✅ Ještě pořád pohodlné, legální, u pláže
+
+**Pro pohodlí:**
+- ✅ **Základní apartmán** (8 300-16 600 Kč/10 nocí)
+- ✅ Vlastní kuchyň, WC, klimatizace
+- ✅ Vaříte = ušetříte na jídle
+
+**Pro luxus:**
+- ✅ **Střední apartmán s výhledem** (16 600-26 600 Kč)
+- ✅ Moderní, pool někdy, blízko pláže
+
+**Pro naprostou úsporu (s rizikem):**
+- ⚠️ **Free camping v autě** (0 Kč, ale pokuta 3 500-55 000 Kč!)
+- ⚠️ Pouze pokud jste ochotni riskovat
+
+---
+
+### 🔗 KDE REZERVOVAT Viganj ubytování
+
+**Online platformy:**
+- 🌐 **Booking.com** - největší výběr apartmánů
+- 🌐 **Airbnb.com** - apartmány + unikátní místa
+- 🌐 **Apartmani-Viganj.com** - lokální portál
+- 🌐 **Adriatic.hr** - chorvatský booking
+
+**Campingy - přímý kontakt:**
+- 📧 **Autocamp Antony:** info@autocamp-antony.com, +385 20 719 077
+- 📧 **Camp Nevio:** camping.nevio@gmail.com
+
+**TIP:**
+- ✅ **Květen = mimo sezónu** → vyjednávejte cenu!
+- ✅ Zkuste napsat majiteli přímo (email) = často levnější než Booking
+- ✅ Delší pobyt (7-10 nocí) = sleva 10-20%!
+
+---
+
+### ⚠️ DŮLEŽITÉ POZNÁMKY
+
+**Květen vs. Léto (červenec/srpen):**
+- **Květen:** Ceny jsou 30-50% LEVNĚJŠÍ než v létě!
+- **Léto:** Stejný apartmán = 2x dražší + často plné
+
+**Minimální pobyt:**
+- **Květen:** Často bez minimu (i 1 noc OK)
+- **Léto:** Minimum 7 nocí (někdy i 14!)
+
+**Platba:**
+- Většina chce **zálohu 30-50%** (bankovní převod)
+- Zbytek: Hotově na místě (€ nebo kn)
+- Některé berou karty
+
+---
+
 ### 🚻 TOALETY & SPRCHY Viganj
 
 **U beach parkingu:**
