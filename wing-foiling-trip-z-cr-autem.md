@@ -221,6 +221,194 @@ Praha → Vídeň → Graz → Ljubljana → Rijeka → Split → Viganj
 
 ---
 
+## 🚐 Varianta: S OBYTNÝM AUTEM (Camper Van) - MEGA ÚSPORA!
+
+**Pro solo cestovatele nebo ty, kdo chtějí ušetřit!**
+
+### Výhody obytného auta:
+- ✅ **Žádné/minimální náklady na ubytování** (free camping nebo levný camper parking)
+- ✅ **Vaření = levnější jídlo** (200-400 Kč/den vs. 800-1200 Kč restaurace)
+- ✅ **Flexibilita** - spíte kde chcete, žádné check-in/out
+- ✅ **Vybavení vždy u sebe** (gear, kuchyně, postel)
+- ✅ **Žádné balení/vybalování** každý den
+
+### 💰 Náklady s obytným autem (10 dní, 1 osoba)
+
+| Destinace | Cesta | Ubytování* | Jídlo (vaření) | Pronájem wing | **CELKEM** |
+|-----------|-------|-----------|----------------|---------------|-----------|
+| **Tarifa** | 17 500 Kč | 0-2 000 Kč | 3 000 Kč | 10 000 Kč | **30 500-32 500 Kč** |
+| **Leucate** | 12 000 Kč | 2 000-4 000 Kč | 3 000 Kč | 11 000 Kč | **28 000-30 000 Kč** |
+| **Lago di Garda** | 7 000 Kč | 5 000-7 000 Kč | 3 500 Kč | 13 000 Kč | **28 500-30 500 Kč** |
+| **Viganj** | 7 500 Kč | 0-3 000 Kč | 2 500 Kč | 9 000 Kč | **19 000-22 000 Kč** |
+
+*Ubytování závisí na tom, jestli využijete free camping nebo oficiální camper parking
+
+**Poznámky:**
+- ✅ **Cesta:** Trochu vyšší (obytné auto = vyšší spotřeba ~10L/100km)
+- ✅ **Ubytování:** 0 Kč při free campingu, nebo 200-800 Kč/noc v camper parkingu
+- ✅ **Jídlo:** Vaření = ~300 Kč/den (nákupy v supermarketu)
+- ✅ **Pokud máte vlastní wing:** Ušetříte dalších 9-13 tisíc! ➡️ **Trip za 10-20 tisíc!** 🎉
+
+### 🏕️ FREE CAMPING & Camper Parking Tipy
+
+#### 🏆 TARIFA (Španělsko) - Free Camping PARADISE
+
+**Free camping spots:**
+- ✅ **Playa de Los Lances** - parkování přímo u pláže (severní část)
+  - Adresa: Ctra. de Cádiz-Málaga (N-340), poblíž Los Lances beach
+  - **Zdarma!** Můžete spát v autě, hodně surferů/wingerů to dělá
+  - Toalety/sprchy: použijte ve school baru nebo restauracích na pláži
+  - **Tip:** Parkujte směrem k Valdevaqueros (méně kontrol)
+
+- ✅ **Valdevaqueros Beach** - další oblíbené místo
+  - Free parking u pláže, přes noc OK
+  - Hodně camper vanů, surfing komunita
+  - Restaurace poblíž (Tangana, Tumbao)
+
+- ✅ **Bolonia Beach** - klidnější, krásná pláž
+  - 15 km od Tarify
+  - Free parking, méně lidí
+  - Bez sprch, ale krásná příroda
+
+**Oficiální camper parking (pokud chcete komfort):**
+- **Camping Tarifa** - 600-800 Kč/noc (elektřina, sprchy)
+- **Camping Torre de la Peña** - 500-700 Kč/noc
+- **Paloma Parking** - 300-500 Kč/noc (basic, ale u pláže)
+
+**⚠️ Poznámka:**
+- Free camping je **tolerované**, ne oficiálně povolené
+- Buďte slušní: Nevyhazujte odpadky, netlačte se
+- Někdy přijde policie = jen vás poprosí přesunout se (není pokuta)
+- **Nejlepší období:** Květen = ještě ne vysoká sezóna, méně kontrol
+
+---
+
+#### 🥈 LEUCATE (Francie) - Camper Friendly
+
+**Free camping:**
+- ⚠️ Francie = přísnější než Španělsko
+- Možné u pláže mimo sezónu (květen = OK)
+- **La Franqui beach parking** - někdy tolerují přes noc
+
+**Oficiální camper parking:**
+- **Aire de camping-car Leucate** - 400-600 Kč/noc
+- **Camping La Palmeraie** - 700-900 Kč/noc (s elektřinou)
+- **Park4Night app** - najdete spoustu free spots!
+
+---
+
+#### 🥉 LAGO DI GARDA (Itálie) - Dražší, ale možné
+
+**Free camping:**
+- ❌ Itálie = hodně přísná na free camping (pokuty!)
+- Nedoporučuji riskovat
+
+**Oficiální camper parking:**
+- **Camping Zoo** (Arco) - 800-1200 Kč/noc
+- **Al Cor** (Torbole) - 900-1400 Kč/noc
+- **Spiaggia Lago** - 700-1000 Kč/noc
+- **Pozor:** Lago di Garda = turistická oblast = vyšší ceny!
+
+---
+
+#### 🌴 VIGANJ (Chorvatsko) - Free Camping možný!
+
+**Free camping:**
+- ✅ **Viganj beach parking** - tolerované přes noc
+  - Hodně camper vanů tam spí
+  - Sprchy na pláži (kite/wind školy)
+  - Někdy přijde strážník = poprosí o přesun (ne pokuta)
+
+**Oficiální camper parking:**
+- **Autocamp Antony** - 500-800 Kč/noc
+- **Camp Ponta** - 600-900 Kč/noc
+- **Camp Nevio** - 400-700 Kč/noc (levnější)
+
+---
+
+### 📱 Užitečné Aplikace pro Free Camping
+
+1. ✅ **Park4Night** - nejlepší app pro free camping spots
+   - Hodnocení od ostatních camperů
+   - GPS souřadnice
+   - Fotky + komentáře
+
+2. ✅ **iOverlander** - podobné Park4Night
+   - Hlavně pro Španělsko/Portugalsko
+   - Wing foiling spoty často zmíněné
+
+3. ✅ **Campercontact** - evropská databáze
+   - Free spots + oficiální campingy
+   - Ceny a vybavení
+
+---
+
+### 🚐 Co potřebujete v obytném autě
+
+**Základní vybavení:**
+- ✅ **Postel/spaní** (matrace, spacák)
+- ✅ **Vařič** (plynový nebo benzínový)
+- ✅ **Nádobí** (hrnec, pánev, příbory)
+- ✅ **Lednice/chladicí box** (pokud možno)
+- ✅ **Voda** (kanystr 20L + pitná voda)
+- ✅ **Solární panel** (nabíjení telefonu/laptop)
+- ✅ **Chemické WC nebo lopatka** (pro nouzi)
+
+**Pro wing foiling:**
+- ✅ **Střešní nosiče** nebo velký vnitřní prostor
+- ✅ **Sprcha na zádi** (opláchnout se po wingu = gold!)
+- ✅ **Síť proti komárům** (letní noci)
+
+**⚠️ Bezpečnost:**
+- ✅ **Zámky na dveře** (gear = cenné!)
+- ✅ **Clona/záclonky na okna** (soukromí)
+- ✅ **Alarm** (nebo alespoň fake blikající LED)
+
+---
+
+### 💡 Tipy pro levné obytné auto
+
+**Pokud nemáte vlastní camper van:**
+
+1. **Pronájem obytného auta:**
+   - **YesCapa**, **Goboony** - peer-to-peer pronájem
+   - Cena: ~1500-2500 Kč/den (10 dní = 15-25 tisíc Kč)
+   - ✅ I tak výhodnější než hotel + restaurace!
+
+2. **DIY: Přestavět vlastní auto:**
+   - Velký Volkswagen Caddy, Fiat Ducato, Mercedes Sprinter
+   - Matrace + vařič + základy = stačí!
+   - Wing foiling komunita = hodně DIY camperů
+
+3. **Kamarád s camperem:**
+   - Půjčit/pronajmout od kamaráda
+   - Split costs = ještě levnější
+
+---
+
+## 💰 Srovnání: KLASIKA vs. OBYTNÉ AUTO
+
+**Příklad: 10 dní Tarifa, 1 osoba, vlastní wing setup**
+
+| Varianta | Cesta | Ubytování | Jídlo | Wing | **CELKEM** |
+|----------|-------|-----------|-------|------|-----------|
+| **Klasika** (apartmán) | 16 500 Kč | 9 000 Kč | 8 000 Kč | 0 Kč | **33 500 Kč** |
+| **Obytné auto** (free camping) | 17 500 Kč | 0 Kč | 3 000 Kč | 0 Kč | **20 500 Kč** |
+| **Úspora s camperem:** | | | | | **-13 000 Kč!** ✅ |
+
+**S pronájmem obytného auta (10 dní × 2000 Kč = 20 000 Kč):**
+| Varianta | Cesta | Pronájem camper | Ubytování | Jídlo | **CELKEM** |
+|----------|-------|----------------|-----------|-------|-----------|
+| **Pronájem camper** | 17 500 Kč | 20 000 Kč | 0 Kč | 3 000 Kč | **40 500 Kč** |
+| **Klasika** (apartmán) | 16 500 Kč | - | 9 000 Kč | 8 000 Kč | **33 500 Kč** |
+
+**Závěr:**
+- ✅ **Vlastní camper = obrovská úspora!** (-13 000 Kč)
+- ⚠️ **Pronájem camper = podobné náklady** jako apartmán
+- ✅ **Ale:** Camper = více svobody + vařit vlastní jídlo + lepší zážitek!
+
+---
+
 ## 🎯 Moje Doporučení - Který Spot Vybrat?
 
 ### Pro 100% garantovaný vítr → **TARIFA** 🏆
