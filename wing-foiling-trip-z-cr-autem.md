@@ -82,9 +82,43 @@ Praha → Mnichov → Lyon → Narbonne → Barcelona → Valencia → Tarifa
   - Vzduch: **20-24°C**
   - Voda: **17-19°C** (3/2 wetsuit doporučuji)
 - 🏖️ **Spoты:**
-  - **La Franqui** - hlavní wing spot, flat water laguna
+  - **La Franqui** - hlavní wing spot, flat water laguna ⭐
   - **Leucate Plage** - větší vlny, když fouká silněji
   - **Coussoules** - menší laguna, bezpečnější pro začátečníky
+
+#### 🌊 LAGUNA - Proč je Leucate/La FranquiSpecielní:
+
+**Étang de Leucate** (laguna):
+- 🏞️ **Obrovská slaná laguna** - 54 km² plocha!
+- 💧 **Spojená se Středozemním mořem** (úzké průlivy)
+- 🌊 **Flat water paradise** - i při silném větru (30+ knots) je voda relativně klidná
+- 🏖️ **Mělká voda** u břehu (1-2m) = bezpečné učení
+
+**Jak to funguje:**
+```
+Sever (Tramontana) ↓
+     ═══════════════════════
+     ║  LAGUNA (flat)    ║ ← La Franqui spot (IDEÁLNÍ!)
+     ║  Étang de Leucate ║
+     ═══════════════════════
+          ↓↓↓ úzký průliv
+     ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
+     Středozemní moře (vlny)
+```
+
+**Pro wing foiling:**
+- ✅ **La Franqui beach** = na severu laguny (Tramontana = side-shore)
+- ✅ **Flat water** - perfektní pro foiling (žádné vlny = lehčí start)
+- ✅ **Bezpečné** - mělká laguna, vidíte dno
+- ✅ **Velký prostor** - můžete jezdit hodiny, pořád místo
+- ✅ **Začátečníci i pokročilí** - mělko u břehu, hlouběji dál
+
+**Konkrétní podmínky v laguně:**
+- **Vítr:** Tramontana fouká přes celou lagunu = stabilní 15-30 knots
+- **Vlny:** Minimální! (0.5-1m max, většinou flat)
+- **Dno:** Písek (ne kameny!)
+- **Teplota:** 17-19°C v květnu (chladnější než moře)
+- **Slanost:** Stejná jako moře (protože je spojená)
 
 #### Praktické info:
 | Položka | Detail |
@@ -283,17 +317,72 @@ Praha → Vídeň → Graz → Ljubljana → Rijeka → Split → Viganj
 
 ---
 
-#### 🥈 LEUCATE (Francie) - Camper Friendly
+#### 🥈 LEUCATE (Francie) - Camper Friendly ✅
 
-**Free camping:**
-- ⚠️ Francie = přísnější než Španělsko
-- Možné u pláže mimo sezónu (květen = OK)
-- **La Franqui beach parking** - někdy tolerují přes noc
+**ANO, můžete spát v karavanu!** Leucate je **camper-friendly** destinace.
 
-**Oficiální camper parking:**
-- **Aire de camping-car Leucate** - 400-600 Kč/noc
-- **Camping La Palmeraie** - 700-900 Kč/noc (s elektřinou)
-- **Park4Night app** - najdete spoustu free spots!
+**Free camping (květen = mimo sezónu):**
+- ⚠️ Francie = přísnější než Španělsko, ale **v květnu tolerují**
+- ✅ **La Franqui beach parking (P1)** - přímo u pláže
+  - Adresa: Parking de la Plage, Avenue du Roussillon, La Franqui
+  - **Často tolerují přes noc** v květnu (červenec/srpen = zákaz)
+  - Velké parkoviště, hodně windsurferů/wingerů spí v autech
+  - Sprchy/WC: Na pláži (wing školy)
+  - **Cena: 0-10 €/noc** (někdy zpoplatněné, ale levné)
+
+- ✅ **Parking Coussoules** - u menší laguny
+  - Klidnější než La Franqui
+  - Free nebo symbolický poplatek
+
+**Oficiální camper parking (Aires de camping-car):**
+
+1. **Aire CC Leucate Village** ⭐ DOPORUČUJI
+   - Adresa: Avenue de la Méditerranée, 11370 Leucate
+   - **Cena: 8-12 €/noc** (~200-300 Kč)
+   - Elektřina: +3 € (~75 Kč)
+   - Voda/dump: Ano (zdarma v ceně)
+   - WiFi: Ne
+   - **Vzdálenost k La Franqui:** 3 km (5 min autem)
+   - **Výhoda:** Levné, oficiální, bezpečné
+
+2. **Camping La Palmeraie** (klasický camping)
+   - Adresa: Route de Leucate Plage, 11370 Leucate
+   - **Cena: 25-35 €/noc** (~625-875 Kč)
+   - Elektřina: Zahrnuto
+   - Sprchy/WC: Ano (moderní)
+   - WiFi: Ano
+   - Bazén: Ano
+   - **Vzdálenost k La Franqui:** 2 km
+   - **Výhoda:** Komfort, ale dražší
+
+3. **Camping Les Coussoules**
+   - **Cena: 20-30 €/noc** (~500-750 Kč)
+   - Přímo u laguny
+   - Základní vybavení
+   - **Výhoda:** Blízko vody
+
+**Moje doporučení pro Leucate camper:**
+- 💰 **Nejlevnější:** Free camping u La Franqui P1 (0-10 €/noc)
+- 🏆 **Nejlepší poměr:** Aire CC Leucate Village (8-12 €/noc)
+- 🌟 **Komfort:** Camping La Palmeraie (25-35 €/noc)
+
+**Celkové náklady ubytování (10 nocí v karavanu):**
+| Varianta | Cena/noc | 10 nocí | V Kč |
+|----------|----------|---------|------|
+| **Free camping** (P1) | 0-10 € | 0-100 € | **0-2 500 Kč** ✅ |
+| **Aire CC Leucate** | 8-12 € | 80-120 € | **2 000-3 000 Kč** |
+| **Camping komfort** | 25-35 € | 250-350 € | **6 250-8 750 Kč** |
+
+**Pro srovnání - apartmán v Leucate:**
+- Airbnb/apartmán: **50-80 €/noc** (1 250-2 000 Kč)
+- 10 nocí: **500-800 €** (12 500-20 000 Kč)
+- **➡️ Camper ušetří 10-18 tisíc Kč!** 💰
+
+**Praktické tipy:**
+- ✅ **Park4Night app** - najdete další free spots s hodnocením
+- ✅ **Květen = ideální** - mimo sezónu, tolerují free camping
+- ✅ **Červenec/Srpen** = oficiální campingy nutné (kontroly!)
+- ✅ **Supermarket:** Intermarché v Leucate (5 min od La Franqui)
 
 ---
 
