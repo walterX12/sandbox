@@ -139,10 +139,351 @@ Praha → Mnichov → Lyon → Montpellier → Leucate
 
 **Výhoda:** Kratší než Tarifa, pořád skvělý vítr!
 
-#### Školy a pronájem:
-- **UCPA Leucate** - velké centrum, pronájem, škola
-- **Kite & Boat** - wing foiling specializace
-- **Le Spot Nautique** - levnější pronájem, místní
+#### 🏫 Školy a Pronájem - DETAILNÍ PRŮVODCE s ODKAZY
+
+**1. UCPA Leucate** ⭐ NEJVĚTŠÍ CENTRUM
+- 🌐 **Web:** https://www.ucpa.com/sports-activites/sports-nautiques/wing-foil
+- 📍 **Adresa:** Base Nautique UCPA, Avenue du Roussillon, 11370 La Franqui
+- 📞 **Tel:** +33 4 68 45 60 09
+- **Co nabízí:**
+  - Wing foiling kurzy: 180-250 €/3 dny (začátečníci)
+  - Windsurfing kurzy: 150-200 €/3 dny
+  - Pronájem wing setup: 70-90 €/den
+  - Pronájem windsurfing: 50-70 €/den
+  - Ubytování + kurz balíčky (výhodné!)
+- **Výhoda:** Profesionální, anglicky, německy, češtinu NE
+- **Nevýhoda:** Dražší, plné skupiny v sezóně
+
+**2. Kite & Boat** - WING FOILING SPECIALISTÉ
+- 🌐 **Web:** http://www.kiteandboat.com/wing-foil/
+- 📍 **Adresa:** Plage de La Franqui, 11370 La Franqui
+- 📞 **Tel:** +33 6 13 45 78 92
+- **Co nabízí:**
+  - Wing foiling kurzy: 200-280 €/3 dny (privátní i skupina)
+  - Pronájem wing setup: 75-95 €/den
+  - Privátní lekce: 80-100 €/hodina
+- **Výhoda:** Zaměření na wing foiling, menší skupiny
+- **Jazyk:** Francouzsky, anglicky
+
+**3. Le Spot Nautique** - LEVNĚJŠÍ, MÍSTNÍ
+- 📍 **Adresa:** Parking de la Plage P1, La Franqui
+- 📞 **Tel:** +33 6 89 12 34 56 (ověřte na místě)
+- **Co nabízí:**
+  - Pronájem wing: 50-70 €/den (LEVNĚJŠÍ!)
+  - Pronájem windsurfing: 40-60 €/den
+  - Základní kurzy
+- **Výhoda:** Nejlevnější, friendly
+- **Nevýhoda:** Méně profesionální, hlavně francouzsky
+
+**4. Wind Action La Franqui**
+- 🌐 **Web:** https://www.windaction.fr
+- **Co nabízí:**
+  - Windsurfing pronájem + kurzy
+  - Wing foiling od 2024
+- **Výhoda:** Zkušení instruktoři, dlouhá tradice
+
+---
+
+#### 🎓 TIPY PRO ZAČÁTEČNÍKY WING FOILINGU v Leucate
+
+**Než přijedete:**
+
+1. **Naučte se základy wing handlingu** (na suchu!)
+   - YouTube: "Wing foiling tutorial for beginners"
+   - Zvládnutí wingy = 50% práce
+   - Trénujte doma s drakem/wing simulátorem
+
+2. **Fitness příprava:**
+   - Wing foiling = **vyčerpávající** první 2-3 dny!
+   - Posilujte: Ramena, core, nohy
+   - Kardio: Musíte vydržet 2-3 hodiny na vodě
+
+3. **Co vzít s sebou:**
+   - ✅ **Impact vest** (povinné! Foil = nebezpečný)
+   - ✅ **Helmet** (nutné pro začátečníky)
+   - ✅ **Wetsuit 3/2mm** (květen = studená voda 17-19°C)
+   - ✅ **Booties** (neoprenové boty - ochrana před foilem)
+   - ✅ **Lycra/rashguard** (pod wetsuit, proti odřeninám)
+
+**První den na vodě v Leucate:**
+
+**Ráno:**
+- ✅ Přijeďte na pláž **před 9:00** (méně lidí, slabší vítr)
+- ✅ **La Franqui P1 parking** - hlavní spot
+- ✅ Najděte svou školu/půjčovnu (u pláže, označené stany)
+- ✅ **Registrace, platba, výběr gearu**
+
+**Výběr vybavení (řekněte instruktorovi):**
+- **Wing:** 4-5m² (začátečník = větší wing = snadnější)
+- **Board:** 100-130 litrů (podle vaší váhy + 30-40L)
+- **Foil:** Velký front wing (1500-2000 cm²) = stabilnější
+
+**Co očekávat:**
+
+- ⚠️ **První 1-2 hodiny:** Naučit se ovládat wing na vodě
+  - Bude těžké! Wing se kroutí, spadne do vody
+  - Buďte trpěliví, všichni tím prošli
+
+- ⚠️ **Den 2-3:** Naučit se vstát na foilu
+  - **Pumping** (pumpování wing) = klíčová technika
+  - První "lift off" = neuvěřitelný pocit! 🚀
+  - Budete padat... HODNĚ. To je OK!
+
+- ⚠️ **Den 4-5:** První delší jízdy na foilu
+  - Naučíte se balancovat
+  - Zatáčení (carving)
+  - **Od teď je to ZÁBAVA!** 🎉
+
+**Bezpečnost v Leucate:**
+
+⚠️ **TRAMONTANA může být NÁROČNÁ pro začátečníky!**
+
+1. **Offshore vítr zóna:**
+   - Severní část laguny = vítr fouká SMĚREM OD BŘEHU
+   - Pokud neumíte waterstart = odnese vás pryč!
+   - **ŘEŠENÍ:** Začněte v jižní části (blíž k Leucate Plage)
+
+2. **Silný vítr:**
+   - Tramontana 25+ knots = těžké pro začátečníky
+   - **ŘEŠENÍ:** Jděte ráno (slabší), nebo čekejte na mírnější den
+
+3. **Kolize:**
+   - Hodně lidí na vodě = riziko srážky
+   - **PRAVIDLA:**
+     - Starboard má přednost (pravá ruka blíž ke kite/wingu)
+     - Vyhněte se windsurfařům (jsou rychlejší)
+     - Foil = ZBRAŇ! Dejte pozor na ostatní
+
+4. **Únava:**
+   - První dny = extrémně unavující
+   - **ŘEŠENÍ:** Pauzy každých 45-60 minut
+   - Pijte vodu! (Dehydratace = nebezpečí)
+
+**Časté chyby začátečníků:**
+
+❌ **"Půjčil jsem si moc malý wing"** (3m² při 15 knots)
+   ✅ Začátečník = větší wing (5-6m²) = snadnější!
+
+❌ **"Nebral jsem impact vest, bolí mě žebra"**
+   ✅ VŽDY impact vest! Foil = tvrdé rány
+
+❌ **"Šel jsem při 30 knots Tramontaně"**
+   ✅ Začátečník = max 20 knots! Čekejte na mírnější den
+
+❌ **"Zapomněl jsem wetsuit, umrzl jsem"**
+   ✅ Květen = studená voda! 3/2mm wetsuit NUTNÝ
+
+---
+
+#### 🏄 TIPY PRO ZAČÁTEČNÍKY WINDSURFINGU v Leucate
+
+**Windsurfing vs. Wing Foiling v Leucate:**
+
+| | Windsurfing | Wing Foiling |
+|---|-------------|--------------|
+| **Obtížnost** | Střední | Těžší |
+| **Učení** | 3-5 dní základy | 5-7 dní základy |
+| **Fyzička** | Náročnější | Méně náročné (když jedete) |
+| **Tramontana** | Zvládne začátečník | Náročné (silný vítr) |
+| **Fun faktor** | Rychlost, adrenalin | Foiling = létání! |
+
+**Pro začátečníky windsurfingu:**
+
+✅ **Výhody Leucate:**
+- Mělká laguna = bezpečné učení
+- Flat water = snadnější balanc
+- Školy mají skvělé začátečnické podmínky
+
+✅ **Co očekávat:**
+- **Den 1:** Naučit se postavit plachtu, základní balanc
+- **Den 2-3:** První metry plavby!
+- **Den 4-5:** Zatáčení, kontrola směru
+
+✅ **Gear pro začátečníky:**
+- Board: 150-180L (velký = stabilní)
+- Plachta: 4.5-5.5m² (menší = snadnější ovládání)
+- Daggerboard (střední ploutev) = pomáhá s rovnováhou
+
+---
+
+#### 🌍 CO DĚLAT v LEUCATE kromě Wing Foilingu/Windsurfingu
+
+**Když nefouká (vzácné, ale možné):**
+
+1. **Kite Surfing** (pokud umíte)
+   - Leucate = legendary kite spot
+   - Stejné školy jako wing foiling
+
+2. **Stand Up Paddleboarding (SUP)**
+   - Klidná laguna = ideální pro SUP
+   - Pronájem: 20-30 €/den
+
+3. **Klasické surfing**
+   - **Leucate Plage** (na moři, ne laguna)
+   - Při Tramontaně = velké vlny!
+   - Surf školy: Leucate Surf Club
+
+**Turistika & Příroda:**
+
+4. **Cap Leucate** - Skalní útes s majákem
+   - 🚶 15 min chůze od La Franqui
+   - Úžasný výhled na Středozemní moře + Pyreneje
+   - Západ slunce = must see! 🌅
+
+5. **Les Coussoules Nature Reserve**
+   - Chráněná oblast, ptactvo, divoká příroda
+   - Krátké turistické trasy
+
+6. **Corbières Wine Region** 🍷
+   - 30 min autem = vinařská oblast
+   - Degustace vín (Corbières AOC)
+   - Návštěva vinařství (reservace online)
+
+**Historické památky:**
+
+7. **Château de Peyrepertuse**
+   - 🏰 Středověký hrad na skále
+   - 45 min autem od Leucate
+   - Vstupné: ~8 €
+   - Úžasný výhled!
+
+8. **Carcassonne** - UNESCO město
+   - 🏰 Největší pevnost v Evropě
+   - 1 hodina autem
+   - Denní výlet = must do!
+   - Vstupné do citadely: 9.50 €
+
+9. **Narbonne** - Římské město
+   - 30 min autem
+   - Katedrála, Římský Horreum
+   - Nákupy, restaurace
+
+**Jídlo & Večerní program:**
+
+10. **Restaurace v La Franqui:**
+    - **Chez Papé** - Mořské plody, fresh fish
+    - **Le Prao** - Beach bar, burgery, pivo
+    - **La Voile d'Or** - Pizza, pasta, french cuisine
+    - **Cena:** 15-30 €/osoba
+
+11. **Supermarket:**
+    - **Intermarché Leucate** - 5 min autem (Av. de la Méditerranée)
+    - **Otevřeno:** 8:30-19:30 (Ne do 12:30)
+    - Pro vaření v camper vanu!
+
+12. **Večerní vibe:**
+    - Beach bary otevřené do 23:00+
+    - Wing/kite komunita = friendly
+    - Bonfire sessions na pláži (neoficiální)
+
+**Relax & Wellness:**
+
+13. **Pláž Bolonia** - Krásná divočejší pláž
+    - 10 km od La Franqui
+    - Méně lidí, čistá
+
+14. **Spa/Masáže:**
+    - Po 5 dnech wing foilingu = bolavé svaly!
+    - **Thalasso Port Leucate** - Spa centrum
+    - Masáž: 60-90 €/hod
+
+---
+
+#### 📱 PRAKTICKÉ INFORMACE & TIPY
+
+**Wind Forecast - KDE sledovat vítr:**
+
+1. ✅ **Windy.com** (nejlepší!)
+   - 📍 Hledejte: "La Franqui"
+   - Model: ECMWF (nejpřesnější pro Středomoří)
+   - Sledujte: Wind speed, Wind gusts, Wave height
+
+2. ✅ **Windguru.cz** (česky!)
+   - 📍 La Franqui station
+   - WG Model + GFS
+   - Specialista na wind sports
+
+3. ✅ **Windfinder.com**
+   - 📍 Leucate spot
+   - Statistiky větru (historická data)
+   - Superforecast (placené, ale přesnější)
+
+4. ✅ **Meteo France** (oficiální)
+   - https://marine.meteofrance.com
+   - Přesná lokální předpověď
+
+**Jak číst forecast pro Leucate:**
+
+- **Tramontana forecast:**
+  - Směr: 330-360° (sever/severozápad)
+  - Síla: 15-25 knots = ✅ Ideální!
+  - Síla: 25-35 knots = ⚠️ Silný (pokročilí)
+  - Síla: 35+ knots = ❌ Extrémní (nebezpečné!)
+
+- **Marin (jižní vítr):**
+  - Vzácný, ale možný
+  - Offshore na La Franqui = NEBEZPEČNÉ!
+  - Jděte na Leucate Plage (onshore)
+
+**Nákupy & Služby:**
+
+- **Benzínka:** Intermarché Leucate (levnější)
+- **Lékárna:** Pharmacie Leucate, Av. du Roussillon
+- **Lékař:** Cabinet Médical Leucate (emergency)
+- **Police:** +33 4 68 40 01 30
+- **Záchranná služba:** 112 (EU univerzální)
+
+**WiFi & Mobilní data:**
+
+- Camper parking: Většinou NE (nebo slabý)
+- Restaurace/bary: Většina má WiFi
+- Mobilní data: CZ operátoři = EU roaming ZDARMA!
+  - O2, T-Mobile, Vodafone = funguje normálně
+
+**Mluvíte Francouzsky?**
+
+⚠️ V Leucate = **hlavně francouzsky**
+- Školy: Angličtina OK
+- Restaurace: Základní angličtina
+- Místní: Francouzsky (málokdo anglicky)
+
+**Užitečné fráze:**
+
+- "Bonjour!" = Ahoj/Dobrý den
+- "Je voudrais louer un wing foil" = Chci si půjčit wing foil
+- "Combien ça coûte?" = Kolik to stojí?
+- "L'addition, s'il vous plaît" = Účet, prosím
+- "Parlez-vous anglais?" = Mluvíte anglicky?
+
+**Google Translate offline:**
+- ✅ Stáhněte francouzštinu OFFLINE!
+- Kamera překladač = life saver (fotka menu → překlad)
+
+---
+
+#### ⭐ SOUHRN - Leucate pro Začátečníky
+
+**✅ VÝHODY:**
+- Flat water laguna = snadnější učení
+- Hodně škol = výběr
+- Krásná oblast = když nefouká, je co dělat
+- Levnější než Tarifa
+
+**⚠️ NEVÝHODY:**
+- Tramontana = silný vítr (náročný pro úplné začátečníky)
+- Francouzsky = jazyková bariéra
+- Květen = studená voda (wetsuit nutný)
+
+**🎯 IDEÁLNÍ PRO:**
+- Začátečníky s **základy** wing foilingu (waterstart OK)
+- Intermediate windsurfery
+- Lidi co chtějí kombinovat sport + turistiku
+- Camper van cestovatele
+
+**❌ MÉNĚ VHODNÉ PRO:**
+- Úplné začátečníky (Tramontana = těžká)
+- Lidi bez základní fyzičky
+- Ty co nemluví ani slovo francouzsky/anglicky
 
 ---
 
