@@ -3,14 +3,18 @@
 ## Obsah
 1. [Malá elektroauta pro 4-5 osob](#malá-elektroauta-pro-4-5-osob)
 2. [Aktivní vs pasivní chlazení baterie](#aktivní-vs-pasivní-chlazení-baterie)
-3. [Stav baterie po 100 000 km](#stav-baterie-po-100-000-km)
-4. [BMW i3 – karbon a koroze](#bmw-i3--karbon-a-koroze)
-5. [Elektroauta která nerezaví](#elektroauta-která-nerezaví)
-6. [Upgrade baterie](#upgrade-baterie)
-7. [Náklady na údržbu: Elektro vs Diesel](#náklady-na-údržbu-elektro-vs-diesel)
-8. [Náklady na opotřebení baterie na 1 km](#náklady-na-opotřebení-baterie-na-1-km)
-9. [Elektrické dodávky](#elektrické-dodávky)
-10. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
+3. [Rizika aktivního chlazení – BMW i3 vs Leaf](#rizika-aktivního-chlazení--bmw-i3-vs-leaf)
+4. [Stav baterie po 100 000 km](#stav-baterie-po-100-000-km)
+5. [BMW i3 – karbon a koroze](#bmw-i3--karbon-a-koroze)
+6. [BMW i3 – typické poruchy](#bmw-i3--typické-poruchy)
+7. [Elektroauta která nerezaví](#elektroauta-která-nerezaví)
+8. [Upgrade baterie](#upgrade-baterie)
+9. [Náklady na údržbu: Elektro vs Diesel](#náklady-na-údržbu-elektro-vs-diesel)
+10. [Náklady na opotřebení baterie na 1 km](#náklady-na-opotřebení-baterie-na-1-km)
+11. [Hmotnost baterií](#hmotnost-baterií)
+12. [Elektrické dodávky](#elektrické-dodávky)
+13. [Open source software pro Nissan Leaf](#open-source-software-pro-nissan-leaf)
+14. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
 
 ---
 
@@ -86,6 +90,57 @@
 - Renault Zoe
 - VW e-Golf
 - BMW i3 má **vodní chlazení** ✅
+
+---
+
+## Rizika aktivního chlazení – BMW i3 vs Leaf
+
+### Srovnání rizik
+
+| Faktor | BMW i3 (aktivní chlazení) | Nissan Leaf (bez chlazení) |
+|--------|---------------------------|---------------------------|
+| **Riziko AC kompresoru** | ⚠️ ANO – může zničit baterii | ❌ NE – žádný sdílený okruh |
+| **Degradace baterie** | ~5-10% za 200 000 km | ~20-30% za 200 000 km |
+| **Náklady na baterii** | Vydrží déle | Musíte dříve měnit |
+| **Rychlonabíjení** | Plný výkon stále | Zpomaluje se |
+
+### Kalkulace nákladů za 200 000 km
+
+**BMW i3 (s chlazením):**
+```
+Baterie:        Vydrží (degradace jen 10%)     = 0 Kč
+AC kompresor:   Riziko ~30% že selže
+  - Pokud OK:                                  = 0 Kč
+  - Pokud selže (jen kompresor):              = ~80 000 Kč
+  - Pokud zničí baterii:                      = ~250 000 Kč
+
+Průměrné riziko: ~30% × 80-250 tis. = ~25-75 tis. Kč
+```
+
+**Nissan Leaf (bez chlazení):**
+```
+Baterie:        Degraduje na 70-75%
+  - Snížený dojezd = nutnost výměny           = ~170 000 Kč
+AC kompresor:   Žádné riziko pro baterii      = 0 Kč
+
+Jistá investice: ~170 000 Kč
+```
+
+### Důležitý rozdíl
+
+| Problém | BMW i3 | Nissan Leaf |
+|---------|--------|-------------|
+| **Kdy nastane** | Náhle, nepředvídatelně | Postupně, předvídatelně |
+| **Jak poznat** | Hučení → rychle reagovat | SOH klesá → plánujete |
+| **Opravitelnost** | Složité, drahé | Jednoduchá výměna baterie |
+
+### Nejlepší řešení: Hyundai Kona / Kia e-Niro
+
+Tyto vozy mají **aktivní chlazení** s **odděleným okruhem**:
+- ✅ Baterie se chladí = pomalá degradace
+- ✅ AC kompresor nemůže zničit baterii
+- ✅ 5 míst
+- ✅ Nejlepší z obou světů!
 
 ---
 
@@ -176,6 +231,70 @@
 | Hmotnost | 1 300 kg | 1 500-1 600 kg |
 | Míst | 4 | 5 |
 | Koroze | Prakticky žádná | Standardní |
+
+---
+
+## BMW i3 – typické poruchy
+
+### Přehled typických poruch
+
+| Součást | Závažnost | Cena opravy | Frekvence |
+|---------|-----------|-------------|-----------|
+| **AC kompresor** | ⚠️ KRITICKÁ | 60-500+ tis. Kč | Častá |
+| Vyhřívání sedaček | Nízká | 5-15 tis. Kč | Častá |
+| Brzdy (koroze kotoučů) | Střední | 5-15 tis. Kč | Běžná |
+| DC-DC měnič | Střední | 20-40 tis. Kč | Občas |
+| Posilovač řízení | Střední | 15-30 tis. Kč | Vzácná |
+| 12V baterie | Nízká | 5-8 tis. Kč | Běžná |
+| Range Extender (REX) | Vysoká | 20-100 tis. Kč | U REX verze |
+
+### ⚠️ KRITICKÁ PORUCHA: AC kompresor ("Black Death")
+
+**Toto je největší riziko BMW i3!**
+
+```
+AC kompresor → selhání → úlomky v chladicím okruhu → ucpání chlazení baterie → ZNIČENÁ BATERIE
+```
+
+| Scénář | Cena opravy |
+|--------|-------------|
+| Jen AC kompresor | ~60-100 tis. Kč |
+| Kompresor + čištění systému | ~100-150 tis. Kč |
+| Kompresor + poškozená baterie | **200-500+ tis. Kč** |
+
+**Proč je to tak vážné:**
+- BMW i3 má **společný chladicí okruh** pro AC a baterii
+- Když kompresor selže, úlomky se dostanou do chlazení baterie
+- BMW **nepoužilo filtr/past na úlomky** (standardní u jiných aut)
+
+**Varovné signály:**
+- Hlasité hučení/bučení při zapnuté klimatizaci
+- AC nechladí správně
+- Chybová hláška klimatizace
+
+### Co na i3 NEVYDRŽÍ dlouho
+
+| Součást | Životnost | Poznámka |
+|---------|-----------|----------|
+| AC kompresor | 60-100 tis. km | Hlavní riziko! |
+| 12V baterie | 3-5 let | Běžná výměna |
+| Brzdy (kotouče) | 100-150 tis. km | Korodují |
+
+### Co na i3 VYDRŽÍ prakticky věčně
+
+| Součást | Životnost | Poznámka |
+|---------|-----------|----------|
+| Karoserie | ∞ | Karbon + hliník = nerezaví |
+| Elektromotor | 500+ tis. km | Prakticky nezničitelný |
+| Převodovka | 500+ tis. km | Jednorychostní, jednoduchá |
+| Baterie | 300+ tis. km | Aktivní chlazení = dlouhá životnost |
+
+### Doporučení při koupi BMW i3
+
+1. **Kupujte BEV verzi** (bez Range Extenderu)
+2. **Nechte zkontrolovat AC systém** před koupí
+3. **Zjistěte historii** – byl kompresor měněn?
+4. **Rezerva na AC opravu** – mějte 100 tis. Kč stranou
 
 ---
 
@@ -383,6 +502,52 @@ CELKEM:    ~180 000 Kč úspora
 
 ---
 
+## Hmotnost baterií
+
+### Přehled hmotnosti baterií podle modelů
+
+| Model | Baterie | Hmotnost baterie | kg/kWh |
+|-------|---------|------------------|--------|
+| **Nissan Leaf** | 24 kWh | ~175 kg | 7,3 |
+| **Nissan Leaf** | 40 kWh | ~300 kg | 7,5 |
+| **Nissan Leaf** | 62 kWh | ~450 kg | 7,3 |
+| **BMW i3** | 42 kWh | ~230 kg | 5,5 |
+| **Hyundai Kona** | 64 kWh | ~450 kg | 7,0 |
+| **Tesla Model 3 SR** | 57 kWh | ~350 kg | 6,1 |
+| **Tesla Model 3 LR** | 75 kWh | ~480 kg | 6,4 |
+
+### Elektrické dodávky
+
+| Model | Baterie | Hmotnost baterie | kg/kWh |
+|-------|---------|------------------|--------|
+| **e-NV200** | 40 kWh | ~300 kg | 7,5 |
+| **e-Ducato** | 47 kWh | ~400 kg | 8,5 |
+| **e-Ducato** | 79 kWh | ~600 kg | 7,6 |
+| **e-Ducato** | 110 kWh | ~800 kg | 7,3 |
+| **eSprinter** | 113 kWh | **~850 kg** | 7,5 |
+
+### Dvojnásobná baterie v dodávce – kalkulace
+
+| Varianta | Baterie | Hmotnost bat. | Dojezd | Užit. hmotnost* |
+|----------|---------|---------------|--------|-----------------|
+| **Standardní** | 79 kWh | ~600 kg | ~340 km | ~1350 kg |
+| **Dvojnásobná** | 158 kWh | ~1200 kg | ~680 km | **~750 kg** |
+
+*při celkové hmotnosti 3,5 t
+
+**Problém:** S dvojnásobnou baterií v 3,5t dodávce zbyde jen ~150-750 kg užitečné hmotnosti!
+
+**Řešení:** Verze 4,25 t (ale potřebujete řidičák C1)
+
+### Budoucnost – lehčí baterie
+
+| Technologie | kg/kWh | 100 kWh baterie |
+|-------------|--------|-----------------|
+| Dnešní NMC | 6-8 kg/kWh | 600-800 kg |
+| **Solid-state** (2027-2030) | 3-4 kg/kWh | **300-400 kg** |
+
+---
+
 ## Elektrické dodávky
 
 ### Malé a střední dodávky (dostupné jako ojetiny)
@@ -455,6 +620,109 @@ H3 ─────┼───────┼───────┼───�
 ⚠️ **Zatím vzácné!** Výroba začala 2020-2021, většina vozů stále u prvních majitelů.
 
 Očekávaná dostupnost ojetin: **2026-2027** (konec firemních leasingů)
+
+---
+
+## Open source software pro Nissan Leaf
+
+Nissan Leaf má jednu z **nejaktivnějších open source komunit** mezi elektromobily. Pro programátora je to ideální auto na hraní.
+
+### Hlavní projekty na GitHubu
+
+#### 1. Leaf Spy Live
+**[github.com/apreb/leafspy-live](https://github.com/apreb/leafspy-live)**
+- Vizualizace live dat z Leaf Spy
+- Mapa tras s live statistikami
+- SOC, GIDS, kWh, teplota baterie
+
+#### 2. Nissan-Leaf-Battery-to-OBD2
+**[github.com/dalathegreat/Nissan-Leaf-Battery-to-OBD2](https://github.com/dalathegreat/Nissan-Leaf-Battery-to-OBD2)**
+- Připojení OBD2 přímo k baterii (mimo auto)
+- Čtení dat z battery packu
+- Užitečné pro DIY projekty s použitými bateriemi
+
+#### 3. Nissan-Leaf-BatteryPairing
+**[github.com/dalathegreat/Nissan-Leaf-BatteryPairing](https://github.com/dalathegreat/Nissan-Leaf-BatteryPairing)**
+- Párování nových/jiných baterií
+- Excel VBA makro generující CAN příkazy
+- Podpora ZE0 a AZE0
+
+#### 4. leaf (Go knihovna)
+**[github.com/joeshaw/leaf](https://github.com/joeshaw/leaf)**
+- Go package pro NissanConnect API
+- Čtení stavu baterie
+- Vzdálené spuštění nabíjení/klimatizace
+
+#### 5. leaf2mqtt
+**[github.com/yp87/leaf2mqtt](https://github.com/yp87/leaf2mqtt)**
+- Integrace s Home Assistant přes MQTT
+- Stav baterie na dashboardu
+- Automatizace nabíjení
+
+#### 6. Open Vehicle Monitoring System (OVMS)
+**[github.com/openvehicles/Open-Vehicle-Monitoring-System-3](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3)**
+- Kompletní monitoring vozidla
+- Podpora Leaf ZE0, ZE1 i e-NV200
+- Podpora upravených baterií (Muxsan)
+- Web UI přes WiFi
+
+### Co můžete dělat s open source SW
+
+| Možnost | Nástroj | Obtížnost |
+|---------|---------|-----------|
+| Monitorovat SOH baterie | Leaf Spy, OVMS | Jednoduchá |
+| Sledovat jednotlivé články | OVMS | Střední |
+| Integrovat do Home Assistant | leaf2mqtt | Střední |
+| Vzdáleně ovládat auto | leaf (Go), NissanConnect API | Střední |
+| Párovat novou baterii | BatteryPairing | Pokročilá |
+| Číst data z baterie mimo auto | Battery-to-OBD2 | Pokročilá |
+| Reverse engineering BMS | Ghidra, IDA Pro | Expert |
+| Zvýšit výkon ("Ludicrous mode") | CAN bus MITM | Expert |
+
+### CAN bus hacking
+
+```
+Leaf CAN bus → Arduino + CAN shield → SavvyCAN → Analýza
+```
+
+**Nástroje:**
+- **SavvyCAN** – open source reverse engineering tool
+- **M2RET** – firmware pro Macchina M2
+- **CANHacker** – Windows software
+- **Leaf-Coder** – programování dashboardu
+
+### Příklad: Zvýšení výkonu
+
+Někteří hackeři dosáhli zvýšení výkonu z 80 kW na 110 kW pomocí CAN bus Man-in-the-Middle útoku:
+
+```
+Originál:     Motor ← 80 kW signál ← CAN bus
+S hackem:     Motor ← 110 kW signál ← CAN bridge (×1.3) ← 80 kW ← CAN bus
+```
+
+### Poznámka pro ZE1 (2018+)
+
+U novějších Leafů (ZE1) je OBD-II port **izolován CAN gateway modulem**. Musíte se připojit přímo na CAN sběrnici za přístrojovou deskou.
+
+### Proč je Leaf ideální pro hackery
+
+| Výhoda | Popis |
+|--------|-------|
+| ✅ Velká komunita | Tisíce nadšenců, aktivní fóra |
+| ✅ Dokumentovaný CAN bus | Většina zpráv je reverzně zdokumentována |
+| ✅ Levné ojetiny | Od 150 tis. Kč = levný "dev kit" |
+| ✅ Jednoduchá konstrukce | Snadný přístup k baterii |
+| ✅ Použité baterie | Levné pro DIY powerwall projekty |
+
+### Další auta s open source podporou
+
+| Auto | Podpora | Komunita |
+|------|---------|----------|
+| **Nissan Leaf** | ⭐⭐⭐⭐⭐ | Největší |
+| **Tesla** | ⭐⭐⭐⭐ | Velká (ale složitější) |
+| **Chevy Bolt/Volt** | ⭐⭐⭐ | Střední |
+| **BMW i3** | ⭐⭐ | Menší |
+| **Hyundai/Kia** | ⭐⭐ | Roste |
 
 ---
 
