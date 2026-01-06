@@ -5,11 +5,12 @@
 2. [Aktivní vs pasivní chlazení baterie](#aktivní-vs-pasivní-chlazení-baterie)
 3. [Stav baterie po 100 000 km](#stav-baterie-po-100-000-km)
 4. [BMW i3 – karbon a koroze](#bmw-i3--karbon-a-koroze)
-5. [Upgrade baterie](#upgrade-baterie)
-6. [Náklady na údržbu: Elektro vs Diesel](#náklady-na-údržbu-elektro-vs-diesel)
-7. [Náklady na opotřebení baterie na 1 km](#náklady-na-opotřebení-baterie-na-1-km)
-8. [Elektrické dodávky](#elektrické-dodávky)
-9. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
+5. [Elektroauta která nerezaví](#elektroauta-která-nerezaví)
+6. [Upgrade baterie](#upgrade-baterie)
+7. [Náklady na údržbu: Elektro vs Diesel](#náklady-na-údržbu-elektro-vs-diesel)
+8. [Náklady na opotřebení baterie na 1 km](#náklady-na-opotřebení-baterie-na-1-km)
+9. [Elektrické dodávky](#elektrické-dodávky)
+10. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
 
 ---
 
@@ -175,6 +176,93 @@
 | Hmotnost | 1 300 kg | 1 500-1 600 kg |
 | Míst | 4 | 5 |
 | Koroze | Prakticky žádná | Standardní |
+
+---
+
+## Elektroauta která nerezaví
+
+### Přehled podle materiálu karoserie
+
+| Model | Karoserie | Rezaví? | Cena ojetiny |
+|-------|-----------|---------|--------------|
+| **BMW i3** | Karbon + hliník | ❌ Ne | 250-450 tis. Kč |
+| **Tesla Model S** | ~95% hliník | ⚠️ Minimálně | 600-1000 tis. Kč |
+| **Tesla Model X** | ~95% hliník | ⚠️ Minimálně | 800-1200 tis. Kč |
+| **Jaguar I-Pace** | Celohliníková | ⚠️ Minimálně | 600-900 tis. Kč |
+| **Audi e-tron GT** | Převážně hliník | ⚠️ Minimálně | 1+ mil. Kč |
+| **Mercedes EQS** | Hliník + ocel | ⚠️ Částečně | 1,5+ mil. Kč |
+| **Tesla Model 3** | Převážně ocel | ✅ Ano | 500-800 tis. Kč |
+| **Tesla Model Y** | Hliník + ocel | ⚠️ Částečně | 600-900 tis. Kč |
+
+### Detailní srovnání
+
+#### 1. BMW i3 – NEJLEPŠÍ (nerezaví vůbec)
+
+```
+Kabina:     100% karbon (CFRP) → NEREZAVÍ
+Podvozek:   100% hliník → NEREZAVÍ
+Panely:     Plast (termoplast) → NEREZAVÍ
+```
+
+**Jediné auto, které skutečně VŮBEC nerezaví.**
+
+#### 2. Tesla Model S/X – velmi dobré (95% hliník)
+
+```
+Karoserie:  ~95% hliník → nerezaví
+Nosníky:    Ocel (B-sloupek, příčník) → může rezavět
+Podvozek:   Částečně ocel → může rezavět
+```
+
+- Hliníková karoserie váží pouze ~104 kg
+- Ocelový ekvivalent by vážil 450-500 kg
+- ⚠️ Ale: Známé problémy s rzí u některých kusů (spoje, šrouby)
+
+#### 3. Jaguar I-Pace – celohliníková karoserie
+
+```
+Karoserie:  100% hliník → nerezaví
+Podvozek:   Hliník → nerezaví
+Rozložení:  50:50
+```
+
+- Nejpevnější platforma Jaguaru
+- Těžiště o 130 mm níže než F-Pace
+- 5 míst, dojezd ~400 km
+
+#### 4. Tesla Model 3/Y – pozor, převážně OCEL!
+
+```
+Model 3:    ~70% ocel, ~30% hliník → REZAVÍ
+Model Y:    Mix ocel + hliník (Gigapress) → částečně rezaví
+```
+
+- Model 3 má ocelovou karoserii kvůli nižší ceně
+- Model Y má hliníkové odlitky (Gigapress) vpředu a vzadu, ale střed je ocel
+
+### Proč hliník/karbon nerezaví?
+
+| Materiál | Vlastnosti |
+|----------|------------|
+| **Karbon (CFRP)** | Není kov → nemůže oxidovat → NEREZAVÍ |
+| **Hliník** | Vytváří ochrannou vrstvu oxidu → NEREZAVÍ (ale může korodovat jinak) |
+| **Ocel** | Oxiduje na vzduchu → REZAVÍ |
+
+### Shrnutí – co koupit, aby nerezlo
+
+| Priorita | Model | Poznámka |
+|----------|-------|----------|
+| 🥇 | **BMW i3** | Jediné 100% nerezavějící, dostupná cena |
+| 🥈 | **Tesla Model S/X** | 95% hliník, ale dražší |
+| 🥉 | **Jaguar I-Pace** | Celohliníková, luxusní, 5 míst |
+| ⚠️ | Tesla Model 3/Y | Převážně ocel – rezaví! |
+| ⚠️ | Většina ostatních | Ocel nebo mix materiálů |
+
+### Pro rozpočet do 500 tis. Kč
+
+**BMW i3** je jediná reálná volba, která nerezaví a je cenově dostupná.
+
+Ostatní nerezavějící elektroauta (Tesla S/X, Jaguar I-Pace) jsou jako ojetiny stále drahá (600+ tis. Kč).
 
 ---
 
