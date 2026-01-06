@@ -14,7 +14,8 @@
 11. [Hmotnost baterií](#hmotnost-baterií)
 12. [Elektrické dodávky](#elektrické-dodávky)
 13. [Open source software pro Nissan Leaf](#open-source-software-pro-nissan-leaf)
-14. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
+14. [Párování baterie a mazání chyb](#párování-baterie-a-mazání-chyb-po-výměně)
+15. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
 
 ---
 
@@ -713,6 +714,79 @@ U novějších Leafů (ZE1) je OBD-II port **izolován CAN gateway modulem**. Mu
 | ✅ Levné ojetiny | Od 150 tis. Kč = levný "dev kit" |
 | ✅ Jednoduchá konstrukce | Snadný přístup k baterii |
 | ✅ Použité baterie | Levné pro DIY powerwall projekty |
+
+### Párování baterie a mazání chyb po výměně
+
+#### Co umí OVMS vs. jiné nástroje?
+
+| Funkce | OVMS | LeafSpy Pro | BatteryPairing |
+|--------|------|-------------|----------------|
+| Monitoring SOH/SOC | ✅ | ✅ | ❌ |
+| Čtení chybových kódů | ✅ | ✅ | ❌ |
+| **Mazání DTC chyb** | ⚠️ Částečně | ✅ | ❌ |
+| **Párování baterie (VIN)** | ❌ | ✅ | ✅ |
+| Vzdálený přístup | ✅ | ❌ | ❌ |
+
+**OVMS NEUMÍ párovat baterii ani nastavovat VIN!** Je to primárně monitorovací systém.
+
+#### Po výměně baterie – co je potřeba
+
+**1. Přímá výměna (stejná kapacita):**
+```
+Problém:    Chyba P3102 + turtle mode
+Řešení:     LeafSpy Pro → Service menu → Clear P3102
+Výsledek:   Auto jezdí normálně
+```
+
+**2. Upgrade baterie (např. 24 → 40 kWh):**
+```
+Krok 1:     Párování baterie (VIN) → LeafSpy Pro BETA nebo BatteryPairing
+Krok 2:     Instalace CAN-bridge (Dala varianta) → oprava rychlonabíjení + ukazatelů
+Krok 3:     Clear DTC kódů → LeafSpy Pro
+```
+
+#### Nástroje pro párování baterie
+
+**LeafSpy Pro (doporučeno):**
+- Funguje na Android/iOS + Bluetooth OBD2 adaptér
+- BETA verze umí číst Battery ID
+- Může párovat stejné kapacity (např. 40 kWh → 40 kWh)
+- Mazání chyby P3102
+
+**Nissan-Leaf-BatteryPairing (GitHub):**
+- [github.com/dalathegreat/Nissan-Leaf-BatteryPairing](https://github.com/dalathegreat/Nissan-Leaf-BatteryPairing)
+- Generuje CAN příkazy pro párování
+- Podpora ZE0 (2011-2017) a AZE0 (2013-2017)
+- Vyžaduje CAN adaptér (ne levný ELM327!)
+
+**CAN-bridge (pro upgrady):**
+- Nutný při změně kapacity baterie
+- Opravuje rychlonabíjení a palubní ukazatele
+- DIY projekt nebo od specialistů (Muxsan)
+
+#### Mazání chybových kódů
+
+**Typy chyb:**
+```
+P3102  →  Nesoulad baterie/VIN → LeafSpy Pro clear
+B****  →  BMS chyby → Mohou se vracet (nutná oprava příčiny)
+U****  →  CAN bus komunikace → Vážné, konzultovat
+```
+
+**3 úrovně resetu BMS:**
+1. Reset kapacitních proužků (bars)
+2. Vymazání degradace baterie (SOH)
+3. Reset počítadla nabíjecích cyklů
+
+⚠️ **Pozor:** Některé resety jsou pouze pro dealerský Consult 3!
+
+#### Postup po výměně baterie (shrnutí)
+
+| Typ výměny | Nástroj | Obtížnost |
+|------------|---------|-----------|
+| Stejná kapacita | LeafSpy Pro | Jednoduchá |
+| Upgrade (24→40 kWh) | BatteryPairing + CAN-bridge | Pokročilá |
+| Jiná generace | Specialista (Muxsan) | Expert |
 
 ### Další auta s open source podporou
 
