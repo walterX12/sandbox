@@ -2,20 +2,21 @@
 
 ## Obsah
 1. [Malá elektroauta pro 4-5 osob](#malá-elektroauta-pro-4-5-osob)
-2. [Aktivní vs pasivní chlazení baterie](#aktivní-vs-pasivní-chlazení-baterie)
-3. [Rizika aktivního chlazení – BMW i3 vs Leaf](#rizika-aktivního-chlazení--bmw-i3-vs-leaf)
-4. [Stav baterie po 100 000 km](#stav-baterie-po-100-000-km)
-5. [BMW i3 – karbon a koroze](#bmw-i3--karbon-a-koroze)
-6. [BMW i3 – typické poruchy](#bmw-i3--typické-poruchy)
-7. [Elektroauta která nerezaví](#elektroauta-která-nerezaví)
-8. [Upgrade baterie](#upgrade-baterie)
-9. [Náklady na údržbu: Elektro vs Diesel](#náklady-na-údržbu-elektro-vs-diesel)
-10. [Náklady na opotřebení baterie na 1 km](#náklady-na-opotřebení-baterie-na-1-km)
-11. [Hmotnost baterií](#hmotnost-baterií)
-12. [Elektrické dodávky](#elektrické-dodávky)
-13. [Open source software pro Nissan Leaf](#open-source-software-pro-nissan-leaf)
-14. [Párování baterie a mazání chyb](#párování-baterie-a-mazání-chyb-po-výměně)
-15. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
+2. [Srovnání: Hyundai Kona vs BMW i3 vs Nissan Leaf](#srovnání-hyundai-kona-vs-bmw-i3-vs-nissan-leaf)
+3. [Aktivní vs pasivní chlazení baterie](#aktivní-vs-pasivní-chlazení-baterie)
+4. [Rizika aktivního chlazení – BMW i3 vs Leaf](#rizika-aktivního-chlazení--bmw-i3-vs-leaf)
+5. [Stav baterie po 100 000 km](#stav-baterie-po-100-000-km)
+6. [BMW i3 – karbon a koroze](#bmw-i3--karbon-a-koroze)
+7. [BMW i3 – typické poruchy](#bmw-i3--typické-poruchy)
+8. [Elektroauta která nerezaví](#elektroauta-která-nerezaví)
+9. [Upgrade baterie](#upgrade-baterie)
+10. [Náklady na údržbu: Elektro vs Diesel](#náklady-na-údržbu-elektro-vs-diesel)
+11. [Náklady na opotřebení baterie na 1 km](#náklady-na-opotřebení-baterie-na-1-km)
+12. [Hmotnost baterií](#hmotnost-baterií)
+13. [Elektrické dodávky](#elektrické-dodávky)
+14. [Open source software pro Nissan Leaf](#open-source-software-pro-nissan-leaf)
+15. [Párování baterie a mazání chyb](#párování-baterie-a-mazání-chyb-po-výměně)
+16. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
 
 ---
 
@@ -44,6 +45,108 @@
 | Renault 5 E-Tech | 629 000 Kč | 5 | ~400 km |
 | Hyundai Inster | ~650 000 Kč | 5 | 370 km |
 | Škoda Elroq | 799 900 Kč | 5 | 370 km |
+
+---
+
+## Srovnání: Hyundai Kona vs BMW i3 vs Nissan Leaf
+
+### Přehled parametrů
+
+| Parametr | **Hyundai Kona EV** | **BMW i3** | **Nissan Leaf** |
+|----------|---------------------|------------|-----------------|
+| **Míst** | 5 | 4 | 5 |
+| **Baterie** | 39/64 kWh | 22/33/42 kWh | 24/40/62 kWh |
+| **Dojezd** | 300-450 km | 130-260 km | 150-380 km |
+| **Chlazení baterie** | ✅ Aktivní (oddělený okruh) | ✅ Aktivní (sdílený okruh) | ❌ Pasivní |
+| **0-100 km/h** | 7,6 s | 7,3 s | 7,9 s |
+| **Spotřeba** | ~15 kWh/100 km | ~14 kWh/100 km | ~17 kWh/100 km |
+| **Rezaví?** | ✅ Ano (ocel) | ❌ Ne (karbon+hliník) | ✅ Ano (ocel) |
+
+### Ceny ojetin v ČR (2025)
+
+| Model + rok | Nájezd | Cena |
+|-------------|--------|------|
+| **Kona EV 64 kWh** (2020) | 70 000 km | 400-500 tis. Kč |
+| **Kona EV 64 kWh** (2022) | 30 000 km | 550-700 tis. Kč |
+| **Kona EV 64 kWh** (2023) | 25 000 km | 650-750 tis. Kč |
+| **BMW i3 42 kWh** (2019) | 60 000 km | 300-400 tis. Kč |
+| **BMW i3 42 kWh** (2021) | 40 000 km | 350-450 tis. Kč |
+| **Leaf 40 kWh** (2019) | 60 000 km | 250-350 tis. Kč |
+| **Leaf 62 kWh** (2020) | 50 000 km | 350-450 tis. Kč |
+
+### Spolehlivost a typické poruchy
+
+#### Hyundai Kona EV
+
+| Problém | Závažnost | Poznámka |
+|---------|-----------|----------|
+| ⚠️ **Požár baterie (2019-2020)** | KRITICKÁ | Svolávací akce – výměna baterie zdarma |
+| Infotainment zamrzá | Nízká | SW aktualizace řeší |
+| Rychlejší opotřebení pneumatik | Nízká | Auto je těžší → 30-50 tis. km |
+| Digitální klíč vybíjí 12V | Nízká | Vypnout funkci Digital Key |
+
+**⚠️ DŮLEŽITÉ při nákupu 2019-2020:** Ověřte, zda byla provedena svolávací akce na výměnu baterie! Vozy s bateriemi LG z továrny v Nanjing (Čína) měly riziko požáru.
+
+**Jak poznat:** Požádejte o výpis ze servisní historie nebo zkontrolujte VIN u Hyundai.
+
+#### BMW i3
+
+| Problém | Závažnost | Poznámka |
+|---------|-----------|----------|
+| ⚠️ **AC kompresor ("Black Death")** | KRITICKÁ | Může zničit baterii! |
+| Vyhřívání sedaček | Nízká | Běžná závada |
+| 12V baterie | Nízká | Výměna každých 3-5 let |
+| Range Extender (REX verze) | Střední | Další motor = další problémy |
+
+#### Nissan Leaf
+
+| Problém | Závažnost | Poznámka |
+|---------|-----------|----------|
+| ⚠️ **Degradace baterie** | STŘEDNÍ | Pasivní chlazení → rychlejší opotřebení |
+| Rychlonabíjení přehřívá | Střední | Po 2-3 nabíjeních zpomaluje |
+| Koroze karoserie | Nízká | Standardní pro ocelové auto |
+
+### Hodnocení spolehlivosti
+
+| Model | iSeeCars skóre | Consumer Reports | Záruka |
+|-------|----------------|------------------|--------|
+| **Hyundai Kona EV** | 8,1/10 | Průměrná | **5 let / 100 tis. km** (motor 10 let!) |
+| **BMW i3** | 6,5/10 | Podprůměrná | 2 roky (ojetina bez záruky) |
+| **Nissan Leaf** | 7,5/10 | Průměrná | 3 roky / 60 tis. km |
+
+### Ztráta hodnoty (depreciace za 5 let)
+
+| Model | Ztráta hodnoty |
+|-------|----------------|
+| **Hyundai Kona EV** | -48% |
+| **BMW i3** | -58% |
+| **Nissan Leaf** | -55% |
+
+### Verdikt: Která je nejlepší?
+
+| Kritérium | Vítěz | Proč |
+|-----------|-------|------|
+| **Celková spolehlivost** | 🥇 **Hyundai Kona** | Nejlepší skóre, nejdelší záruka |
+| **Nejnižší cena** | 🥇 **Nissan Leaf** | Od 250 tis. Kč |
+| **Bez rzi** | 🥇 **BMW i3** | Karbon + hliník |
+| **Nejdelší dojezd** | 🥇 **Hyundai Kona 64** | Až 450 km |
+| **Nejnižší spotřeba** | 🥇 **BMW i3** | ~14 kWh/100 km |
+| **5 míst** | Kona nebo Leaf | BMW má jen 4 |
+| **Open source SW** | 🥇 **Nissan Leaf** | Největší komunita hackerů |
+
+### Doporučení
+
+**Pro běžné použití (rodina, město + občas dálnice):**
+→ **Hyundai Kona EV 64 kWh** – nejlepší poměr cena/výkon/spolehlivost
+
+**Pro hackera/programátora:**
+→ **Nissan Leaf** – open source komunita, levný "dev kit"
+
+**Pro minimalisty (nerezaví, efektivní):**
+→ **BMW i3 42 kWh** – ale pozor na AC kompresor!
+
+**Nejnižší rozpočet (<300 tis.):**
+→ **Nissan Leaf 40 kWh** nebo starší **BMW i3**
 
 ---
 
