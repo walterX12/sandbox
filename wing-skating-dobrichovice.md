@@ -64,12 +64,6 @@ Mrazy trvají cca týden, ale **led na mnoha místech ještě není dostatečně
 
 ---
 
-## Komunita wing skaterů
-
-Na rybníku Olšovci v Jedovnicích (Blanensko) byla zaznamenána aktivní komunita wing skaterů. Vítr tam je ale "nevyzpytatelný a točivý".
-
----
-
 ## Zdroje
 - [U Berounky - Kde bruslit](https://www.uberounky.info/clanek/kde-bruslit)
 - [Berounský deník - Rybníky zamrzly](https://berounsky.denik.cz/zpravy_region/mraz-rybniky-bruselni-berounsko.html)
