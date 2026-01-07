@@ -27,6 +27,11 @@ YELLOW='\033[1;33m'
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 
+# Source existing proxy config if it exists (for accurate status display)
+if [ -f "$ENV_FILE" ]; then
+    . "$ENV_FILE" 2>/dev/null
+fi
+
 #####################################################################
 # Functions
 #####################################################################
