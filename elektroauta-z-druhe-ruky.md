@@ -3,20 +3,21 @@
 ## Obsah
 1. [Malá elektroauta pro 4-5 osob](#malá-elektroauta-pro-4-5-osob)
 2. [Srovnání: Hyundai Kona vs BMW i3 vs Nissan Leaf](#srovnání-hyundai-kona-vs-bmw-i3-vs-nissan-leaf)
-3. [Aktivní vs pasivní chlazení baterie](#aktivní-vs-pasivní-chlazení-baterie)
-4. [Rizika aktivního chlazení – BMW i3 vs Leaf](#rizika-aktivního-chlazení--bmw-i3-vs-leaf)
-5. [Stav baterie po 100 000 km](#stav-baterie-po-100-000-km)
-6. [BMW i3 – karbon a koroze](#bmw-i3--karbon-a-koroze)
-7. [BMW i3 – typické poruchy](#bmw-i3--typické-poruchy)
-8. [Elektroauta která nerezaví](#elektroauta-která-nerezaví)
-9. [Upgrade baterie](#upgrade-baterie)
-10. [Náklady na údržbu: Elektro vs Diesel](#náklady-na-údržbu-elektro-vs-diesel)
-11. [Náklady na opotřebení baterie na 1 km](#náklady-na-opotřebení-baterie-na-1-km)
-12. [Hmotnost baterií](#hmotnost-baterií)
-13. [Elektrické dodávky](#elektrické-dodávky)
-14. [Open source software pro Nissan Leaf](#open-source-software-pro-nissan-leaf)
-15. [Párování baterie a mazání chyb](#párování-baterie-a-mazání-chyb-po-výměně)
-16. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
+3. [Hyundai Ioniq – dva různé modely](#hyundai-ioniq--dva-různé-modely)
+4. [Aktivní vs pasivní chlazení baterie](#aktivní-vs-pasivní-chlazení-baterie)
+5. [Rizika aktivního chlazení – BMW i3 vs Leaf](#rizika-aktivního-chlazení--bmw-i3-vs-leaf)
+6. [Stav baterie po 100 000 km](#stav-baterie-po-100-000-km)
+7. [BMW i3 – karbon a koroze](#bmw-i3--karbon-a-koroze)
+8. [BMW i3 – typické poruchy](#bmw-i3--typické-poruchy)
+9. [Elektroauta která nerezaví](#elektroauta-která-nerezaví)
+10. [Upgrade baterie](#upgrade-baterie)
+11. [Náklady na údržbu: Elektro vs Diesel](#náklady-na-údržbu-elektro-vs-diesel)
+12. [Náklady na opotřebení baterie na 1 km](#náklady-na-opotřebení-baterie-na-1-km)
+13. [Hmotnost baterií](#hmotnost-baterií)
+14. [Elektrické dodávky](#elektrické-dodávky)
+15. [Open source software pro Nissan Leaf](#open-source-software-pro-nissan-leaf)
+16. [Párování baterie a mazání chyb](#párování-baterie-a-mazání-chyb-po-výměně)
+17. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
 
 ---
 
@@ -147,6 +148,96 @@
 
 **Nejnižší rozpočet (<300 tis.):**
 → **Nissan Leaf 40 kWh** nebo starší **BMW i3**
+
+---
+
+## Hyundai Ioniq – dva různé modely
+
+### Ioniq Electric (2016-2022) – starší, levnější
+
+| Parametr | Hodnota |
+|----------|---------|
+| **Baterie** | 28 kWh → 38 kWh (facelift 2019+) |
+| **Dojezd** | 200-310 km |
+| **Výkon** | 100 kW (136 koní) |
+| **Chlazení** | ✅ Aktivní |
+| **Míst** | 5 |
+| **Spotřeba** | ~14 kWh/100 km (🥇 nejefektivnější EV!) |
+| **Pohon** | Přední kola |
+
+**Ceny ojetin:**
+
+| Rok | Baterie | Cena |
+|-----|---------|------|
+| 2017-2018 | 28 kWh | 250-350 tis. Kč |
+| 2019-2020 | 38 kWh | 350-450 tis. Kč |
+| 2021-2022 | 38 kWh | 400-500 tis. Kč |
+
+**Typické problémy:**
+
+| Problém | Závažnost | Poznámka |
+|---------|-----------|----------|
+| ✅ Obecně spolehlivý | | Minimum problémů |
+| Krystalizace chladicí kapaliny | Střední | Výměna kapaliny |
+| AC výparník (únik) | Střední | Oprava ~100 tis. Kč |
+| ⚠️ Svolávací akce baterie 2019 | Kritická | Ověřit u Hyundai! |
+| Pomalé rychlonabíjení | Nízká | 54 min (10-80%) |
+
+### Ioniq 5 (2021+) – novější, prémiový
+
+| Parametr | Hodnota |
+|----------|---------|
+| **Baterie** | 58 / 77 kWh |
+| **Dojezd** | 380-500 km |
+| **Výkon** | 125-239 kW (až 325 koní AWD) |
+| **Chlazení** | ✅ Aktivní (800V architektura!) |
+| **Míst** | 5 |
+| **Nabíjení** | 🚀 10-80% za 18 minut! (350 kW DC) |
+| **Pohon** | Zadní nebo 4x4 |
+
+**Ceny ojetin:**
+
+| Rok | Baterie | Cena |
+|-----|---------|------|
+| 2022 | 58/77 kWh | 700-900 tis. Kč |
+| 2023 | 77 kWh | 850-1000 tis. Kč |
+| 2025 nový | | od 946 000 Kč |
+
+**⚠️ Typické problémy (POZOR!):**
+
+| Problém | Závažnost | Poznámka |
+|---------|-----------|----------|
+| ⚠️ **ICCU selhání** | KRITICKÁ | Auto přestane jezdit! 7 svolávacích akcí |
+| 12V baterie vybíjení | Střední | Opakované problémy |
+| Tepelné čerpadlo/AC | Střední | Selhává brzy |
+| Software/infotainment | Nízká | Buggy aplikace, žádné OTA |
+| ⚠️ HV baterie (2025) | Kritická | Předčasné selhávání |
+
+### Srovnání Ioniq vs Kona
+
+| | **Ioniq Electric** | **Ioniq 5** | **Kona EV 64** |
+|-|-------------------|-------------|----------------|
+| **Cena ojetiny** | 350-500 tis. | 700-1000 tis. | 400-700 tis. |
+| **Dojezd** | 200-310 km | 380-500 km | 300-450 km |
+| **Nabíjení 10-80%** | 54 min | **18 min** 🚀 | 47 min |
+| **Spolehlivost** | ⭐⭐⭐⭐ | ⭐⭐⭐ ⚠️ | ⭐⭐⭐⭐ |
+| **Efektivita** | 🥇 Nejlepší | Dobrá | Velmi dobrá |
+
+### Verdikt Ioniq
+
+**Ioniq Electric (starší):**
+- ✅ Nejefektivnější EV na trhu (~14 kWh/100 km)
+- ✅ Spolehlivý, aktivní chlazení
+- ❌ Pomalé rychlonabíjení, kratší dojezd
+- → **Doporučeno pro:** město, denní dojíždění
+
+**Ioniq 5:**
+- ✅ Ultra rychlé nabíjení (800V), velký dojezd
+- ❌ **Nespolehlivý!** Problémy s ICCU, 7 svolávacích akcí
+- ❌ Drahý jako ojetina
+- → **Aktuálně NEDOPORUČUJI** kvůli spolehlivosti
+
+**Doporučení:** Za cenu Ioniq 5 raději **Kona EV** nebo **Tesla Model 3**.
 
 ---
 
