@@ -79,16 +79,53 @@
 
 #### Hyundai Kona EV
 
-| Problém | Závažnost | Poznámka |
-|---------|-----------|----------|
-| ⚠️ **Požár baterie (2019-2020)** | KRITICKÁ | Svolávací akce – výměna baterie zdarma |
-| Infotainment zamrzá | Nízká | SW aktualizace řeší |
-| Rychlejší opotřebení pneumatik | Nízká | Auto je těžší → 30-50 tis. km |
-| Digitální klíč vybíjí 12V | Nízká | Vypnout funkci Digital Key |
+| Problém | Závažnost | Ročníky | Cena opravy |
+|---------|-----------|---------|-------------|
+| ⚠️ **Požár baterie** | KRITICKÁ | 2019-2020 | Zdarma (svolávací akce) |
+| Tepelné čerpadlo selhává | Střední | Všechny | 30-60 tis. Kč |
+| Rychlejší opotřebení pneumatik | Nízká | Všechny | 15-25 tis. Kč/sada |
+| Infotainment zamrzá | Nízká | Všechny | SW aktualizace |
+| Digitální klíč vybíjí 12V | Nízká | 2021+ | Vypnout funkci |
+| Hluk od tepelného čerpadla | Nízká | Všechny | Není závada |
 
-**⚠️ DŮLEŽITÉ při nákupu 2019-2020:** Ověřte, zda byla provedena svolávací akce na výměnu baterie! Vozy s bateriemi LG z továrny v Nanjing (Čína) měly riziko požáru.
+**⚠️ KRITICKÉ – Požár baterie (2019-2020):**
+- **Příčina:** Vadné články LG z továrny v Nanjing (Čína) – zkrat → požár
+- **Řešení:** Svolávací akce – výměna celé baterie ZDARMA
+- **Dotčeno:** ~77 000 vozů celosvětově
 
-**Jak poznat:** Požádejte o výpis ze servisní historie nebo zkontrolujte VIN u Hyundai.
+**Jak ověřit při koupi 2019-2020:**
+1. Požádejte o výpis ze servisní historie
+2. Zkontrolujte VIN u Hyundai dealera
+3. Hledejte záznam "Battery Pack Replacement"
+
+#### Tesla Model 3
+
+| Problém | Závažnost | Ročníky | Cena opravy |
+|---------|-----------|---------|-------------|
+| ⚠️ **Kvalita výroby** | Střední | 2018-2020 | Záleží na závadě |
+| ⚠️ **Brzdy – koroze** | Střední | Všechny | 15-30 tis. Kč |
+| Zavěšení – příčná ramena | Střední | 2019-2021 | 20-40 tis. Kč |
+| Phantom braking (Autopilot) | Střední | Všechny | SW aktualizace |
+| Boot strut (plynová vzpěra) | Nízká | 2018-2020 | 2-5 tis. Kč |
+| Software freezy | Nízká | Všechny | SW aktualizace |
+| Spáry karoserie, lak | Nízká | 2018-2020 | Kosmetické |
+
+**⚠️ Problémy na STK (TÜV Německo, Dánsko):**
+- Tesla Model 3 má **nejhorší hodnocení** v kategorii 2-3 leté ojetiny
+- V Dánsku **23% Tesel Model 3 (2020) neprošlo STK**
+- Hlavní problém: **brzdy** – kvůli rekuperaci málo používané → korodují
+
+**Problémy s kvalitou výroby:**
+```
+Nejlepší kvalita:  2017 (začátek výroby, pečlivá práce)
+Nejhorší kvalita:  2018-2020 (honba za kvantitou)
+Lepší kvalita:     2021+ (zlepšení procesů)
+Shanghai výroba:   Obecně lepší kvalita než Fremont
+```
+
+**Cena baterie při selhání (po záruce):**
+- ~350 000 Kč (14 000 EUR)
+- Záruka: 8 let / 193 000 km
 
 #### BMW i3
 
@@ -109,19 +146,21 @@
 
 ### Hodnocení spolehlivosti
 
-| Model | iSeeCars skóre | Consumer Reports | Záruka |
-|-------|----------------|------------------|--------|
-| **Hyundai Kona EV** | 8,1/10 | Průměrná | **5 let / 100 tis. km** (motor 10 let!) |
-| **BMW i3** | 6,5/10 | Podprůměrná | 2 roky (ojetina bez záruky) |
-| **Nissan Leaf** | 7,5/10 | Průměrná | 3 roky / 60 tis. km |
+| Model | iSeeCars skóre | Consumer Reports | TÜV Report | Záruka |
+|-------|----------------|------------------|------------|--------|
+| **Hyundai Kona EV** | 8,1/10 | Průměrná | Dobrý | **5 let / 100 tis. km** |
+| **Tesla Model 3** | 6,0/10 | Podprůměrná | ⚠️ Nejhorší | 4 roky / 80 tis. km |
+| **Nissan Leaf** | 7,5/10 | Průměrná | Dobrý | 3 roky / 60 tis. km |
+| **BMW i3** | 6,5/10 | Podprůměrná | Průměrný | 2 roky |
 
 ### Ztráta hodnoty (depreciace za 5 let)
 
 | Model | Ztráta hodnoty |
 |-------|----------------|
 | **Hyundai Kona EV** | -48% |
-| **BMW i3** | -58% |
+| **Tesla Model 3** | -52% (klesá rychle!) |
 | **Nissan Leaf** | -55% |
+| **BMW i3** | -58% |
 
 ### Verdikt: Která je nejlepší?
 
