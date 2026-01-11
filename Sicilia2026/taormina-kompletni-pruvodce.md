@@ -469,29 +469,642 @@ Když **Odysseus** (Ulysses) a jeho flotila kotvili u pobřeží poblíž Taormi
 
 ---
 
-## 📅 **DOPORUČENÝ PROGRAM NA 1 DEN**
+## 📅 **DETAILNÍ ITINERÁŘ NA 1 DEN V TAORMINĚ**
 
-### **DOPOLEDNE (9:00-13:00):**
-1. **9:00** - Příjezd do Taorminy
-2. **9:30** - Teatro Greco (2 hodiny)
-3. **11:30** - Procházka Corso Umberto
-4. **12:00** - Káva na Piazza IX Aprile s výhledem
+---
 
-### **OBĚD (13:00-14:30):**
-- Trattoria da Nino nebo Osteria RossoDiVino
+### **🌅 RÁNO (9:00-13:00)**
 
-### **ODPOLEDNE (14:30-18:00):**
-1. **14:30** - Palazzo Corvaja + muzeum
-2. **15:30** - Duomo (katedrála)
-3. **16:00** - Lanovka dolů na Isola Bella
-4. **16:30-18:00** - Pláž a koupání
+---
 
-### **VEČER (18:00-21:00):**
-1. **18:00** - Lanovka zpět nahoru
-2. **18:30** - Granita v Bam Bar
-3. **19:00** - Západ slunce z Piazza IX Aprile
-4. **19:30** - Večeře
-5. **21:00** - Odjezd
+#### **9:00-9:30 - PŘÍJEZD A VSTUP DO MĚSTA**
+
+**📍 Místo:** Porta Messina (Brána Messina)
+
+**Co uvidíte:**
+- **Porta Messina** = hlavní brána do starého města
+- Původně součást **středověkých hradeb**
+- Odtud začína **Corso Umberto I** (hlavní pěší třída)
+
+**💡 Zajímavost:**
+- Taormina měla **tři brány**: Porta Messina, Porta Catania, Porta del Tocco
+- Chránily město před **piráty** a **nájezdníky**
+
+**🚶 Trasa:**
+- Z autobusového nádraží / parkoviště → Porta Messina (5 minut pěšky)
+
+---
+
+#### **9:30-11:30 - TEATRO GRECO (Řecké divadlo) ⭐⭐⭐**
+
+**📍 Místo:** Via Teatro Greco, 1
+
+**⏰ Čas:** 2 hodiny (vstup, prohlídka, fotky)
+
+**🎫 Vstupné:** €10 (plné), €5 (studenti/senioři)
+
+**Co uvidíte:**
+
+**1. Cavea (hlediště):**
+- **Průměr:** 109 metrů
+- **Kapacita:** 10 000 diváků!
+- **Řady sedadel:** Vytesané do skály
+- **Akustika:** Perfektní - i ze zadní řady slyšíte šepot z jeviště!
+
+**2. Orchestra (scéna):**
+- Původně **řecká orchestra** (kruhovitá)
+- Římané ji přestavěli na **arénu** pro gladiátory
+
+**3. Skene (zázemí):**
+- Římské **cihlové sloupy** (zachovaly se!)
+- Původně tu byl **painted backdrop** (malované pozadí)
+
+**4. PANORAMA - Nejslavnější výhled světa! 🌋**
+- **Etna** (3 357 m) - aktivní sopka vpravo
+- **Jónské moře** - nebesky modré před vámi
+- **Kalábrie** (Itálie) - viditelná v dálce vlevo
+- **Naxos Bay** - záliv pod vámi
+
+**📸 Nejlepší fotky:**
+- Z **horních řad** hlediště směrem na Etnu
+- Z **orchestra** směrem nahoru (sloupy + nebe)
+- **Zlatá hodina:** Ranní světlo (9:30-10:30) = ideální!
+
+**👑 Slavné osobnosti:**
+
+**Johann Wolfgang von Goethe (1787):**
+- Navštívil **7.-9. května 1787**
+- Citát: *"Nikdy nemělo divadelní publikum před sebou takovou podívanou!"*
+- Napsal o tom v **"Italská cesta"** (*Italian Journey*)
+
+**Richard Wagner (1882):**
+- Německý skladatel
+- Dokončoval zde operu **"Parsifal"**
+- Inspirován panoramatem
+
+**D.H. Lawrence (1920-léta):**
+- Britský spisovatel
+- Seděl zde a psal své romány
+
+**💡 Zajímavosti:**
+
+1. **Postaveno 3× v historii:**
+   - **3. století př. n. l.:** Řekové - divadlo
+   - **2. století n. l.:** Římané - přestavba na arénu
+   - **19. století:** Restaurace
+
+2. **Dnes:** Letní festivaly, opery, koncerty (červen-srpen)
+   - **Taormina Film Fest** (od 1955!)
+   - Pokud máte štěstí, můžete vidět zkoušku
+
+3. **Akustika:** Tak dobrá, že dnes se tu koncertuje **bez mikrofonů**!
+
+4. **Geologie:** Vytesané přímo do **Monte Tauro** (hory)
+
+**🎭 Co si představit:**
+- **Řecká éra:** Tragédie Aischyla, Sofoklea, Euripida
+- **Římská éra:** Gladiátorské zápasy, bitvy se zvířaty
+- **Dnes:** Placido Domingo, Sting, Elton John vystupovali zde!
+
+---
+
+#### **11:30-12:00 - PROCHÁZKA CORSO UMBERTO**
+
+**📍 Místo:** Corso Umberto I (hlavní pěší třída)
+
+**🚶 Trasa:** Teatro Greco → Corso Umberto (3 min pěšky)
+
+**Co uvidíte po cestě:**
+
+**1. Obchůdky s upomínkami:**
+- **Teste di Moro** (maurské hlavy) - keramika
+- **Limoncello** - sicilský citronový likér
+- **Mandorlato** - mandlový dezert z Taorminy
+- **Sicilské koření**
+
+**2. Torre dell'Orologio (Věž s hodinami):**
+- **12. století** - normanská věž
+- **Hodiny:** Přidány v **17. století**
+- **Brána:** Pod věží prochází Corso Umberto
+- **Nad věží:** Vyhlídka na město (někdy otevřená)
+
+**3. Chiesa di San Giuseppe (Kostel sv. Josefa):**
+- **17. století** - barokní styl
+- Krásná **růžová fasáda**
+
+**💡 Zajímavost:**
+- Corso Umberto = **"salon pod širým nebem"**
+- V 19. století tu **flirtovali** aristokraté z celé Evropy
+- **Edward VII** (britský král) tu prováděl svou milenku!
+
+---
+
+#### **12:00-13:00 - PIAZZA IX APRILE (Nejkrásnější náměstí) ☕**
+
+**📍 Místo:** Piazza IX Aprile (Náměstí 9. dubna)
+
+**Proč "IX Aprile"?**
+- **9. dubna 1860** = Giuseppe Garibaldi připlul na Sicílii
+- Začalo **Sjednocení Itálie**!
+
+**Co uvidíte:**
+
+**1. Café Wunderbar ⭐ (MUST!):**
+- **Založena:** 1938
+- **Slavný host:** **Winston Churchill** tu pil kávu!
+- **Menu:**
+  - Cappuccino: €3-4
+  - Cannolo siciliano: €4
+  - Granita al limone: €4
+- **Terasa:** Výhled na Etnu a moře!
+
+**📸 Fotka s Churchill:**
+- Uvnitř kavárny jsou **historické fotky** Churchilla
+
+**2. Chiesa di San Giuseppe (Kostel sv. Josefa):**
+- **Barokní** průčelí
+- Krásné **fresky** uvnitř
+
+**3. Torre dell'Orologio:**
+- Hodiny odbíjí každou hodinu
+- Krásný zvuk zvonů
+
+**4. PANORAMA:**
+- **Etna** vpravo
+- **Naxos Bay** dole
+- **Jónské moře** před vámi
+
+**💡 Zajímavosti:**
+
+**Greta Garbo** zde seděla a pila kávu (1950-léta)
+
+**Elizabeth Taylor & Richard Burton:**
+- Přijeli sem na **líbánky** (poprvé 1964, podruhé 1975!)
+- Říkali: *"Nejromantičtější západ slunce světa!"*
+
+**Truman Capote:**
+- Americký spisovatel
+- Seděl v Café Wunderbar a **psal "Snídaně u Tiffanyho"**!
+- Bydlel v Taormině **2 roky** (1950-léta)
+
+**📖 Co dělat:**
+- Objednat **cappuccino** + **cannolo**
+- Sednout na terasu
+- Vychutnat výhled
+- Představit si Churchilla sedícího vedle vás 😊
+
+---
+
+### **🍝 OBĚD (13:00-14:30)**
+
+---
+
+#### **13:00-14:30 - OBĚD V TRATTORIA DA NINO**
+
+**📍 Místo:** Corso Umberto (uprostřed)
+
+**💰 Cena:** €25-35 / osoba
+
+**🍽️ Co objednat:**
+
+**Předkrm (Antipasti):**
+- **Caponata** (€8) = sicilský salát z lilku, rajčat, oliv, kapary
+- **Arancini** (€6) = smažené rýžové koule (maso nebo sýr)
+
+**Hlavní jídlo (Primi piatti):**
+- **Pasta alla Norma** (€12) = těstoviny s lilkem, rajčaty, ricotta salata
+  - Pojmenováno po opeře Vincenza Belliniho!
+  - Bellini = slavný sicilský skladatel z Catanie
+- **Spaghetti ai ricci di mare** (€18) = špagety s mořskými ježky
+
+**Druhé jídlo (Secondi):**
+- **Pesce spada alla ghiotta** (€18) = mečoun po sicilsku
+- **Involtini di pesce spada** (€16) = závitky z mečouna
+
+**Dezert:**
+- **Cannolo siciliano** (€5) = trubička plněná ricottou
+- **Cassata siciliana** (€6) = dorť s ricottou a kandovaným ovocem
+
+**Víno:**
+- **Etna Rosso** nebo **Etna Bianco** (víno z půdy sopky Etna!)
+
+**💡 Zajímavost:**
+- **Pasta alla Norma** = "národní jídlo" Sicílie
+- **Norma** = opera Vincenza Belliniho (1831)
+- Když Catané ochutnali toto jídlo poprvé, zvolali: *"Je to jako Norma!"* (= mistrovské dílo)
+
+---
+
+### **🏰 ODPOLEDNE (14:30-18:00)**
+
+---
+
+#### **14:30-15:30 - PALAZZO CORVAJA + MUZEUM**
+
+**📍 Místo:** Piazza Badia (vedle Porta Messina)
+
+**🎫 Vstupné:** €6 (muzeum)
+
+**Co uvidíte:**
+
+**1. Arabská věž (11. století):**
+- **Jádro** paláce
+- Postavili **Arabové** jako **obrannou věž**
+- Tehdy se město jmenovalo **Muʿizziyyah**
+
+**2. Normanské schodiště (12. století):**
+- Krásně zdobené
+- **Reliéfy:** Scény z **Bible** + **Genesis** (stvoření světa)
+
+**3. Gotická síň (14. století):**
+- **1410:** Zde zasedal **Sicilský parlament**! 🏛️
+- Důležité rozhodnutí: Zvolili **Ferdinanda I. Aragonského** za krále
+- **Fresky** na stěnách (částečně zachovalé)
+
+**4. Muzeum lidového umění:**
+
+**Co je uvnitř:**
+- **Sicilské loutky** (Pupi siciliani)
+  - Používané v loutkových divadlech
+  - Příběhy o rytířích (Orlando, Rinaldo)
+- **Tradiční vozy** (Carretto siciliano)
+  - Barevně malované
+  - Scény z křížových výprav
+- **Lidové řemeslo:**
+  - Teste di Moro (maurské hlavy)
+  - Keramika z Caltagirone
+
+**👑 Slavné osobnosti:**
+
+**Rodina Corvaja:**
+- Vlastnila palác **1538-1945** (407 let!)
+- Jedna z **nejstarších šlechtických rodin** Taorminy
+
+**💡 Zajímavosti:**
+
+1. **Název:** "Corvaja" = od slova "corvo" (havran)
+   - Erb rodiny měl **havrana**
+
+2. **1410 - Sicilský parlament:**
+   - Rozhodovali o **budoucnosti Sicílie**!
+   - Sicílie tehdy = **království**, ne součást Itálie
+
+3. **Dnes:** Turistické informační centrum (přízemí)
+
+---
+
+#### **15:30-16:00 - DUOMO (Katedrála) + CHIESA DI SANTA CATERINA**
+
+**📍 Místo 1:** Corso Umberto (poblíž Porta Catania)
+
+**🎫 Vstupné:** Zdarma
+
+**DUOMO DI TAORMINA (Katedrála sv. Mikuláše):**
+
+**Co uvidíte:**
+
+**1. Fasáda:**
+- **13. století** - vypadá jako **pevnost**!
+- **Cimbuří** (jako na hradě)
+- **Důvod:** Ochrana před **pirátskými útoky** z moře!
+
+**2. Portál:**
+- **Renesanční** vstupní brána (1636)
+- **Růžový mramor**
+
+**3. Interiér:**
+- **3 lodě** (hlavní + 2 boční)
+- **Dřevěný strop** s malovanými trámky
+- **Polyptych** (oltářní obraz) - византийský styl
+
+**💡 Zajímavost:**
+- Věnováno **sv. Mikulášovi** (patron dětí, námořníků, obchodníků)
+- Každoročně **6. prosince** = velká slavnost!
+
+---
+
+**📍 Místo 2:** Chiesa di Santa Caterina d'Alessandria (Kostel sv. Kateřiny Alexandrijské)
+
+**Vedle Palazzo Corvaja**
+
+**Co uvidíte:**
+
+**1. Postaveno NA starověkém Odeonu:**
+- **Odeon** = malé **římské divadlo** (1.-2. století n. l.)
+- Kapacita: ~200 diváků
+- **Pod kostelem** jsou viditelné **ruiny Odeonu**!
+
+**2. Barokní fasáda:**
+- **17. století**
+- Krásně zdobená
+
+**3. Interiér:**
+- **Fresky** na stropě
+- Oltář zasvěcený **sv. Kateřině Alexandrijské**
+
+**📖 Kdo byla sv. Kateřina Alexandrijská?**
+- Mučednice ze **4. století** (Alexandrie, Egypt)
+- **Symbol:** Kolo s trny (nástroj mučení)
+- **Patronka:** Filozofů, studentů, knihovníků
+- **Stejná svatá** jako socha v katedrále v Syrakusách! 😊
+
+**💡 Zajímavost:**
+- Můžete **sestoupit** do suterénu a vidět **římský Odeon**!
+- Vstup přes kostel
+
+---
+
+#### **16:00 - LANOVKA DOLŮ (Funivia)**
+
+**📍 Místo:** Via Luigi Pirandello (od Corso Umberto 5 min pěšky)
+
+**🎫 Jízdenka:** €3 (tam a zpět €4)
+
+**⏰ Jízda:** 2 minuty dolů
+
+**Kam jedete:**
+- Z **centra Taorminy** (200 m nad mořem)
+- Dolů na **pláž Mazzarò** (na úrovni moře)
+
+**💡 Zajímavost:**
+- Lanovka otevřena **1992**
+- Vyhlídka během jízdy: Naxos Bay, Etna
+
+---
+
+#### **16:30-18:00 - ISOLA BELLA (Krásný ostrov) 🏝️**
+
+**📍 Místo:** Z Mazzarò pěšky 5 minut vpravo
+
+**Co uvidíte:**
+
+**1. Isola Bella (ostrůvek):**
+
+**Jak to vypadá:**
+- Malý **skalnatý ostrůvek**
+- Spojený s pevninou **úzkou štěrkovou šíjí**
+- **Příliv:** Ostrov odříznutý (musíte brodit!)
+- **Odliv:** Dá se přejít pěšky suchou nohou
+
+**Historie:**
+
+**1890:** Koupila ho **Lady Florence Trevelyan**
+- Britská **šlechtična**
+- Příbuzná královny **Viktorie**
+- **Skandál:** Měla milostný poměr s **princem z Walesu** (budoucí král Edward VII)
+- Musela odjet z Anglie → utekla na Sicílii!
+
+**Co postavila:**
+- **Vila** v **viktoriánském stylu**
+- **Botanická zahrada** s **exotickými rostlinami**:
+  - Palmy, kaktusy, magnólie, středomořské květiny
+- **Terasovité zahrady**
+
+**1990:** Ostrov koupila **Sicilská oblast**
+- Vyhlásila ho za **přírodní rezervaci**
+
+**Dnes:**
+- Můžete navštívit **zahradu** (vstupné €4)
+- **Vila:** Pouze venkovní prohlídka (uvnitř uzavřeno)
+
+**2. Spiaggia Isola Bella (Pláž):**
+
+**Co dělat:**
+- **Koupání** v krystalicky čisté vodě
+- **Šnorchlování** (barevné rybky!)
+- **Fotografie** ostrůvku
+- **Relax** na pláži
+
+**Typ pláže:**
+- **Štěrková** (doporučuju boty do vody)
+- Část **veřejná** (zdarma)
+- Část **soukromá** (lehátka €15-20)
+
+**💡 Zajímavosti:**
+
+1. **Film:** Scény z filmu **"The Big Blue"** (1988) natočeny zde!
+
+2. **Lady Florence Trevelyan:**
+   - Postavila v Taormině také **"Giardini della Villa Comunale"** (veřejná zahrada)
+   - Zůstala na Sicílii **až do smrti** (1907)
+   - **Provdala se** za sicilského profesora
+
+3. **UNESCO:** Isola Bella kandiduje na **světové dědictví**!
+
+**📸 Nejlepší fotky:**
+- Z pláže směrem na ostrůvek (západ slunce!)
+- Z ostrůvku nahoru na Taorminu
+
+---
+
+### **🌆 VEČER (18:00-21:00)**
+
+---
+
+#### **18:00-18:30 - LANOVKA NAHORU + PROCHÁZKA**
+
+**🚡 Lanovka:** 2 minuty nahoru
+
+**🚶 Procházka:** Villa Comunale (Městská zahrada)
+
+**📍 Místo:** Via Bagnoli Croce
+
+**Co uvidíte:**
+
+**Villa Comunale (Veřejná zahrada):**
+
+**Kdo ji vytvořil:**
+- **Lady Florence Trevelyan** (stejná dáma jako Isola Bella!)
+- Darovala městu **1922**
+
+**Co je uvnitř:**
+- **Exotické rostliny** z celého světa
+- **"Victorian Follies"** = viktoriánské pavilónky
+  - Vypadají jako **čínské pagody** nebo **maurské věže**
+  - Lady Florence je navrhla sama!
+- **Vyhlídkové terasy** s panoramatem na moře
+
+**💡 Zajímavost:**
+- Zahrada je postavená na **římských cisternách** (nádrže na vodu)!
+
+---
+
+#### **18:30-19:00 - GRANITA V BAM BAR 🍧**
+
+**📍 Místo:** Via Di Giovanni, 45 (poblíž Porta Messina)
+
+**⭐ Nejlepší granita v Taormině!**
+
+**Co objednat:**
+
+**1. Granita al limone (citronová):** €3,50
+- Klasika!
+- Osvěžující, sladko-kyselá
+
+**2. Granita di mandorla (mandlová):** €4
+- Typická pro Taorminu!
+- Krémovější než citronová
+
+**3. Granita di gelsi (morušová):** €4
+- Speciální sicilská příchuť
+- Fialová barva
+
+**+ Brioche col tuppo:** €1
+- Italská **sladká houska**
+- **"Col tuppo"** = s "drdolem" (kulatá houska s kuličkou nahoře)
+- Sicilané granitu **nejedí lžičkou**, ale **макají do ní brioche**! 😊
+
+**Jak na to:**
+1. Objednat granitu + brioche
+2. Roztrhnout brioche napůl
+3. Namáčet do granity
+4. Nebe v ústech! 😋
+
+**💡 Zajímavost:**
+- **Granita** = arabský vynález!
+- Arabové (9.-11. století) vozili **sníh z Etny** dolů do měst
+- Míchali ho s **ovocnými šťávami**
+- Vznik granity!
+
+---
+
+#### **19:00-19:30 - ZÁPAD SLUNCE Z PIAZZA IX APRILE 🌅**
+
+**📍 Místo:** Piazza IX Aprile (zpět do Café Wunderbar)
+
+**⏰ Čas:** Západ slunce (v létě ~19:30-20:00, v zimě ~17:00-17:30)
+
+**Co uvidíte:**
+
+**Západ slunce nad Jónským mořem:**
+- **Slunce** klesá nad horizontem
+- **Moře** se barví do oranžova, růžova, fialova
+- **Naxos Bay** dole se leskne
+- **Etna** vpravo se rýsuje jako silueta
+
+**📸 Nejlepší fotka:**
+- Z **terasy Café Wunderbar**
+- Nebo z **okraje náměstí** (u zábradlí)
+
+**💡 Co říkali slavní:**
+
+**Elizabeth Taylor:**
+> *"Nejromantičtější západ slunce světa!"*
+
+**Goethe:**
+> *"Kousek ráje!"*
+
+**Guy de Maupassant:**
+> *"Kdyby někdo měl strávit na Sicílii jen jeden den, ptal by se: 'Co mám vidět?' Odpověděl bych bez váhání: 'Taorminu!'"*
+
+---
+
+#### **19:30-21:00 - VEČEŘE**
+
+**📍 Místo:** Osteria RossoDiVino (Vico De Spuches, 8)
+
+**💰 Cena:** €40-60 / osoba
+
+**🍷 Moderní sicilská kuchyně + skvělá vína**
+
+**Co objednat:**
+
+**Antipasti:**
+- **Carpaccio di pesce spada** = carpaccio z mečouna
+- **Polpo alla griglia** = grilovaná chobotnice
+
+**Primi:**
+- **Busiate al pesto trapanese** = sicilské těstoviny s mandlovým pestem
+- **Risotto al nero di seppia** = černé rizoto (s inkoustem sépie)
+
+**Secondi:**
+- **Tonno rosso** = tuňák (červený tuňák ze Středozemního moře)
+
+**Víno:**
+- **Nero d'Avola** (červené) = nejslavnější sicilské víno
+- **Grillo** (bílé) = osvěžující, citrusové tóny
+
+**Dezert:**
+- **Cassatina** = mini cassata (ricottový dort)
+
+---
+
+#### **21:00 - ODJEZD**
+
+**🚶 Průchod:** Porta Catania (brána na konci Corso Umberto)
+
+**🚌 Autobus:** Zpět do Catanie nebo Syrakus
+
+**💭 Co si odnášíte:**
+- **Teatro Greco** = nejkrásnější panorama světa
+- **Goethe, Churchill, Capote** = následovali jste jejich stopy
+- **Granita** = nejlepší ledový dezert života
+- **Západ slunce** = romantika jako z filmu
+- **Isola Bella** = koupání v ráji
+
+---
+
+## 🎯 **ALTERNATIVNÍ PROGRAM - Pokud máte 2 DNY**
+
+### **DEN 2 - RÁNO:**
+
+#### **Madonna della Rocca + Castello (Hrad)**
+
+**📍 Místo:** Na vrcholu hory nad Taorminou
+
+**🚶 Cesta:** 30 minut pěšky nahoru (strmé!)
+
+**Co uvidíte:**
+
+**1. Madonna della Rocca (Kostel):**
+- **Vytesaný do skály**!
+- Malá kaple
+- **Nádherný výhled** shora na celou Taorminu
+
+**2. Castello Saraceno (Saracénský hrad):**
+- Ještě výš (10 minut)
+- **Ruiny** hradu z **8.-9. století** (Arabové)
+- **360° panorama:**
+  - Taormina dole
+  - Etna vpravo
+  - Moře všude kolem
+  - Kalábrie v dálce
+
+**💡 Zajímavost:**
+- **Legenda:** Panna Maria se zjevila poustevníkovi → založil kapli
+- Každoročně **8. září** = procesí nahoru (svátek Madonna della Rocca)
+
+---
+
+### **DEN 2 - ODPOLEDNE:**
+
+#### **Giardini Naxos (Starověká řecká Naxos)**
+
+**📍 Místo:** 5 km od Taorminy (autobus nebo taxi)
+
+**Co uvidíte:**
+
+**1. Archeologická lokalita:**
+- **Nejstarší řecká kolonie na Sicílii**! (734 př. n. l.)
+- Starší než Syrakusy!
+- **Ruiny:**
+  - Městské hradby
+  - Chrám
+  - Domy
+
+**2. Museo Archeologico:**
+- Artefakty z Naxosu
+- Keramika, sochy, nástroje
+
+**3. Pláž:**
+- **Písčitá** (na rozdíl od Taorminy)
+- Dobrá pro rodiny
+- Levnější než Isola Bella
+
+**💡 Zajímavost:**
+- **403 př. n. l.:** Dionýsios I. ze Syrakus zničil Naxos
+- Obyvatelé uprchli nahoru → založili **Taorminu**!
+- Taormina = "dítě" Naxosu
 
 ---
 
