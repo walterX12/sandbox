@@ -100,8 +100,10 @@ V 4 ráno je taxi **NEJLEPŠÍ a často JEDINÁ možnost** dopravy na letiště 
 - **Check-in**: 2 hodiny před odletem (mezinárodní), 1,5h (Evropa)
 - **Bezpečnostní kontrola**: 15-30 minut
 
-**Příklad:**
-- Let v **6:30** → Buďte na letišti v **4:30** → Taxi objednejte na **4:00** (nebo dřív)
+**Příklady:**
+- Být na letišti v **5:00** → Taxi objednejte na **4:30-4:40**
+- Být na letišti v **6:00** → Taxi objednejte na **5:30-5:40**
+- Let v **6:30** → Buďte na letišti v **4:30** → Taxi na **4:00-4:10**
 - Let v **7:00** → Buďte na letišti v **5:00** → Taxi na **4:30-4:40**
 
 ---
@@ -119,7 +121,7 @@ V 4 ráno je taxi **NEJLEPŠÍ a často JEDINÁ možnost** dopravy na letiště 
    - Otevřete aplikaci
    - Vyberte "Zarezervovat jízdu" (ne "Jet hned")
    - Datum: **úterý**
-   - Čas: **4:00 AM**
+   - Čas: **4:30 AM** (být na letišti v 5:00)
    - Z: Vaše adresa v Catanii
    - Do: "Aeroporto Catania Fontanarossa" nebo "CTA"
 
@@ -135,13 +137,13 @@ V 4 ráno je taxi **NEJLEPŠÍ a často JEDINÁ možnost** dopravy na letiště 
 2. Řekněte:
 
 **Pokud mluvíte anglicky:**
-"Hello, I would like to book a taxi for tomorrow morning at 4:00 AM to the airport. My address is [vaše adresa]."
+"Hello, I would like to book a taxi for tomorrow morning at 4:30 AM to the airport. My address is [vaše adresa]."
 
 **Pokud italsky:**
-"Buongiorno, vorrei prenotare un taxi per domani mattina alle ore 4:00 per l'aeroporto. Il mio indirizzo è [vaše adresa]."
+"Buongiorno, vorrei prenotare un taxi per domani mattina alle ore 4:30 (quattro e trenta) per l'aeroporto. Il mio indirizzo è [vaše adresa]."
 
 3. Potvrďte:
-   - Čas: 4:00
+   - Čas: 4:30 (quattro e trenta)
    - Místo vyzvednutí
    - Vaše jméno
    - Telefonní číslo
@@ -165,10 +167,11 @@ V 4 ráno je taxi **NEJLEPŠÍ a často JEDINÁ možnost** dopravy na letiště 
 ### ✅ CO DĚLAT:
 
 1. **Objednejte DEN PŘEDEM** (v pondělí!)
-   - Ve 4 ráno není garantováno, že najdete taxi bez rezervace
+   - Časně ráno není garantováno, že najdete taxi bez rezervace
 
-2. **Dejte si budík o 10 minut dřív**
+2. **Dejte si budík na 4:20** (ne až na 4:30!)
    - Taxi může přijet o pár minut dřív/později
+   - Buďte připraveni
 
 3. **Mějte telefon nabitý**
    - Řidič vás může volat
@@ -268,13 +271,13 @@ V 4 ráno je taxi **NEJLEPŠÍ a často JEDINÁ možnost** dopravy na letiště 
 **Varianta 1 (nejjednodušší):**
 1. Stáhněte aplikaci **FREE NOW**
 2. Zaregistrujte se
-3. Objednejte taxi na **úterý 4:00 AM**
+3. Objednejte taxi na **úterý 4:30 AM**
 4. Destination: **Catania Airport (CTA)**
 5. Hotovo! ✅
 
 **Varianta 2 (spolehlivá):**
 1. Zavolejte **Radio Taxi: +39 095 330 966**
-2. Objednejte na úterý 4:00
+2. Objednejte na úterý 4:30 (quattro e trenta)
 3. Potvrďte adresu + telefonní číslo
 4. Hotovo! ✅
 
@@ -286,10 +289,10 @@ V 4 ráno je taxi **NEJLEPŠÍ a často JEDINÁ možnost** dopravy na letiště 
 5. Hotovo! ✅
 
 ### **ÚTERÝ RÁNO:**
-- **3:50**: Budík, připravte se
-- **4:00**: Taxi přijede
-- **4:00-4:05**: Nastupte, potvrďte "Aeroporto"
-- **4:15-4:20**: Dorazíte na letiště
+- **4:20**: Budík, připravte se
+- **4:30-4:40**: Taxi přijede
+- **4:30-4:45**: Nastupte, potvrďte "Aeroporto"
+- **4:50-5:00**: Dorazíte na letiště
 - **Užijte si let!** ✈️
 
 ---
