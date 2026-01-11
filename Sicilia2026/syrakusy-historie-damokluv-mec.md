@@ -181,12 +181,20 @@ DNES ━━━━━━━━━━━ ITALSKÁ REPUBLIKA
 - Slabší vládce
 - **Platón** ho navštívil (pokus o "filozofického krále") = **SELHALO**!
 
-**Archimedes** (287-212 př. n. l.):
+**Archimedes** (287-212 př. n. l.): ⭐⭐⭐
 - **Největší matematik** antiky!
 - Narodil se v Syrakusách
-- **"Eúréka!"** (Objevil vztlak vody)
+- **"Eúréka!"** (Objevil vztlak vody ve vaně!)
 - **Obléhací stroje** (bránil město proti Římanům)
+- **"Noli turbare circulos meos!"** = **"Neruš moje kruhy!"** (viz níže ↓)
 - **Zabit** římským vojákem při dobytí města (212 př. n. l.) 😢
+
+**Archimedes' vynálezy:**
+- **Harpax** ("Železná ruka") - chytala římské lodě a potápěla je!
+- **Katapulty** - vrhaly obrovské kameny na římské vojáky
+- **Ohnivá zrcadla** - možná pálily lodě (diskutováno)
+- **Archimedův šroub** - čerpadlo na vodu
+- **Páka**: *"Dejte mi místo, kde bych stál, a pohnu Zemí!"*
 
 ---
 
@@ -219,8 +227,85 @@ DNES ━━━━━━━━━━━ ITALSKÁ REPUBLIKA
 **Pád města:**
 - **212 př. n. l.**: Římané konečně dobyli město
 - Římský generál **Marcellus** nařídil **ušetřit Archimedesa**
-- Ale: **Římský voják ho zabil** (Archimedes kreslil geometrické tvary do písku, ignoroval vojáka) 💀
-- Marcellus **oplakával** jeho smrt
+  - Chtěl ho jako **zajatce** (respekt k jeho géniu!)
+  - Rozeslal rozkazy: "Nepřítele zajmout živého!"
+
+---
+
+### **⭕ "NOLI TURBARE CIRCULOS MEOS!" - Legenda smrti Archimedovy**
+
+**Scéna:** 212 př. n. l., Syrakusy právě padly, město je v chaosu
+
+**Co se stalo:**
+
+**1. Archimedes kreslil:**
+Starý matematik (75 let!) seděl venku a **kreslil geometrické kruhy do písku**. 📐
+- Byl tak **pohroužen** do matematického problému, že si nevšiml, že město padlo!
+- **Kruhy, čáry, symboly** = jeho svět
+
+**2. Římský voják přišel:**
+Římský voják (jméno neznámé) vtrhl do jeho domu/zahrady:
+- Viděl starého muže kreslícího do písku
+- **Nevěděl**, že je to slavný Archimedes!
+- Možná myslel, že je to **podezřelý** (kreslí tajné plány?)
+
+**3. Voják přikázal:**
+Voják **rozkázal** Archimedovi:
+> *"Pojď se mnou! Jsi zajat!"*
+
+**4. Archimedes odpověděl:**
+Archimedes **ani nezvedl hlavu** od svých kruhů! Řekl (latinsky nebo řecky):
+
+> **"NOLI TURBARE CIRCULOS MEOS!"**
+> *("Neruš moje kruhy!" / "Nechte mé kruhy být!")*
+
+nebo řecky:
+> **"Μὴ μου τοὺς κύκλους τάραττε!"**
+> *(Mē mou tous kyklous taratte!)*
+
+**Znamenalo to:**
+- *"Neobtěžuj mě! Musím dokončit tento důkaz!"*
+- *"Moje matematika je důležitější než tvé rozkazy!"*
+- *"Ještě chvilku, matematický problém není vyřešen!"*
+
+**5. Voják se rozzuřil:**
+Voják se **urazil**:
+- *"Jak se opovažuješ mě ignorovat?!"* 😡
+- *"Jsem vítězný římský voják! Poslouchej!"*
+- Nevěděl, že mluví s **největším matematikem světa**!
+
+**6. Meč:** ⚔️💀
+Voják **vytasil meč** a **zabil Archimedesa na místě**!
+- Archimedes zemřel nad svými kruhy v písku
+- Poslední, co viděl = jeho geometrické tvary
+- Zemřel jako **matematik**, ne jako voják
+
+**7. Marcellus se dozvěděl:**
+Když římský generál **Marcellus** (velitel) slyšel, co se stalo:
+- **Plakal**! 😢
+- **Zuřil** na vojáka (ale už bylo pozdě)
+- Nařídil **čestný pohřeb** pro Archimedesa
+- **Pomník** na Archimedově hrobě = **koule uvnitř válce** (jeho matematický objev!)
+
+---
+
+### **📐 VÝZNAM "NERUŠ MOJE KRUHY!":**
+
+**Symbolizuje:**
+- **Oddanost vědě** nad život samotný
+- **Matematika důležitější než válka**
+- **Intelekt vs. hrubá síla**
+- **Génius nepřerušený ani smrtí**
+
+**Používáno dnes:**
+- *"Neruš moje kruhy!"* = **"Neobtěžuj mě, jsem soustředěný!"**
+- Symbol **vědy**, **koncentrace**, **oddanosti**
+- Motto matematiků a vědců po celém světě! 🧮📐
+
+**Ironie:**
+- Archimedes **vynalezl zbraně**, které bránily Syrakusy 2 roky proti Římanům
+- Ale zemřel **v klidu**, kreslící **matematické kruhy** do písku
+- **Válka ho nezajímala** - jen matematika! 📏⭕
 
 ---
 
