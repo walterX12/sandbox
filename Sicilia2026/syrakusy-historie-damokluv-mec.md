@@ -198,6 +198,135 @@ DNES ━━━━━━━━━━━ ITALSKÁ REPUBLIKA
 
 ---
 
+### **🔥 ARCHIMÉDOVY ZBRANĚ - Moderní výzkum a experimenty**
+
+#### **1. ARCHIMÉDŮV DRÁP (Harpax) - "Železná ruka"** ⭐ POTVRZENO
+
+**Co to bylo:**
+- **Jeřáb** s kovovým hákem
+- Zahákl se za nepřátelskou loď plovoucí poblíž hradeb
+- **Zvedl loď** nahoru → loď se **převrátila**! 🚢💥
+
+**Moderní experimenty:**
+- ✅ **Současné pokusy POTVRDILY**, že Archimédův dráp mohl být funkčním zařízením
+- Rekonstrukce ukázaly, že mechanismus **opravdu funguje**!
+
+---
+
+#### **2. OHNIVÁ ZRCADLA (Sluneční paprsky) - 🔥 KONTROVERZNÍ**
+
+**Legenda:**
+- Archimedes použil **zrcadla** k odrazu slunečních paprsků
+- Paprsky zaměřil do **jednoho bodu** na římské lodi
+- Loď **vzplanula**! 🔥
+
+**Historie debaty:**
+
+**Skeptici:**
+- Historik **Lúkiános** (2. století n. l.) označil tvrzení za **lživé**
+- Říkal: "To je nemožné!"
+
+**Moderní věda:**
+- Moderní vědci **zrekonstruovali** pokus
+- Použili **pouze prostředky**, které Archimedes mohl mít k dispozici
+- **Závěr:** Za určitých podmínek mohlo vzplanutí lodi **fungovat**! ✅
+
+---
+
+#### **🔬 PRAKTICKÉ EXPERIMENTY:**
+
+**Experiment 1: Ioannis Sakkas (1973) - ÚSPĚCH! ✅**
+
+**Kde:** Námořní základna **Skaramagas** poblíž Athén, Řecko
+
+**Jak:**
+- Použil **70 měděných zrcadel**
+- Rozměry každého zrcadla: **1,5 × 1 metr**
+- Cíl: Model římské válečné lodi z **překližky**
+- Vzdálenost: **50 metrů**
+
+**Výsledek:**
+- Všechna zrcadla přesně zaměřena
+- Loď začala **hořet během několika sekund**! 🔥⚡
+- **ÚSPĚCH!**
+
+---
+
+**Experiment 2: MIT studenti (2005) - ČÁSTEČNÝ ÚSPĚCH ⚠️**
+
+**Kdo:** Skupina studentů z **MIT** (Massachusetts Institute of Technology, USA)
+
+**Jak:**
+- Použili **39 čtverečných metrů zrcadel**
+- Zaměřili je na **dřevěný model lodi**
+
+**Podmínky pro úspěch:**
+- ✅ Nebe musí být **bez mráčku** (čisté slunce)
+- ✅ Loď se **nesmí pohybovat** ~10 minut (!)
+- ✅ Musí být **přesné zaměření**
+
+**Výsledek:**
+- Za těchto podmínek loď **vzplanula**! 🔥
+- **ALE:**
+  - Moře od Syrakus směřuje na **východ**
+  - Nedosaženo dostatečné energie pro zapálení lodi v reálné bojové situaci
+  - Na krátkou vzdálenost by byly **výhodnější jednoduché prostředky**:
+    - **Zápalné šípy** 🏹🔥
+    - **Katapulty** s hořlavými projektily
+
+**Závěr MIT:**
+- Za **ideálních** podmínek může zbraň fungovat
+- V **reálné bitvě** = nepraktické
+- Lúkiánovo tvrzení **zpochybněno**, ale ne úplně vyvráceno
+
+---
+
+#### **🔥 ALTERNATIVNÍ TEORIE - Parní kanón**
+
+**Co říkají moderní vědci:**
+
+**Pravděpodobnější verze:**
+- Archimedes použil **parní kanón** 💨💥
+- Vystřeloval **projektily** na bázi látky známé jako **"řecký oheň"**
+  - (Řecký oheň = starověká zápalná zbraň, hořela i na vodě!)
+
+**Důkazy:**
+
+**Plutarchos** (starověký historik):
+- Tvrdil, že Archimédova zbraň byla **"protáhlá"**
+- (Kanón = protáhlý, zrcadlo = ne)
+
+**Galénos** (starověký lékař):
+- Mluvil o **"pálícím zařízení"**, nikoliv o **zrcadle**
+
+**Leonardo da Vinci:**
+- Zastával teorii parního kanónu!
+- **Načrtl**, jakou by zbraň měla mít podobu 🎨
+
+**Cesare Rossi** (Neapolská univerzita):
+- Archimedes mohl vytvořit kanón, který by:
+  - Vystřelil projektily o hmotnosti **~6 kg**
+  - Rychlost: **~60 metrů za sekundu**
+  - Vzdálenost: **až 150 metrů**! 🚀
+
+---
+
+#### **📊 SHRNUTÍ - Co opravdu funguje?**
+
+| Zbraň | Funkčnost | Důkazy |
+|-------|-----------|--------|
+| **Archimédův dráp** (Harpax) | ✅ **ANO** | Moderní rekonstrukce potvrzují |
+| **Ohnivá zrcadla** | ⚠️ **MOŽNÁ** | Funguje za ideálních podmínek, nepraktické v bitvě |
+| **Parní kanón** s řeckým ohněm | ✅ **PRAVDĚPODOBNĚJŠÍ** | Historické popisy odpovídají lépe |
+| **Katapulty** | ✅ **ANO** | Běžně používané ve starověku |
+
+**Pravda:**
+- Archimedes **určitě** sestrojil **efektivní obranné zbraně**
+- Římané Syrakusy **obléhali 2 roky** (214-212 př. n. l.)!
+- **Něco** je asi **2 roky zdrželo** → Archimédovy vynálezy fungovaly! ⚔️
+
+---
+
 ### **🏛️ KULTURA:**
 
 **Syrakusy = "Athény Západu"!**
