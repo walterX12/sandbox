@@ -10,12 +10,92 @@
 - Obvykle v **párech** (muž a žena)
 - Ručně vyráběné **v Caltagirone** (keramické centrum Sicílie)
 
-**Na vašich fotkách:**
-- 📸 **Fotka 1**: Muž s vousem (Maur) - tmavší pleť, vousy, koruna/turban
-- 📸 **Fotka 2**: Žena s ovocem (Sicilská dívka) - citrony, granátová jablka
-- 📸 **Fotka 3**: Další žena s detailní výzdobou
-
 **Ačkoliv vypadají krásně a zdobně, váže se k nim stará a poměrně KRVAVÁ legenda o lásce, žárlivosti a pomstě!** 😱💔
+
+---
+
+## 📸 VAŠE FOTKY - Popis konkrétních verzí
+
+### **Fotka 1: Muž s vousem (Maur) - Tyrkysová verze**
+
+![Teste di Moro - Muž](images/teste-di-moro-muz-tyrkys.jpg)
+
+**Popis:**
+- **Plnovous** (černý)
+- **Tyrkysová koruna** (jako akantové listy!) 🌿
+- **Zlatá květina** uprostřed čela (granátové jablko?)
+- **Červené rty**
+- **Cena**: €303,00 (viditelná na fotce!)
+
+**Symbolika:**
+- **Tyrkysová** = Sicilské moře, středomořská barva
+- **Akantové listy** = klasický řecko-římský motiv (často na sloupech!)
+- **Bazalka** stylizovaná jako dekorativní listy
+- **Muž** = Maur z legendy
+
+**Styl:**
+- **Moderní interpretace** klasické legendy
+- **Art Nouveau** vliv (organické tvary listů)
+- **Tyrkysová + zlatá** = luxusní kombinace
+
+---
+
+### **Fotka 2: Žena - Modré a žluté květiny**
+
+![Teste di Moro - Žena s květinami](images/teste-di-moro-zena-kvety.jpg)
+
+**Popis:**
+- **Červené rty** (vášeň!)
+- **Modré květiny** (velké, zářivé) 🌼
+- **Žluté/zlaté citrony** 🍋
+- **Zelené listy**
+- **Náušnice** (žluté květiny)
+- **Náhrdelník** (modrý kámen uprostřed)
+
+**Symbolika:**
+- **Modré květiny** = Sicilské nebe, moře
+- **Žluté citrony** = Typické sicilské citrusy!
+- **Zelené listy** = Bazalka, která vyrostla z hlavy
+- **Kombinace barev** = Sicilská vlajka (žlutá + červená + zelená)
+
+**Styl:**
+- **Veselá, zářivá** verze
+- **Caltagirone** styl (typické barvy a květiny)
+- **Pro balkon** - jako v legendě!
+
+**Krásný detail:**
+- Pod hlavou je **sicilské cannolo** (tradiční dezert)! 🥐
+- = Teste di Moro + sicilská gastronomie = perfektní kombinace!
+
+---
+
+### **Fotka 3: Žena - Detail tyrkysové koruny**
+
+![Teste di Moro - Detail koruny](images/teste-di-moro-detail-koruna.jpg)
+
+**Popis:**
+- **Tyrkysová koruna** (akantové listy) 🌿
+- **Zlatá květina** uprostřed (4 okvětní lístky)
+- **Červený střed** květiny (granátové jablko!)
+- **Červené rty**
+- **Modré oči** (tyrkysové)
+- **Žluté náušnice**
+
+**Symbolika:**
+- **Tyrkysová** = Středozemní moře
+- **Akantové listy** = Klasický řecký motiv
+- **Zlatá květina** = Sicilské slunce
+- **Granátové jablko** (střed) = Plodnost, láska, vášeň
+
+**Detail:**
+- **Náušnice** = zlaté květiny visící z uší
+- **Náhrdelník** = listy kolem krku (pokračování koruny!)
+- **Oči** = tyrkysové (match s korunou!)
+
+**Styl:**
+- **Elegantní, rafinovaná** verze
+- **Detailní ruční práce** viditelná
+- **Tyrkysová + zlatá** = luxus
 
 ---
 
