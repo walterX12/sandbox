@@ -48,14 +48,22 @@ V 4 ráno je taxi **NEJLEPŠÍ a často JEDINÁ možnost** dopravy na letiště 
 
 ### 2. **Taxi Aplikace** (pokud fungují ve 4 ráno)
 
-#### a) **FREE NOW (MyTaxi)** ⭐ DOPORUČENO
+#### a) **FREE NOW (MyTaxi)** ⭐ DOPORUČENO (ale s výhradami)
 - Aplikace: FREE NOW (dříve MyTaxi)
 - Google Play / App Store
 - **Funguje v Catanii!**
 - Platba kartou v aplikaci
-- Vidíte cenu předem
-- Můžete objednat předem (až 4 dny dopředu)
-- **JAK**: Otevřete app → Vyberte čas "Zarezervovat jízdu" → 4:00 úterý → Letiště
+- **JAK**: Otevřete app → Vyberte čas "Zarezervovat jízdu" → 4:30 úterý → Letiště
+
+**⚠️ PROBLÉM s FREE NOW:**
+- Někdy **NEUKAZUJE cenu předem** při rezervaci
+- **NEGARANTUJE**, že řidič přijde (jen "požadavek")
+- Ve 4:30 ráno může být **ŽÁDNÝ řidič** dostupný
+- **RIZIKO**: Můžete čekat a nikdo nepřijde!
+
+**💡 ŘEŠENÍ:**
+- Použijte FREE NOW jako **ZÁLOHU**, ne jako hlavní plán
+- **HLAVNÍ**: Objednejte Radio Taxi (+39 095 330 966) - garantované!
 
 #### b) **Uber** (OMEZENÉ v Catanii!)
 - Uber v Catanii **NENÍ moc rozšířený**
