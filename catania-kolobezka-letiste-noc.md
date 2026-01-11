@@ -8,26 +8,38 @@ Pokud máte **POUZE BATOH** a nevadí vám **tma a zima**, koloběžka MŮŽE b�
 
 ## 📱 DOSTUPNÉ SLUŽBY SDÍLENÝCH KOLOBĚŽEK V CATANII
 
-### Potvrzené Operátoři (2025-2026):
+### Dostupné Operátoři v Catanii:
 
-**1. Helbiz** ⭐ HLAVNÍ PROVOZOVATEL
-- Aplikace: "Helbiz" (Google Play / App Store)
-- Aktivní v Catanii
-- Největší pokrytí
+**⚠️ PROBLÉM: Helbiz není v Google Play (regionální omezení)**
 
-**2. Dott**
-- Aplikace: "Dott"
-- Dostupný v Catanii (ověřeno 2023-2024)
-- Může být stále aktivní
+**ALTERNATIVY - Zkuste tyto:**
 
-**3. Lime**
-- Aplikace: "Lime"
+**1. Dott** ⭐ ZKUSTE JAKO PRVNÍ
+- Aplikace: "Dott - Unlock your city"
+- Google Play / App Store
+- Ověřeno v Catanii (2023-2024)
+- Zelená ikona s "Dott" logem
+
+**2. Lime** ⭐ DRUHÁ MOŽNOST
+- Aplikace: "Lime - #RideGreen"
+- Google Play / App Store
+- Mezinárodní značka
 - Potvrzený provozovatel v Catanii
-- Známá mezinárodní značka
 
-**4. Emtransit**
-- Menší místní provozovatel
-- Méně rozšířený
+**3. TIER** (možná)
+- Aplikace: "TIER - Scooter Sharing"
+- V některých italských městech
+- Zkuste, jestli funguje v Catanii
+
+**4. Bird** (možná)
+- Aplikace: "Bird - Ride Electric"
+- Zkontrolujte dostupnost
+
+**5. Helbiz** (jen přes web?)
+- Pokud není v Google Play, zkuste:
+  - Stáhnout z App Store (iPhone)
+  - Nebo přes webový prohlížeč: helbiz.com
+- Ale pravděpodobně nedostupné ve vašem regionu
 
 ---
 
@@ -48,14 +60,15 @@ Pokud máte **POUZE BATOH** a nevadí vám **tma a zima**, koloběžka MŮŽE b�
 ### 🔍 JAK ZJISTIT PŘEDEM:
 
 **DNES večer (po 22:00):**
-1. Stáhněte aplikaci **Helbiz**
-2. Otevřete mapu
+1. Stáhněte aplikace: **Dott** a **Lime** (obě!)
+2. Otevřete mapu v každé aplikaci
 3. Podívejte se, jestli jsou koloběžky **dostupné** po 22:00-23:00
 4. Pokud ANO → pravděpodobně budou i ve 4:30 ✅
 5. Pokud NE (všechny "nedostupné") → nebudou ve 4:30 ❌
 
-**NEBO zavolejte:**
-- Helbiz support (v aplikaci)
+**NEBO zavolejte/napište:**
+- Dott support (v aplikaci)
+- Lime support (v aplikaci)
 - Zeptejte se: "Are scooters available at 4:30 AM in Catania?"
 
 ---
@@ -98,7 +111,7 @@ Pokud máte **POUZE BATOH** a nevadí vám **tma a zima**, koloběžka MŮŽE b�
 
 ## 💰 CENY (Odhadované)
 
-### Helbiz / Dott / Lime (typické ceny):
+### Dott / Lime / TIER (typické ceny):
 - **Odemknutí**: €1,00
 - **Minuta**: €0,20-0,25
 - **25 minut jízdy**: €1 + (25 × €0,20) = **~€6-7**
@@ -115,10 +128,11 @@ Pokud máte **POUZE BATOH** a nevadí vám **tma a zima**, koloběžka MŮŽE b�
 
 ### 1. **PŘÍPRAVA (DNES - den předem):**
 
-**Stáhněte aplikaci:**
-- Helbiz (doporučeno)
-- Dott (záloha)
-- Lime (záloha)
+**Stáhněte aplikace:**
+- **Dott** (doporučeno jako první) ⭐
+- **Lime** (doporučeno jako druhá) ⭐
+- TIER (pokud je dostupná)
+- Bird (pokud je dostupná)
 
 **Registrace:**
 - Email + telefon
@@ -132,7 +146,7 @@ Pokud máte **POUZE BATOH** a nevadí vám **tma a zima**, koloběžka MŮŽE b�
 ### 2. **ÚTERÝ RÁNO (4:00-4:30):**
 
 **Krok 1: Najděte koloběžku**
-- Otevřete aplikaci (např. Helbiz)
+- Otevřete aplikaci (Dott nebo Lime)
 - Zapněte GPS
 - Mapa ukáže dostupné koloběžky poblíž
 - **Vyberte nejbližší** (ideálně <5 minut chůze)
@@ -282,9 +296,9 @@ Pokud máte **POUZE BATOH** a nevadí vám **tma a zima**, koloběžka MŮŽE b�
 ### DEN PŘEDEM (PONDĚLÍ):
 
 ```
-☐ Stáhnout Helbiz + Dott + Lime aplikace
-☐ Zaregistrovat se (email, karta)
-☐ Večer (po 22:00) zkontrolovat dostupnost koloběžek
+☐ Stáhnout Dott + Lime aplikace (Helbiz není v Google Play)
+☐ Zaregistrovat se v obou (email, karta)
+☐ Večer (po 22:00) zkontrolovat dostupnost koloběžek v OBOU aplikacích
 ☐ Prostudovat trasu na Google Maps
 ☐ Připravit reflexní vestu/pásy (POVINNÉ!)
 ☐ Nabít telefon + powerbanku
@@ -295,7 +309,7 @@ Pokud máte **POUZE BATOH** a nevadí vám **tma a zima**, koloběžka MŮŽE b�
 
 ```
 ☐ 4:00 - Vstát, připravit se
-☐ 4:10 - Otevřít aplikaci, najít koloběžku
+☐ 4:10 - Otevřít Dott nebo Lime, najít koloběžku
 ☐ 4:15 - Dojít ke koloběžce
 ☐ 4:20 - Zkontrolovat: baterie (60%+), světla, brzdy
 ☐ 4:20 - Nasadit reflexní vestu
@@ -344,11 +358,12 @@ Pokud máte **POUZE BATOH** a nevadí vám **tma a zima**, koloběžka MŮŽE b�
 ### VARIANTA A: Koloběžka (pokud funguje)
 
 **DNES:**
-1. Stáhněte Helbiz
-2. Večer zkontrolujte dostupnost po 22:00
-3. Pokud JSOU dostupné → skvělé! ✅
-4. Kupte reflexní vestu
-5. Prostudujte trasu
+1. Stáhněte **Dott** a **Lime** (Helbiz není v Google Play)
+2. Zaregistrujte se v obou aplikacích
+3. Večer zkontrolujte dostupnost po 22:00 v OBOU aplikacích
+4. Pokud JSOU dostupné → skvělé! ✅
+5. Kupte reflexní vestu
+6. Prostudujte trasu
 
 **ÚTERÝ:**
 1. 4:10 - Najděte koloběžku v aplikaci
@@ -389,12 +404,13 @@ Pokud máte **POUZE BATOH** a nevadí vám **tma a zima**, koloběžka MŮŽE b�
 
 ## 📞 KONTAKTY
 
-**Helbiz Support:**
-- V aplikaci: Help Center
-- Email: support@helbiz.com
-
 **Dott Support:**
-- V aplikaci: Support
+- V aplikaci: Help / Support
+- Web: ridedott.com
+
+**Lime Support:**
+- V aplikaci: Help Center
+- Web: li.me/support
 
 **ZÁLOHA - Radio Taxi:**
 - Tel: **+39 095 330 966**
@@ -416,12 +432,13 @@ Informace o sdílených koloběžkách v Catanii:
 ---
 
 **SHRNUTÍ:**
-1. Stáhněte Helbiz + ověřte dostupnost večer
-2. Kupte reflexní vestu (POVINNÁ!)
-3. Prostudujte trasu
-4. Mějte zálohu (taxi)
-5. Úterý ráno: Zkontrolujte baterii + světla
-6. Jeďte opatrně!
-7. Ušetříte €20-25! 🎉
+1. Stáhněte **Dott** a **Lime** (Helbiz není v Google Play)
+2. Večer ověřte dostupnost koloběžek v obou aplikacích
+3. Kupte reflexní vestu (POVINNÁ!)
+4. Prostudujte trasu
+5. Mějte zálohu (taxi)
+6. Úterý ráno: Zkontrolujte baterii + světla
+7. Jeďte opatrně!
+8. Ušetříte €20-25! 🎉
 
 **Hodně štěstí a bezpečnou cestu!** 🛴✈️
