@@ -643,6 +643,98 @@ Přidejte k výše uvedenému:
 - **18. století**: Nová barokní krása!
 - **Výsledek**: Unikátní mix řecké + barokní architektury!
 
+### **11. Kočky Ortygie - chráněné obyvatelky starověkých ruin!** 🐱
+
+**Ortygia je PLNÁ pouličních koček!**
+
+**Proč je tolik koček?**
+- **Sicílie** = nejvíc pouličních koček v celé Itálii!
+- **Důvod:** Teplé středozemní klima (kočky přežijí celý rok venku)
+- **Ortygia:** Ideální prostředí:
+  - **Archeologické ruiny** = úkryty (Tempio di Apollo, Teatro Greco)
+  - **Ryby z přístavu** = občas dostanou rybí odpadky
+  - **Turisté** = někdy je krmí
+  - **Staré budovy** = hodně skrýší
+
+**💚 Lidé se o ně OPRAVDU starají!**
+
+**"Colonia Felina" (Kočičí kolonie):**
+- V Itálii jsou pouliční kočky **OFICIÁLNĚ CHRÁNĚNÉ ZÁKONEM!** (Zákon č. 281/1991)
+- Každá kolonie má svého **správce** (dobrovolníka)
+- **"Gattara"** = žena, která se stará o kočky
+  - Obvykle starší místní ženy
+  - Krmí je, volají veterináře
+  - Respektovaná role v italské komunitě!
+
+**TNR Program (Trap-Neuter-Return):**
+- Organizace **Felina Sicily** pomáhá kočkám na Sicílii
+- **Chytají** kočky
+- **Sterilizují/kastrují** je (aby se nekontrolovatelně nerozmnožovaly)
+- **Vrací** je zpět do jejich kolonie
+- Web: [www.felina-sicily.org](https://www.felina-sicily.org/en/our-work/)
+
+**⚖️ PRÁVNÍ OCHRANA:**
+- Kočky **nesmí** být zabíjeny nebo týrány
+- Kočky **nesmí** být přesunuty z jejich kolonie
+- **Pokuta** za ublížení kočce: až **€10 000**!
+
+**📍 KDE VIDĚT KOČKY V ORTYGII:**
+
+**Top místa:**
+1. **Fonte Aretusa** - často tam spí na zábradlí u papyrusu
+2. **Tempio di Apollo** - mezi starověkými sloupy (kameny se hřejí na slunci!)
+3. **Piazza Duomo** - pod stolečky kaváren
+4. **Mercato di Ortigia** - u rybích stánků (čekají na odpadky)
+5. **Teatro Greco** - mezi řadami sedadel (v archeologickém parku)
+6. **Castello Maniace** - na hradbách
+
+**📸 Fotogenické kočky:**
+- Kočky v Ortygii jsou **zvyklé na lidi**
+- Často **pózují** na starověkých ruinách
+- Perfektní pro fotky: *"Kočka na 2500 let starých kamenech"*!
+
+**⚠️ CO DĚLAT (A NEDĚLAT):**
+
+**✅ MŮŽETE:**
+- **Fotit** je (jsou zvyklé!)
+- **Pozorovat** je
+- **Pohladit** je (pokud přijdou k vám samy)
+
+**❌ NEMĚLI BYSTE:**
+- **Krmit** je náhodným jídlem (mohou dostat průjem)
+  - Pokud opravdu chcete: kupte **kočičí granule** v supermarketu
+- **Brát** je do náručí (mohou být divoké)
+- **Rušit** je při spánku
+- **Brát** je domů (je to **ilegální** - jsou chráněné v kolonii!)
+
+**💡 ZAJÍMAVOSTI:**
+
+1. **"Gatti di Siracusa"** (Kočky ze Syrakus):
+   - Místní je považují za **součást kulturního dědictví** města!
+   - Kočky jsou zde už **staletí**
+
+2. **Archimedes a kočky:**
+   - Podle legend měl Archimedes kočku
+   - Kočky **hledají** teplá místa → starověké kameny se hřejí na slunci
+   - Proto vidíte kočky **na ruinách**!
+
+3. **Nejslavnější kočičí kolonie Itálie:**
+   - **Řím:** Torre Argentina (250 koček mezi ruinami!)
+   - **Benátky:** Kočky na náměstí San Marco
+   - **Syrakusy:** Kočky v Ortygii mezi starověkými chrámy
+
+4. **Kočky jako "strážci ruin":**
+   - Kočky **loví** myši a krysy
+   - Pomáhají **chránit** archeologické lokality před hlodavci!
+
+**🏛️ Kočky Ortygie = živoucí součást 2700leté historie ostrova!**
+
+**Zdroje:**
+- [Felina Sicily - Helping feral cats in Sicily](https://www.felina-sicily.org/en/our-work/)
+- [Cats in Italy - beloved and protected](https://casa-belvedere.org/cats-in-italy-beloved-and-protected/)
+- [The Great Sicilian Cat Rescue - Times of Sicily](https://www.timesofsicily.com/the-great-sicilian-cat-rescue/)
+- [Street Cats of Rome - Legal Protection](https://howdyeurope.com/italy/rome/street-cats-guide/)
+
 ---
 
 ## 📚 ZDROJE
