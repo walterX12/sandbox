@@ -437,6 +437,46 @@ Když **Odysseus** (Ulysses) a jeho flotila kotvili u pobřeží poblíž Taormi
 
 ---
 
+#### **🎫 KRITICKY DŮLEŽITÉ - OZNAČIT LÍSTEK! ⚠️**
+
+**PŘED NÁSTUPEM DO VLAKU MUSÍTE LÍSTEK OZNAČIT (VALIDOVAT)!**
+
+**❗ POKUTA pokud lístek NENÍ označený!**
+
+**Jak na to:**
+
+**1. Najděte označovač jízdenek:**
+- **Název:** "Validatrice biglietti" nebo "Convalida"
+- **Kde:** Na nádraží, obvykle **u vchodu na nástupiště**
+- **Vypadá jako:** Zelený nebo žlutý automat (viz foto)
+- **Logo:** Trenitalia
+
+**2. Označte lístek:**
+- **Vložte lístek** do štěrbiny na automatu
+- **Uslyšíte "klik"** = lístek označen ✅
+- **Na lístku** se vytiskne: datum, čas, nádraží
+- **Zkontrolujte** že se vytisklo!
+
+**3. Potom nastupte do vlaku**
+
+**⚠️ DŮLEŽITÉ:**
+- **Online lístky** (e-ticket, PDF): Obvykle **NENÍ nutné** označovat (už mají datum/čas)
+- **Papírové lístky** z automatu/pokladny: **MUSÍTE označit**!
+- **Regionální vlaky** (Regionale): **VŽDY označit**!
+- **Rychlovlaky** s rezervací (Intercity, Frecce): Obvykle není nutné (mají číslo vlaku)
+
+**💰 POKUTA:**
+- **Neoznačený lístek** = považován za **neplatný**!
+- **Revizor v vlaku** = pokuta **€50+** na místě!
+- **Výmluva "nevěděl jsem"** = nefunguje!
+
+**💡 TIP:**
+- Označte lístek **5-10 minut před odjezdem**
+- **Ne den předem**! (Platnost začíná označením)
+- Pokud automat **nefunguje** = řekněte revizorovi hned po nástupu
+
+---
+
 #### **🚌 CO DĚLAT PO PŘÍJEZDU VLAKEM (Taormina-Giardini stanice):**
 
 **Varianta A: Autobus nahoru (doporučeno!)**
