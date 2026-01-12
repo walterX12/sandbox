@@ -814,122 +814,108 @@ Když **Odysseus** (Ulysses) a jeho flotila kotvili u pobřeží poblíž Taormi
 
 ---
 
-#### **16:00 - LANOVKA DOLŮ (Funivia)**
+#### **16:00-17:30 - MADONNA DELLA ROCCA + CASTELLO SARACENO** ⛪🗻
 
-**📍 Místo:** Via Luigi Pirandello (od Corso Umberto 5 min pěšky)
+**📍 Start:** Za Teatro Greco, Via Cappuccini (5 min pěšky od Corso Umberto)
 
-**🎫 Jízdenka:** €3 (tam a zpět €4)
+**⏰ Čas celkem:** 1,5 hodiny
 
-**⏰ Jízda:** 2 minuty dolů
-
-**Kam jedete:**
-- Z **centra Taorminy** (200 m nad mořem)
-- Dolů na **pláž Mazzarò** (na úrovni moře)
-
-**💡 Zajímavost:**
-- Lanovka otevřena **1992**
-- Vyhlídka během jízdy: Naxos Bay, Etna
-
----
-
-#### **16:30-18:00 - ISOLA BELLA (Krásný ostrov) 🏝️**
-
-**📍 Místo:** Z Mazzarò pěšky 5 minut vpravo
+**🚶 Trasa:**
+- **30 min:** Stoupání po schodech na Madonna della Rocca
+- **30 min:** Návštěva kostelíku + výhled + odpočinek
+- **+10 min:** Volitelně na Castello Saraceno (ještě výš)
+- **20 min:** Sestup zpět do města
 
 **Co uvidíte:**
 
-**1. Isola Bella (ostrůvek):**
+**1. Madonna della Rocca (Kostel vytesaný do skály):**
 
-**Jak to vypadá:**
-- Malý **skalnatý ostrůvek**
-- Spojený s pevninou **úzkou štěrkovou šíjí**
-- **Příliv:** Ostrov odříznutý (musíte brodit!)
-- **Odliv:** Dá se přejít pěšky suchou nohou
+- **Kaple:** Malá, intimní, **vytesaná přímo do skály**!
+- **Oltář:** Socha Panny Marie
+- **Atmosféra:** Klidné duchovní místo pro modlitbu
+- **360° PANORAMA:**
+  - **Taormina** celá rozložená dole pod vámi
+  - **Teatro Greco** shora (unikátní pohled!)
+  - **Etna** vpravo (3 357 m)
+  - **Jónské moře** všude kolem
+  - **Naxos Bay** dole
+  - **Kalábrie** v dálce
 
-**Historie:**
+**💡 Nejlepší místo na ZÁPAD SLUNCE v Taormině!**
+- V **lednu:** Slunce zapadá **~17:00-17:30**
+- Pokud přijdete na 16:30, **zastihne vás západ přímo nahoře**!
+- **Elizabeth Taylor:** *"Nejromantičtější západ slunce světa!"* ← Tady ho viděla! 🌅
 
-**1890:** Koupila ho **Lady Florence Trevelyan**
-- Britská **šlechtična**
-- Příbuzná královny **Viktorie**
-- **Skandál:** Měla milostný poměr s **princem z Walesu** (budoucí král Edward VII)
-- Musela odjet z Anglie → utekla na Sicílii!
-
-**Co postavila:**
-- **Vila** v **viktoriánském stylu**
-- **Botanická zahrada** s **exotickými rostlinami**:
-  - Palmy, kaktusy, magnólie, středomořské květiny
-- **Terasovité zahrady**
-
-**1990:** Ostrov koupila **Sicilská oblast**
-- Vyhlásila ho za **přírodní rezervaci**
-
-**Dnes:**
-- Můžete navštívit **zahradu** (vstupné €4)
-- **Vila:** Pouze venkovní prohlídka (uvnitř uzavřeno)
-
-**2. Spiaggia Isola Bella (Pláž):**
-
-**Co dělat:**
-- **Koupání** v krystalicky čisté vodě
-- **Šnorchlování** (barevné rybky!)
-- **Fotografie** ostrůvku
-- **Relax** na pláži
-
-**Typ pláže:**
-- **Štěrková** (doporučuju boty do vody)
-- Část **veřejná** (zdarma)
-- Část **soukromá** (lehátka €15-20)
-
-**💡 Zajímavosti:**
-
-1. **Film:** Scény z filmu **"The Big Blue"** (1988) natočeny zde!
-
-2. **Lady Florence Trevelyan:**
-   - Postavila v Taormině také **"Giardini della Villa Comunale"** (veřejná zahrada)
-   - Zůstala na Sicílii **až do smrti** (1907)
-   - **Provdala se** za sicilského profesora
-
-3. **UNESCO:** Isola Bella kandiduje na **světové dědictví**!
-
-**📸 Nejlepší fotky:**
-- Z pláže směrem na ostrůvek (západ slunce!)
-- Z ostrůvku nahoru na Taorminu
+**📖 Legenda:**
+- **Panna Maria** se zjevila **poustevníkovi** na tomto místě
+- Poustevník vytesal kapli do skály
+- **8. září:** Každoročně **procesí** nahoru (svátek Madonna della Rocca)
 
 ---
 
-### **🌆 VEČER (18:00-21:00)**
+**2. Castello Saraceno (Saracénský hrad) - VOLITELNĚ:**
+
+**📍 Místo:** Ještě **10 minut výš** po strmé cestě
+
+**Co to je:**
+- **Ruiny** arabského hradu z **8.-9. století**
+- Postavili **Arabové** (Saracéni)
+- **Strategický bod:** Kontrola celého pobřeží
+
+**Výhled:**
+- **Ještě lepší** než z Madonna della Rocca!
+- **360° panorama** - nejlepší v celé Taormině
+- Vidíte celou **východní Sicílii**
+
+**⚠️ POZOR:**
+- Cesta na Castello je **velmi strmá** a **skalnatá**
+- V **zimě** se setmí kolem **17:30**!
+- Pokud jdete na Castello, vraťte se **PŘED 17:00** (tmavé schody = nebezpečné)
 
 ---
 
-#### **18:00-18:30 - LANOVKA NAHORU + PROCHÁZKA**
+**💡 PRAKTICKÉ TIPY:**
 
-**🚡 Lanovka:** 2 minuty nahoru
+**Obuv:**
+- **Nutná dobrá treková obuv** nebo tenisky s pevnou podrážkou
+- Schody jsou **kamenné**, místy **nerovné**
 
-**🚶 Procházka:** Villa Comunale (Městská zahrada)
+**Oblečení:**
+- **V lednu:** Vezměte **bundu**!
+- Nahoře je **chladněji** (o 3-5°C) + **vítr**
+- Může foukat i když dole ve městě je klid
 
-**📍 Místo:** Via Bagnoli Croce
+**Voda:**
+- Vezměte **láhev vody**
+- Nahoru není žádná fontána
 
-**Co uvidíte:**
+**Čas:**
+- **KRITICKÉ:** Musíte být zpět dole **PŘED TMOU** (~17:30)!
+- Doporučuju: Start **16:00**, zpět **17:30**
+- Pak ještě stihnete granitu a večeři
 
-**Villa Comunale (Veřejná zahrada):**
-
-**Kdo ji vytvořil:**
-- **Lady Florence Trevelyan** (stejná dáma jako Isola Bella!)
-- Darovala městu **1922**
-
-**Co je uvnitř:**
-- **Exotické rostliny** z celého světa
-- **"Victorian Follies"** = viktoriánské pavilónky
-  - Vypadají jako **čínské pagody** nebo **maurské věže**
-  - Lady Florence je navrhla sama!
-- **Vyhlídkové terasy** s panoramatem na moře
-
-**💡 Zajímavost:**
-- Zahrada je postavená na **římských cisternách** (nádrže na vodu)!
+**Fotky:**
+- **Nejlepší světlo:** 16:30-17:15 (zlatá hodina + západ slunce)
+- Taormina dole bude **zlatě nasvícená**!
 
 ---
 
-#### **18:30-19:00 - GRANITA V BAM BAR 🍧**
+### **🌆 VEČER (17:30-21:00)**
+
+---
+
+#### **17:30-18:00 - SESTUP + PROCHÁZKA CORSO UMBERTO**
+
+**🚶 Sestup:** 20 minut z Madonna della Rocca zpět do města
+
+**Procházka:**
+- Corso Umberto (osvětlený večer!)
+- **Obchůdky** s upomínkami (ještě otevřené)
+- **Teste di Moro**, Limoncello, keramika
+
+---
+
+#### **18:00-18:30 - GRANITA V BAM BAR 🍧**
 
 **📍 Místo:** Via Di Giovanni, 45 (poblíž Porta Messina)
 
@@ -968,34 +954,38 @@ Když **Odysseus** (Ulysses) a jeho flotila kotvili u pobřeží poblíž Taormi
 
 ---
 
-#### **19:00-19:30 - ZÁPAD SLUNCE Z PIAZZA IX APRILE 🌅**
+#### **18:30-19:00 - VEČERNÍ PROCHÁZKA / ODPOČINEK**
 
-**📍 Místo:** Piazza IX Aprile (zpět do Café Wunderbar)
+**📍 Místo:** Piazza IX Aprile nebo Café Wunderbar
 
-**⏰ Čas:** Západ slunce (v létě ~19:30-20:00, v zimě ~17:00-17:30)
+**⏰ V lednu:** Už je **tma** (slunce zapadlo ~17:00-17:30)
 
-**Co uvidíte:**
+**💡 Co dělat:**
 
-**Západ slunce nad Jónským mořem:**
-- **Slunce** klesá nad horizontem
-- **Moře** se barví do oranžova, růžova, fialova
-- **Naxos Bay** dole se leskne
-- **Etna** vpravo se rýsuje jako silueta
+**Možnost 1: Café Wunderbar (ještě jednou!)**
+- Teplý **čaj** nebo **horká čokoláda**
+- Posedět uvnitř s výhledem na osvětlené náměstí
+- Podívat se na **historické fotky** Churchilla na stěnách
 
-**📸 Nejlepší fotka:**
-- Z **terasy Café Wunderbar**
-- Nebo z **okraje náměstí** (u zábradlí)
+**Možnost 2: Večerní procházka**
+- **Corso Umberto** osvětlený lampami = romantika
+- **Piazza IX Aprile** večer = krásně nasvícená
+- **Duomo** osvětlený = vypadá jako pevnost z pohádky
 
-**💡 Co říkali slavní:**
+**💡 Co říkali slavní o Taormině:**
 
 **Elizabeth Taylor:**
-> *"Nejromantičtější západ slunce světa!"*
+> *"Nejromantičtější západ slunce světa!"* ← Viděla ho z **Madonna della Rocca**! (Tam jste právě byli!)
 
 **Goethe:**
 > *"Kousek ráje!"*
 
 **Guy de Maupassant:**
 > *"Kdyby někdo měl strávit na Sicílii jen jeden den, ptal by se: 'Co mám vidět?' Odpověděl bych bez váhání: 'Taorminu!'"*
+
+**⚠️ POZNÁMKA O ZÁPADU SLUNCE:**
+- V **LÉTĚ:** Západ slunce ~19:30-20:00 → vidět z Piazza IX Aprile
+- V **ZIMĚ (leden):** Západ slunce ~17:00-17:30 → nejlepší z **Madonna della Rocca** (kde jste právě byli!)
 
 ---
 
@@ -1036,11 +1026,11 @@ Když **Odysseus** (Ulysses) a jeho flotila kotvili u pobřeží poblíž Taormi
 **🚌 Autobus:** Zpět do Catanie nebo Syrakus
 
 **💭 Co si odnášíte:**
-- **Teatro Greco** = nejkrásnější panorama světa
-- **Goethe, Churchill, Capote** = následovali jste jejich stopy
-- **Granita** = nejlepší ledový dezert života
-- **Západ slunce** = romantika jako z filmu
-- **Isola Bella** = koupání v ráji
+- **Teatro Greco** = nejkrásnější panorama světa (Goethe: "Nikdy nemělo publikum před sebou takovou podívanou!")
+- **Madonna della Rocca** = duchovní zážitek v kostele vytesaném do skály + západ slunce nad Jónským mořem
+- **Goethe, Churchill, Capote** = následovali jste jejich stopy po Taormině
+- **Granita s brioche** = arabský vynález, nejlepší ledový dezert života
+- **Sicilská historie** = Řekové → Římané → Arabové → Normané (1410: Sicilský parlament v Palazzo Corvaja!)
 
 ---
 
