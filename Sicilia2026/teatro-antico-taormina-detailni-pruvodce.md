@@ -1583,7 +1583,292 @@ Paradoi = **boční vstupy** do divadla (řecky: "prechod vedle")
 
 ---
 
-### **5. Divadlo přežilo 2000 let - Jak?**
+### **5. PODZÁNIK A ZNOVUOBJEVENÍ - Dlouhá cesta zapomenutí:**
+
+---
+
+#### **💥 ZEMĚTŘESENÍ 365 AD - Konec slávy:**
+
+**📍 Katastrofa která vytvořila dnešní panorama:**
+
+**21. července 365 AD:**
+- **Masivní zemětřesení** otřáslo celým východním Středomořím
+- **Magnitude:** Odhadováno 8.0+ (devastující!)
+- **Epicentrum:** Kréta (vlny zasáhly celé Středomoří)
+
+**Škody v Teatro Antico:**
+- **Scaenae frons roztrhána** zemětřesením!
+- **Sloupy spadly** nebo se nakláněly
+- **Části zřícené** do orchestry
+- **Náhodné uspořádání** (random arrangement) = **to co vidíme dnes**!
+
+**💡 Ironie:**
+- **Zemětřesení vytvořilo nejslavnější panorama světa**!
+- Zřícená scaenae frons = **otevřený výhled** na Etnu a moře
+- **"Striking, random arrangement"** = nechtěné umělecké dílo!
+
+**Důsledky:**
+- Divadlo **přestalo fungovat**
+- Obyvatelé opustili okolí
+- Oblast skončila **na okraji města**
+
+---
+
+#### **🪦 ZAPOMENUTÍ (5.-15. století) - Temné věky:**
+
+**⚰️ 5.-6. století - Pohřebiště:**
+
+**Co archeologové našli:**
+- **Pohřby uvnitř budovy**! (5th-6th centuries AD)
+- **Hroby** v orchestře a mezi sedadly
+- **Důkaz:** Divadlo bylo **opuštěné** a přeměněné na pohřebiště
+
+**Symbolika:**
+- Antická **svatyně zábavy** → **místo mrtvých**
+- **Konec** římské éry na Sicílii
+
+---
+
+**🏗️ Středověk - Divadlo jako lom (Quarry):**
+
+**Dlouhá staletí zapomenutí:**
+
+**Co se dělo:**
+- **Teatro používáno jako lom** pro stavební materiály!
+- **Sloupy a bloky rozebrány** a znovu použity:
+  - **Kostely** - symboly minulé vznešenosti v nových budovách
+  - **Rezidenční domy** - mramorové sloupy v palácích
+  - **Fortifikace** - kameny pro obranu města
+
+**Ztráty:**
+- **Většina barevného mramoru** odnesena
+- **Sochy** rozkradené nebo rozbité
+- **Mramorová omítka** sloupů z odstraněna
+- **Mozaiky** vytrhané
+
+**Paradox:**
+- **Divadlo se rozpadalo**, ale jeho části **žijí dál** v sicilských kostelech!
+- Každý kostel v Taormině = **kousek divadla**
+
+---
+
+#### **🏛️ 1465 - PRVNÍ ZMÍNKA - Palazzo Zumbo:**
+
+**📜 Archivní zdroje dokumentují:**
+
+**Guglielmo Zumbo a jeho dědicové:**
+- **1465:** Dostali divadlo jako **viceregal grant** (viceregální dar)
+- **Povolení:** Stavět uvnitř budovy
+- **Podmínka:** **NE poškodit** původní strukturu!
+
+**Palazzo v západní versuře:**
+
+**Co zůstalo zachováno:**
+- **Západní versura** přeměněna na **palazzo** (palác)!
+- **Vstupní fasáda** podél versurae
+- **Single-light window** (jednoduché okno)
+- **Precious string-course cornice** (vzácná římsová koruna)
+  - Zdobená **vinnou révou** (vine shoots)
+  - **Zumbo coat of arms** (erb rodiny Zumbo)
+
+**💡 Fascinující:**
+- **Římská versurae** = základ **renesančního paláce**!
+- **Antika + Renaissance** = jedna budova!
+- **Dodnes viditelné** (můžete vidět okno a erb!)
+
+**Místní název:**
+- **"lu Gofiseu"** (sicilská dialekt)
+- = **Il Colosseo** (Koloseum)
+- **Evidentní reference** na nejslavnější monument římské antiky!
+
+---
+
+#### **📖 15.-16. STOLETÍ - Humanisté objevují divadlo:**
+
+**Renaissance zájem o antiku:**
+
+**Slavní návštěvníci a autoři:**
+
+**1. Pietro Bembo (1470-1547):**
+- **Italský humanista**, básník, kardinál
+- **Navštívil** Teatro Antico během cest po Sicílii
+- **Zmínil** v **"De Aetna"** (dialog o Etně, 1496)
+- **Popsal** divadlo jako **"noblissimo edificio"** (nejušlechtilejší budova)
+
+**2. Claudio Mario Arezzo (16. století):**
+- **Sicilský historik**
+- **Napsal** o divadle v **"De Situ Insulae Siciliae"** (O poloze ostrova Sicílie)
+- **První detailní popis** architektury
+
+**3. Tommaso Fazello (1498-1570):**
+- **Dominikánský mnich**, historik
+- **"De Rebus Siculis"** (O sicilských věcech, 1558)
+- **Nejkompletnější popis** divadla před moderní érou!
+- **Illustrace** divadla (první známé vyobrazení!)
+
+**Význam:**
+- **Tito autoři** popsali divadlo v jejich spisech
+- **Šířili vědomí** o monumentu po Evropě
+- **Foundation** pro pozdější Grand Tour zájem
+
+---
+
+#### **🎩 MID-18TH STOLETÍ - SKUTEČNÉ ZNOVUOBJEVENÍ:**
+
+**"Veritable rediscovery":**
+
+**Místní učenci (Local scholars):**
+- **Keen** (dychtící) aby byl **monumentální status** divadla uznán
+- **Adopce** divadla jako **nového symbolu městské identity**!
+- **Taormina** měla nový znak - Teatro Antico!
+
+**Mid-18th století (1745-1760):**
+
+**První pokusy o záchranu:**
+- **Preservation:** První ochranná opatření
+- **Excavation:** První systematické vykopávky!
+  - Odstranění zeminy z orchestry
+  - Odkrytí mramorových podlah
+  - Nalezení fragmentů soch
+- **Restoration:** První opravy
+  - Stabilizace sloupů
+  - Zabránění dalšímu kolapsu
+
+---
+
+#### **🖼️ GRAND TOUR NÁVŠTĚVNÍCI - Mýtus se rodí:**
+
+**Slavní cestovatelé kteří "flocked from afar" (přicházeli zdaleka):**
+
+**1. Jean Houel (1735-1813):**
+- **Francouzský malíř** a cestovatel
+- **Navštívil** Sicílii 1776-1779
+- **"Voyage pittoresque des isles de Sicile"** (1782-1787)
+  - 4 svazky s ilustracemi!
+  - **Slavné rytiny** Teatro Antico
+  - Rozšířil slávu divadla po Evropě
+
+**2. Jean-Claude Richard de Saint-Non (1727-1791):**
+- **Francouzský abbé** a cestovatel
+- **"Voyage pittoresque de Naples et de Sicile"** (1781-1786)
+- **Illustrace** divadla s Etnou
+- Pomohl popularizovat "Grand Tour" na Sicílii
+
+**3. Johann Hermann von Riedesel (1740-1785):**
+- **Německý diplomat** a cestovatel
+- **"Reise durch Sicilien und Großgriechenland"** (1771)
+  - První německý popis Sicílie!
+- Doporučoval Teatro Antico jako **must-see**
+
+**4. Johann Wolfgang von Goethe (1787):**
+- Už popsáno výše (nejslavnější návštěvník!)
+- Jeho citát učinil divadlo **světově slavným**
+
+**Výsledek:**
+- **Teatro Antico** se stalo **obligatory stop-off** na Grand Tour!
+- **Moderní mýtus** Taormina Ancient Theatre **was born**!
+- **Od té doby** = kontinuální turismus (240+ let!)
+
+---
+
+#### **🎨 18TH CENTURY EXPLORERS - Ohromeni mramorem:**
+
+**Co viděli:**
+
+**"Amazed by the richness and variety of coloured marble":**
+
+- **18. století explorers** našli fragmenty:
+  - **Zelený Cipollino** (vlnové vzory)
+  - **Žlutý Giallo Antico** (jako med)
+  - **Červený Porfido** (císařský!)
+  - **Fialový Pavonazzetto** (jako páv)
+  - **Mix barev** = "feast for the eyes" (hostina pro oči!)
+
+**Odkud to přišlo:**
+
+**Hellenistic East (3rd-1st centuries BC):**
+- **Řím získal chuť** (acquired a taste) pro **precious, coloured materials**
+- **Z dvorů** Hellenistického východu (Alexandrie, Pergamon, Antiochie)
+
+**Imperial Age - Systematická těžba:**
+- **Až v císařské éře** (1.-3. století AD) Řím systematicky exploitoval lomy
+- **Public procurement system** = veřejný zásobovací systém
+- **Well-regulated market** = dobře regulovaný trh
+- **Římská administrativa** řídila import mramoru!
+
+---
+
+#### **🚢 TRANSPORT MRAMORU - Shipwrecks a doklad:**
+
+**Archeologický důkaz:**
+
+**"Numerous shipwrecks off the coast of Sicily":**
+- **Několik vraků** u pobřeží Sicílie!
+- **Cargo:** Mramorové bloky z Řecka, Egypta, Afriky
+- **Důkaz:** Valuable cargo dostal se do říše přes **Ancient Rome's advanced Mediterranean infrastructure**
+
+**Systém:**
+- **Quarry blocks** (bloky z lomů) **found in and around the Theatre**
+- **Raw materials** přišly v **rough state** (hrubém stavu)
+- **Worked on-site** = zpracovány přímo v Taormině!
+
+**Prefabrikace:**
+
+**Semi-finished formats (polohoto formáty):**
+- **Bases** (báze sloupů) - standardizované
+- **Columns** (sloupy) - předvyřezané žlábky
+- **Shafts** (dříky) - polohoto
+- **Capitals** (hlavice) - někdy hotové, někdy polohoto
+
+**Circulated in standardized formats** = kolovaly ve standardních formátech po celé říši!
+
+---
+
+#### **🗿 LOCAL MATERIALS - Sicilské kameny:**
+
+**Kromě importovaných:**
+
+**Taormina local materials:**
+1. **Lava stone** (lávový kámen) - z Etny!
+2. **White stone** (bílý kámen) - místní vápencové lomy
+3. **Red breccia from Taormina** (červená brekcie) - místní
+
+**Použití:**
+- **Lava stone:** Foundations (základy), praktické části
+- **White stone:** Cheap alternative k importovanému mramoru
+- **Red breccia:** Dekorativní akcenty
+
+**Symbol:**
+- **Mix** local + imported = **Sicílie + Říše** = jedna budova!
+
+---
+
+#### **💎 "A veritable feast for the eyes much prized by the Romans":**
+
+**Shrnutí bohatství:**
+
+**Dozen different types of stone:**
+1. African giallo marble (Afrika)
+2. Asian giallo antico (Malá Asie)
+3. Cipollino (Řecko)
+4. Giallo antico brecciato (Afrika)
+5. Granite (Egypt)
+6. Pavonazzetto (Turecko)
+7. Portasanta (Řecko)
+8. Proconnesio (Turecko)
+9. Porfido rosso (Egypt - císařský!)
+10. Breccia di Sciro (Řecko)
+11. Lava stone (Etna - lokální)
+12. Red breccia (Taormina - lokální)
+
+**Výsledek:**
+- **Making it a veritable feast for the eyes**
+- **Much prized by the Romans** (velmi ceněno Římany)
+- **Teatro Antico** = **showcase** Římské říše!
+
+---
+
+### **6. Divadlo přežilo 2000 let - Jak?**
 
 **Tajemství:**
 
