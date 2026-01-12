@@ -356,35 +356,183 @@ Když **Odysseus** (Ulysses) a jeho flotila kotvili u pobřeží poblíž Taormi
 
 ## 🚗 **JAK SE DOSTAT DO TAORMINY**
 
+---
+
 ### **Z CATANIE:**
 
-#### **🚌 Autobus:**
-- **Interbus** nebo **AST**
-- Odjezd: Hlavní autobusové nádraží Catania (vedle vlakového nádraží)
-- Doba jízdy: **1 hodina 15 minut**
-- Cena: ~€4-6
-- Frekvence: Každých 1-2 hodiny
+---
 
-#### **🚂 Vlak:**
-- Vlak z Catanie do stanice **Taormina-Giardini**
-- Doba jízdy: ~45-50 minut
-- **POZOR:** Vlaková stanice je **DOLE u moře** (ne v centru města!)
-- Pak musíte autobusem nebo lanovkou nahoru do města (€2-3)
+#### **🚌 AUTOBUS (DOPORUČENO!) ⭐**
+
+**Proč autobus?**
+- ✅ Jede **přímo do centra** Taorminy (Porta Messina)
+- ✅ **Není nutné** pak pokračovat dalším autobusem z nádraží
+- ✅ **Jednodušší** než vlak!
+- ✅ Stejná cena jako vlak
+
+**Detaily:**
+- **Operátor:** **Interbus** nebo **AST**
+- **Odkud:** Hlavní autobusové nádraží Catania (Via D'Amico, vedle vlakového nádraží Catania Centrale)
+- **Kam:** Taormina centrum (Porta Messina - vstup do starého města)
+- **Doba jízdy:** 1 hodina 15 minut
+- **Cena:** €4-6 (jednosměrně)
+- **Frekvence:** Každých 1-2 hodiny (celý den)
+
+**Kde koupit lístek:**
+- **Online:** www.interbus.it
+- **Na nádraží:** Pokladna Interbus nebo automat
+- **U řidiče:** Přímo v autobuse (pouze **hotovost**!)
+
+**💡 TIP:**
+- Lístek **není nutné** kupovat na přesný čas
+- Většina autobusů má **flex lístek** = platný celý den
+- Můžete jet jakýmkoliv autobusem v den platnosti
+
+---
+
+#### **🚂 VLAK (Alternativa)**
+
+**⚠️ DŮLEŽITÉ - Přečtěte si před nákupem lístku!**
+
+**Vlaková stanice Taormina-Giardini je DOLE u moře, NE v centru města!**
+- Po příjezdu vlakem musíte **ještě jet autobusem nahoru** do starého města (~10 min)
+- Nebo taxíkem (€10-15)
+
+**Detaily:**
+- **Operátor:** Trenitalia
+- **Odkud:** Catania Centrale (hlavní nádraží)
+- **Kam:** Taormina-Giardini (nádraží u moře)
+- **Doba jízdy:** 45-50 minut
+- **Cena:** €4-5 (jednosměrně)
+- **Typ vlaku:** Regionale (regionální)
+- **Frekvence:** Každou 1-2 hodiny
+
+**Kde koupit lístek:**
+
+**1. Online (doporučeno):**
+- **Trenitalia:** www.trenitalia.com (oficiální web italských vlaků)
+- **Trainline:** www.trainline.com (mezinárodní platforma, anglicky, jednodušší!)
+
+**2. Na nádraží Catania Centrale:**
+- **Automat** (self-service):
+  - Přijímá karty i hotovost
+  - Anglické menu dostupné
+  - Rychlé
+- **Pokladna** (Biglietteria):
+  - Může být **fronta**!
+  - Hotovost nebo karta
+
+**🎫 MUSÍ BÝT LÍSTEK NA PŘESNÝ ČAS?**
+
+**❌ NE!**
+
+- Regionální vlaky (Regionale) = **lístek platný celý den**
+- **Flex lístek** = můžete jet **jakýmkoliv** regionálním vlakem v den platnosti
+- **Není rezervace sedadel** = volná sedadla
+- **Není nutné** kupovat dopředu (můžete koupit den před nebo ráno před odjezdem)
+
+**⚠️ POZOR na rychlovlaky:**
+- Pokud cestujete na **Intercity** nebo **Frecce** (rychlovlaky) = lístek NA PŘESNÝ VLAK!
+- Ale Catania → Taormina jezdí převážně **Regionale** = flex
+
+---
+
+#### **🚌 CO DĚLAT PO PŘÍJEZDU VLAKEM (Taormina-Giardini stanice):**
+
+**Varianta A: Autobus nahoru (doporučeno!)**
+- **Interbus** směr "Taormina Centro"
+- **Stanice:** Přímo před vlakovým nádražím (vyjdete z nádraží, hned vidíte zastávku)
+- **Doba jízdy:** 10 minut
+- **Cena:** ~€2
+- **Kam:** Porta Messina (vstup do starého města)
+- **Frekvence:** Každých 20-30 minut
+
+**Varianta B: Taxi**
+- **Stanoviště:** Před vlakovým nádražím
+- **Doba jízdy:** 5 minut
+- **Cena:** €10-15
+- **Výhoda:** Rychlé, pohodlné
+
+**Varianta C: Lanovka (Funivia)** - MŮŽE BÝT UZAVŘENÁ!
+- Od nádraží musíte dojít pěšky k lanovce (~5-10 min)
+- Lanovka může být mimo provoz (zimní měsíce, údržba)
+- **Nedoporučujeme spoléhat se na lanovku!**
 
 ---
 
 ### **ZE SYRAKUS:**
 
-#### **🚌 Autobus:**
-- **Interbus**
-- Doba jízdy: ~2 hodiny
-- Cena: ~€7-9
+---
 
-#### **🚗 Auto:**
-- Autostrada A18 směr Messina
-- Doba jízdy: ~1,5 hodiny
-- **POZOR:** Parkování v Taormině je **velmi omezené** a drahé!
-- Doporučujeme: Zaparkovat dole u moře (Mazzarò) a jet nahoru autobusem
+#### **🚌 AUTOBUS (Doporučeno!)**
+
+**Detaily:**
+- **Operátor:** Interbus
+- **Odkud:** Syrakusy - autobusové nádraží (Corso Umberto, poblíž vlakového nádraží)
+- **Kam:** Taormina centrum (Porta Messina)
+- **Doba jízdy:** ~2 hodiny
+- **Cena:** €7-9 (jednosměrně)
+- **Frekvence:** Několik spojů denně (méně než z Catanie)
+
+**Kde koupit lístek:**
+- **Online:** www.interbus.it
+- **Na nádraží:** Pokladna nebo automat
+- **U řidiče:** Hotovost
+
+**💡 TIP:**
+- Ze Syrakus je **méně spojů** než z Catanie
+- **Doporučujeme koupit lístek online dopředu** nebo se podívat na jízdní řád na www.interbus.it
+
+---
+
+#### **🚂 VLAK (Komplikované!)**
+
+**⚠️ NEDOPORUČUJEME!**
+
+- Většina vlaků vyžaduje **přestup v Catanii**!
+- Celková doba: ~2,5-3 hodiny (delší než autobus)
+- **Autobus je jednodušší**
+
+---
+
+#### **🚗 AUTO:**
+- **Trasa:** Autostrada A18 směr Messina
+- **Doba jízdy:** ~1,5 hodiny
+- **Mýtné:** ~€5-7
+- **⚠️ POZOR:** Parkování v Taormině je **velmi omezené** a **drahé**!
+- **Doporučení:** Zaparkovat dole u moře (Mazzarò parkoviště) a jet nahoru autobusem nebo lanovkou
+
+---
+
+## 🌐 **UŽITEČNÉ WEBY PRO DOPRAVU**
+
+### **Vlaky:**
+- **Trenitalia:** www.trenitalia.com (oficiální web italských vlaků)
+- **Trainline:** www.trainline.com (mezinárodní platforma, anglicky)
+
+### **Autobusy:**
+- **Interbus:** www.interbus.it (hlavní operátor na Sicílii)
+- **AST Sicilia:** www.aziendasicilianatrasporti.it (regionální autobusy)
+
+### **Google Maps:**
+- Zadejte: "Catania Centrale" → "Taormina"
+- Ukáže vlaky i autobusy s aktuálními časy
+
+---
+
+## 📋 **SHRNUTÍ - Jak se dostat:**
+
+| Z | Doprava | Čas | Cena | Výhody | Nevýhody |
+|---|---------|-----|------|--------|----------|
+| **Catania** | **Autobus** ⭐ | 1h 15min | €4-6 | Přímo do centra | O 25 min delší než vlak |
+| **Catania** | Vlak | 50 min | €4-5 | Rychlejší | Pak autobus nahoru (+10 min, +€2) |
+| **Syrakusy** | **Autobus** ⭐ | 2h | €7-9 | Přímo do centra | Méně spojů |
+| **Syrakusy** | Vlak | 2,5-3h | €8-12 | - | Přestup v Catanii! |
+| **Auto** | - | 1-1,5h | Palivo+mýto | Flexibilita | Parkování problém! |
+
+**🏆 DOPORUČENÍ:**
+- Z **Catanie:** **Autobus** (nejjednodušší)
+- Ze **Syrakus:** **Autobus** (vlak vyžaduje přestup)
 
 ---
 
