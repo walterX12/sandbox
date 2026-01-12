@@ -412,6 +412,63 @@ Představte si **Las Vegas antiky** - oslnivě luxusní!
 
 ---
 
+#### **5. OFICIÁLNÍ POPIS z informační tabule divadla:**
+
+**📜 Architektonická dekorace scaenae frons (2. století n. l.):**
+
+**Původní stav (rekonstrukce na základě archeologických nálezů):**
+
+**a) Barevný mramor:**
+- **Scaenae frons** byla vybavena **bohatým aparátem barevného mramoru**
+- **Typologie** rozšířená mezi nejdůležitějšími divadly Říše
+- **Účel:** Signalizovat status jako **veřejná budova**
+
+**b) Politická funkce:**
+- **Oslavovat velkolepost** místní elity
+- **Zejména vládnoucího domu** (císařská rodina)
+- Pouze **mocní** mohli dovolit takové investice do městské dekorace
+
+**c) Sochy císařů a bohů:**
+- **Zdobení velkých budov** pro kolektivní zábavu
+- **Naplnění každodenní scenérie** římských měst
+- **Sochy** vedle sebe:
+  - **Císaři** a prominentní osobnosti
+  - **Bohové a hrdinové**
+- **Účel:** Ctít jejich přítomnost
+
+**d) Středověké a moderní "spolia" (rozkrádání):**
+- Teatro Antico **trpělo kontinuálním vypleněním**
+- **Středověk:** Mramor odnášen na stavbu kostelů
+- **Moderní doba:** Další ztráty
+- **Dnes:** Přežilo **velmi málo** z původní architektury
+- **Zvláště sochařská dekorace** téměř celá ztracena
+
+**e) Co zůstalo zachováno:**
+- **Dost materiálu** na pokus o rekonstrukci!
+- **Vizuální dopad** císařské budovy rekonstruovatelný:
+  - **Horizontální score:** Báze, hlavice, kladí
+  - **Materiál:** Zářící **studený bílý mramor**
+  - **Vertikální sloupy:** Jasně barevné kameny!
+  - **KONTRAST** = klíčový element designu!
+
+**💡 Fascinující detail:**
+- **Bílý mramor** (báze, hlavice) = z Řecka nebo Carrara
+- **Barevné sloupy** = z celé Říše:
+  - **Červený porfyr** (Egypt)
+  - **Zelený mramor** (Sparta, Řecko)
+  - **Žlutý mramor** (Numidie, Afrika)
+  - **Fialový mramor** (Frygie, Turecko)
+- **Symbolika:** Celá **Římská říše** reprezentována v jednom divadle!
+
+**📸 Představte si:**
+- **Studený bílý mramor** zářící na slunci
+- **Pestrobarevné sloupy** (červené, zelené, žluté, fialové)
+- **Zlaté detaily** na hlavicích
+- **Sochy císařů** mezi sloupy
+- **Celé to lesklo se** jako drahokam!
+
+---
+
 #### **📸 Nejlepší fotky:**
 
 **1. Z orchestra směrem nahoru:**
