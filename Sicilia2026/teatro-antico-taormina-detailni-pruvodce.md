@@ -1217,7 +1217,373 @@ Paradoi = **boční vstupy** do divadla (řecky: "prechod vedle")
 
 ---
 
-### **3. Divadlo přežilo 2000 let - Jak?**
+#### **📜 DETAILNÍ HISTORIE PŘESTAVEB - Z oficálních tabulí:**
+
+**🏛️ ŘECKÁ ÉRA (3. století př. n. l.):**
+- **Původní divadlo:** Kamenná struktura vytesaná do Monte Tauro
+- **Účel:** Řecké tragédie a komedie
+- **Kapacita:** ~5 000 diváků
+
+---
+
+**🏗️ PRVNÍ ŘÍMSKÁ PŘESTAVBA (21 př. n. l.):**
+
+**Historický kontext:**
+- **Císař Octavianus Augustus** udělil **Tauromenion** status **římské kolonie**
+- **Privilegium:** Město osvobozeno od daní ("free from obligation to pay taxes")
+- **Přátelství s Římem:** Odměna za deklaraci přátelství během válek
+- **Událost:** Znamení **římské asimilace města**
+
+**Konstrukční revoluce:**
+- **Transformace:** Z kamenné budovy → **cihlová struktura**
+- **Nová technologie:** **Opus caementicium**
+  - = Kámen + malta + písek
+  - = Revoluční konstrukce kterou Římané vyvinuli a zdokonalili
+  - = Předchůdce moderního betonu!
+
+---
+
+**👑 DRUHÁ ŘÍMSKÁ PŘESTAVBA (2. století n. l.) - "Magniloquent reconstruction":**
+
+**Císaři Trajan nebo Hadrian:**
+- **Hadrian** financoval **rozsáhlý program veřejných staveb**
+- **Obnova divadel** ve východní Sicílii podle **populárních modelů z Afriky a Malé Asie**
+- **V té době:** Monumentální **portico přidáno** k cavea
+
+**Co bylo přidáno:**
+
+**a) Rozšíření divadla:**
+- **Cavea rozšířena** na **maximální průměr 107 metrů**!
+- **Kapacita:** Dostatečná pro **10 000 diváků** (2× původní!)
+
+**b) Magnificentní scaenae frons:**
+- **Monumentální scénická budova** (scaenae frons)
+- **Dekorace:** Sochy a **barevný mramor z celé říše**!
+- **Niky:** Výklenky pro sochy císařů a bohů
+
+**c) Dvě kolosální versurae (foyer halls):**
+- **Versurae:** Obrovské vstupní haly po stranách
+- **Funkce:** Diváci se dostávali do **předních řad cavea**
+- **Architektura:** Kolosální konstrukce s klenbami
+
+**d) Porticus (kolonáda):**
+- **Monumentální sloupová chodba** okolo horní části cavea
+- **Funkce:** Ochrana před sluncem, promenáda
+
+---
+
+**⚔️ TŘETÍ PŘESTAVBA (3. století n. l.) - Gladiátorské hry:**
+
+**"Finální, hluboká metamorfóza":**
+
+**Kontext:**
+- **Severovská dynastie** (3. století)
+- **Divadlo transformováno** na **"half amphitheatre"** (polo-amfiteátr)
+- **Již nesloužilo řeckému městu**, ale městu které **asimilovalo římské zvyky**
+
+**Konstrukční změny:**
+
+**1. Orchestra přeměněna na arénu:**
+- **Původní funkce:** Místo pro sbor (řecké představení)
+- **Nová funkce:** **Aréna pro gladiátorské zápasy** a boje se zvířaty
+
+**2. Scéna a dolní řady demontovány:**
+- **Důvod:** Uvolnit prostor a chránit publikum
+- **Bezpečnost:** Předejít nebezpečí kvůli krvavým představením
+
+**3. Jáma v centru orchestry:**
+- **Vykopáno:** Místo pro **stage machinery** (jeřáby, zdvihací mechanismy)
+- **Funkce:**
+  - Zvířata mohla "vyjíždět" z podlahy (překvapení!)
+  - Dekorace se měnily během her
+  - Gladiátoři se schovávali
+- **Technické zázemí** pod orchestrou
+
+**4. Versurae uzavřeny:**
+- **Původně:** Otevřené vstupní haly
+- **Nyní:** Zdi, neprůchodné
+- **Důvod:** Posílit konstrukci kvůli hmotnosti diváků na horním patře
+
+**5. Přístup ke nejlepším místům:**
+- **Nově:** Pouze přes **horní patro** (upper floor)
+- **Důvod:** Dolní řady demontovány, nový systém distribuce
+
+---
+
+**💡 Fascinující detail - Opus Caementicium:**
+
+**Co to je:**
+- **Římský "beton"**: Kámen (caementa) + malta (vápno + vulkanický písek) + písek
+- **Revoluční:** Umožnil stavby **obrovských kleneb** a kupulí
+- **Příklady:** Pantheon v Římě, Koloseum
+- **V Taormině:** Použito na versurae, porticus, parts of scaenae frons
+
+**Proč revoluce:**
+- **Řekové:** Jen kámen na kámen (omezené možnosti)
+- **Římané:** Tekutá malta = libovolné tvary!
+- **Pevnost:** Tuhne pod vodou, odolné tisíce let
+
+---
+
+### **3. ZNOVUOBJEVENÍ DIVADLA (18.-19. století) - Grand Tour:**
+
+**📖 Příběh rediscovery reveals:**
+> "Jak jsou turismus a ochrana památek dvě strany stejné mince."
+
+---
+
+#### **🎩 GRAND TOUR - Cestování vzdělanců (18. století):**
+
+**Co to bylo:**
+- **Grand Tour:** Cesta vzdělaných **evropských aristokratů** do jižní Itálie
+- **Účel:** Hledat **krásu** a **vlastní kořeny** mezi klasickými památkami
+- **Iniciátor:** Johann Joachim Winckelmann (zakladatel moderní archeologie)
+
+**18. století - Začátek kulturního turismu:**
+
+**a) Ranní cestovatelé:**
+- **Evropští vzdělaní aristokraté** vybrali jižní Itálii jako **finální destinaci** Grand Tour
+- **Hledali:** Krásu mezi antickými památkami
+- **Psali cestopisy** a publikovali ilustrace
+- **Výsledek:** Označení začátku **"nascent cultural tourism"** (rodícího se kulturního turismu)
+
+**b) Taormina se stala "must-see":**
+- **Instant videnda** (okamžitě povinné k vidění) po celé Evropě!
+- **Continent-wide "must-sees"** po zprávách cestovatelů
+- **Printed illustrations** publikovány a šířeny
+
+---
+
+#### **🏛️ ZAČÁTEK OCHRANY PAMÁTEK:**
+
+**Bourbon State (Bourbonský stát, Neapolské království):**
+
+**1745 - První archeologická ochrana:**
+- **Teatro Taormina** jako **první experiment** veřejné ochrany!
+- **Rezervováno pro veřejnou prezervaci** královským dekretem
+- **1745:** Začátek ochrany
+- **Tito udělali totéž** pro:
+  - **Mount Etna** (sopka)
+  - **Pioneering example** environmentální ochrany
+  - **První koncept:** Přírodní a umělecké památky chráněny společně
+
+**1746-1749 - Restaurační práce:**
+- **První excavations** (vykopávky) na divadle
+- **Restaurace** podle dobových představ
+- **Nápisy** dodány pro návštěvníky
+
+**Význam:**
+- **Avant-garde** (průkopnické) v ochraně památek
+- **Havířovský zpátky ke klasickým kořenům**
+- **Koncepce:** Wonders of nature + works of art = jedna pláň ochrany
+
+---
+
+#### **🖼️ Vliv na moderní turismus:**
+
+**Teatro jako ikona:**
+- **Most recent discoveries** o monumentu (vykopávky pokračují dodnes!)
+- **Návštěvníci** považováni za **forerunner** (předchůdce) dnešních turistů
+- **Inscriptions** z té doby dodnes viditelné v divadle
+
+**Kontinuita:**
+- Od **1745** dodnes = **280 let** kontinuální ochrany!
+- **Od Grand Tour po Instagram** - stále must-see!
+
+---
+
+### **4. ŘÍMSKÁ MRAMOROVÁ REVOLUCE - Druhy kamene:**
+
+**🌍 "La rivoluzione romana del marmo / The Roman Marble Revolution":**
+
+**Koncept:**
+- Římané **importovali vzácné barevné mramory** z celé říše
+- **Každý kámen** = symbol **moci nad tou provincií**
+- **Taormina divadlo** = **mikrokosmos Římské říše**!
+
+---
+
+#### **🎨 DRUHY MRAMORU použité v Teatro Antico:**
+
+**📍 Z ŘECKA:**
+
+**1. Marmor Carystium (CIPOLLINO):**
+- **Původ:** Karystos, ostrov Euboea (Řecko)
+- **Barva:** Zeleno-bílý s vlnovými vzory (jako cibule - "cipolla" = cibule)
+- **Použití:** Sloupy scaenae frons
+- **Cena:** Velmi drahý (transport přes moře!)
+
+**2. Marmor Phrygium (PAVONAZZETTO):**
+- **Původ:** Frygie (dnes Turecko, ale řecká kultura)
+- **Barva:** Bílá s fialovými žilkami
+- **Název:** "Pavonazzetto" = "jako páv" (peacock marble)
+- **Použití:** Dekorativní panely, sochy podstavce
+
+**3. Africano (Marmor Luculleum):**
+- **Původ:** Teos, Malá Asie (Turecko)
+- **Barva:** Zelená s černými a bílými skvrnami
+- **Unikátní:** Nejexotičtější mramor!
+- **Použití:** Speciální dekorace
+
+---
+
+**📍 Z AFRIKY:**
+
+**4. Giallo Antico (Marmor Numidicum):**
+- **Původ:** Numidie (dnes Alžírsko, Tunisko)
+- **Barva:** Intenzivní **žlutá** (jako med)
+- **Vzácnost:** Jeden z nejdražších mramorů!
+- **Použití:** Sloupy, podlahy
+- **Symbol:** Bohatství Afriky
+
+**5. Giallo Antico Brecciato:**
+- **Původ:** Stejně jako Giallo Antico
+- **Rozdíl:** "Brecciato" = fragmentovaný (úlomky v matrici)
+- **Barva:** Žlutá s úlomky červených a bílých kamenů
+- **Efekt:** Jako mozaika v jednom kameni!
+
+**6. Breccia di Sciro (Marmor Scyrium):**
+- **Původ:** Ostrov Skyros (Řecko)
+- **Barva:** Červeno-fialová s bílými úlomky
+- **Použití:** Dekorativní panely
+- **Rarita:** Velmi vzácný
+
+---
+
+**📍 Z EGYPTA:**
+
+**7. Granito Nero (Černý granit):**
+- **Původ:** Asuán, Egypt
+- **Barva:** Hluboce černý s malými bílými krystalky
+- **Tvrdost:** Nejtvrdší kámen (granit, ne mramor!)
+- **Použití:** Báze sloupů (síla!)
+- **Symbol:** Věčnost (Egypťané ho používali pro sarkofágy)
+
+**8. Porfido Rosso (Červený porfyr):**
+- **Původ:** Egypt (Gebel Dokhan - "Mons Porphyrites")
+- **Barva:** Tmavě červený s bílými krystalky
+- **Exkluzivita:** **Pouze pro císaře**! Zakázáno pro běžné občany!
+- **Použití:** Císařské sochy, speciální sloupy
+- **Symbol:** Absolutní moc
+
+---
+
+**📍 Z ITÁLIE:**
+
+**9. Portasanta (Marmor Chium):**
+- **Původ:** Ostrov Chios (Řecko), ale populární v Itálii
+- **Barva:** Růžovo-oranžová s fialovými žilkami
+- **Název:** "Porta Santa" = Svatá brána (používán na svaté dveře)
+- **Použití:** Dekorativní rámy, panely
+
+**10. Proconnesio (Marmor Proconnesium):**
+- **Původ:** Ostrov Proconnesos (Marmara, Turecko)
+- **Barva:** Čistě bílý s modrými žilkami
+- **Nejpoužívanější:** Hlavní bílý mramor v celé říši!
+- **Použití:** Báze sloupů, hlavice, kladí (entablature)
+
+---
+
+#### **💎 KONTRAST = Klíčový design element:**
+
+**Římská architektonická filosofie:**
+
+**Horizontální elementy (Bílé):**
+- **Báze sloupů:** Studený bílý mramor (Proconnesio)
+- **Hlavice:** Bílý mramor s vyřezávanými detaily
+- **Kladí (entablature):** Bílý mramor zářící na slunci
+
+**Vertikální elementy (Barevné):**
+- **Sloupy:** Jasně barevné!
+  - Zelený Cipollino (Řecko)
+  - Žlutý Giallo Antico (Afrika)
+  - Červený Porfido (Egypt)
+  - Fialový Pavonazzetto (Turecko)
+
+**Vizuální efekt:**
+- **Studený bílý** + **horké barvy** = **dramatický kontrast**!
+- **Vertikální barevné linie** zdůrazňují výšku
+- **Horizontální bílé pásy** spojují kompozici
+- **Výsledek:** Oslnivě luxusní, mocenská propaganda!
+
+---
+
+#### **🌍 Symbolika - Celá říše v jednom divadle:**
+
+**Politický význam:**
+
+**1. Mapa moci:**
+- **Každý kámen** = dobytá provincie
+- **Import z tisíců km** = demonstrace logistiky říše
+- **Taormina** = miniatůra celé říše!
+
+**2. Ekonomická síla:**
+- **Transport:** Lodi z Egypta, Řecka, Afriky, Turecka
+- **Náklady:** Astronomické!
+- **Message:** "Vidíte tuto krásu? Jen Řím to dokáže!"
+
+**3. Kulturní asimilace:**
+- **Řecké kameny** = úcta ke kultuře
+- **Egyptské kameny** = důstojnost věčnosti
+- **Africké kameny** = exotika a bohatství
+- **Mix** = "Jsme jedna říše pod Římem!"
+
+---
+
+#### **🔨 Jak se mramor dostal do Taorminy:**
+
+**Logistika:**
+
+**1. Lomy:**
+- **Otrokářská práce** v lomech po celé říši
+- **Egyptské lomy:** Až 500 km od pobřeží!
+- **Transport:** Velbloudy → lodě
+
+**2. Lodní cesta:**
+- **Nákladní lodě** (naves lapidariae)
+- **Trasa:** Egypt/Řecko/Afrika → Ostia (Řím) → Sicílie
+- **Nebezpečí:** Bouře, piráti
+- **Čas:** 2-6 měsíců!
+
+**3. Konečná destinace:**
+- **Přístav Naxos** (pod Taorminou)
+- **Transport nahoru:** Voly, otroky
+- **200 metrů výškový rozdíl** = extrémně náročné!
+
+**💰 Odhad nákladů:**
+- **1 sloup z červeného porfyru** = roční plat **100 dělníků**!
+- **Celá scaenae frons** = **miliony sesterciů**
+- **Jen císař nebo nejbohatší** to mohli dovolit
+
+---
+
+#### **🗿 ZACHOVANÉ ARTEFAKTY v divadle dnes:**
+
+**Co můžete vidět:**
+
+**1. Sloupy Cipollino:**
+- **Několik sloupů** v Antiquarium (muzeu v divadle)
+- **Spirálové žlábky** viditelné
+- **Zeleno-bílé vlny** zachovalé!
+
+**2. Fragmenty hlavic:**
+- **Korintské hlavice** z bílého mramoru
+- **Akantové listy** detailně vyřezané
+- **Zlacení** místy ještě viditelné!
+
+**3. Mramorové podlahy:**
+- **Opus sectile:** Mozaika z barevných mramorových kusů
+- **Geometrické vzory**
+- **Fragmenty** v několika místech orchestry
+
+**4. Latinské nápisy:**
+- **Dedikační nápisy** na mramorových deskách
+- **Jména mecenášů** a císařů
+- **Vystaveno v Antiquarium**
+
+---
+
+### **5. Divadlo přežilo 2000 let - Jak?**
 
 **Tajemství:**
 
