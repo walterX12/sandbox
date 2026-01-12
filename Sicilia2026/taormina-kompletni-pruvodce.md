@@ -477,6 +477,32 @@ Když **Odysseus** (Ulysses) a jeho flotila kotvili u pobřeží poblíž Taormi
 
 ---
 
+#### **📚 OFICIÁLNÍ ZDROJE - Je to pravda?**
+
+**✅ ANO! Potvrzeno oficiálními zdroji:**
+
+**1. Trenitalia (oficiální web):**
+- "Regional train tickets that do not have a specific date and time **must be validated before boarding** by stamping the ticket in the validation machine."
+- **Zdroj:** [Trenitalia - Travelling on Regional trains](https://www.trenitalia.com/en/information/travelling-on-regional-trains.html)
+
+**2. ItaliaRail (autorizovaný prodejce Trenitalia):**
+- "You must **validate your ticket** before boarding a regional train. Look for the yellow boxes near platforms."
+- **Zdroj:** [ItaliaRail - What does it mean to validate a rail ticket?](https://www.italiarail.com/booking-basics/what-does-it-mean-validate-rail-ticket-or-rail-pass)
+
+**3. Rail Europe:**
+- "Italian Regional train **mandatory check-in**"
+- **Zdroj:** [Rail Europe - Italian Regional train Mandatory check in](https://help.raileurope.com/article/43563-italian-regional-train-mandatory-check-in)
+
+**⚠️ DŮLEŽITÁ AKTUALIZACE (září 2024):**
+- **Online lístky** (Electronic Regional Ticket): Od září 2024 se **automaticky aktivují** v čas odjezdu → **není nutné označovat**
+- **Papírové lístky** z automatu/pokladny: **STÁLE MUSÍTE označit**!
+
+**💰 POKUTA za neoznačený lístek:**
+- **Minimálně €50** (potvrzeno cestujícími na fórech Rick Steves)
+- Revizor vás považuje za cestujícího **bez platného lístku**
+
+---
+
 #### **🚌 CO DĚLAT PO PŘÍJEZDU VLAKEM (Taormina-Giardini stanice):**
 
 **Varianta A: Autobus nahoru (doporučeno!)**
