@@ -20,6 +20,38 @@ Základní informace o sicilské kultuře, tradicích, jídle, dopravě a prakti
 
 **Na Sicílii objevíte fascinující historii:** Dozvíte se o **Damoklově meči** a tyranovi Dionýsiovi I., o **Archimedovi** - géniovi matematiky a inženýrství, který žil v Syrakusách. Navštívíte **Syrakusy** - jedno z nejmocnějších měst starověkého Řecka, a **Taorminu** - perlu Jónského moře s nejkrásnějším divadlem světa.
 
+### 📊 Základní fakta o Sicílii
+
+#### Rozloha a obyvatelstvo
+- **Rozloha:** 25 711 km²
+  - **Porovnání:** Větší než Slovinsko (20 271 km²), ale menší než ČR (78 871 km²)
+  - **Cca:** Sicílie = 33% rozlohy ČR, nebo 127% Slovinska
+- **Obyvatelé:** 4,75 milionu (2024)
+  - **Porovnání:** Méně než ČR (10,5 mil.), ale více než Slovinsko (2,1 mil.)
+- **Hustota:** 184 obyvatel/km² (ČR: 133/km², Slovinsko: 103/km²)
+- **Hlavní města:** Palermo (hlavní město, 630 tis.), Catania (310 tis.), Messina (220 tis.), Syrakusy (120 tis.)
+
+#### Ekonomika a zdroje obživy
+- **Služby (70% pracovníků):**
+  - **Turismus:** Klíčový sektor! V roce 2024 přes 21,5 milionu návštěvníků (+4,2% meziročně)
+  - Sicílie přispívá 13% k italskému turismu (přitom je jen 4,6% italského HDP)
+
+- **Průmysl (20% pracovníků):**
+  - Chemický průmysl, rafinerie
+  - Stavebnictví
+  - Potravinářství
+
+- **Zemědělství (10% pracovníků):**
+  - **Citrusy:** Největší producent v Itálii! 88 000 ha plantáží
+    - 1,47 mil. tun ročně (pomeranče, citróny, mandarinky, klementinky)
+    - Příjmy přes €532 milionů, 31 000 pracovníků
+  - **Olivový olej**
+  - **Víno:** Významná vinařská oblast
+  - **Obilí a zelenina**
+  - **Rybolov:** Tuňáci, mečouni, sardiny
+
+- **Výzva:** Sucho (2024) ovlivňuje středozemní plodiny
+
 ### Hlavní průvodce
 
 - **[Sicílie - Obecný průvodce: Kultura, tradice a praktické informace](general-sicilia/sicilie-obecny-pruvodce-kultura-tradice.md)**
