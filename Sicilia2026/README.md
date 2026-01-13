@@ -297,6 +297,7 @@ Nejkrásnější město Sicílie - "Perla Jónského moře"
 - ⚠️ **Bezdomovci:** V centru města je viditelná populace bezdomovců na ulicích
 - **Kontext:** Je to pracovní průmyslové město s letištěm, ne turistické centrum jako Taormina
 - **Tip:** Stejně bezpečné jako jiná italská velkoměsta, jen vizuálně méně upravené
+- 🚗 **Uber:** V Catanii funguje Uber na letišti! Cena **€17-25** (leden, mimo sezónu s málo turisty)
 
 ---
 
@@ -310,9 +311,10 @@ Nejkrásnější město Sicílie - "Perla Jónského moře"
 - **Interbus:** www.interbus.it
 - **Trenitalia (vlaky):** www.trenitalia.com
 
-### Taxi
+### Taxi a Uber
 - **Radio Taxi Catania:** +39 095 330 966
 - **FREE NOW app** (taxi aplikace)
+- **Uber:** Funguje v Catanii, zejména na letišti (€17-25 do centra v lednu)
 
 ---
 
