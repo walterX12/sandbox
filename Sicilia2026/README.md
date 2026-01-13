@@ -18,6 +18,8 @@
 
 Základní informace o sicilské kultuře, tradicích, jídle, dopravě a praktických tipech.
 
+**Na Sicílii objevíte fascinující historii:** Dozvíte se o **Damoklově meči** a tyranovi Dionýsiovi I., o **Archimedovi** - géniovi matematiky a inženýrství, který žil v Syrakusách. Navštívíte **Syrakusy** - jedno z nejmocnějších měst starověkého Řecka, a **Taorminu** - perlu Jónského moře s nejkrásnějším divadlem světa.
+
 ### Hlavní průvodce
 
 - **[Sicílie - Obecný průvodce: Kultura, tradice a praktické informace](general-sicilia/sicilie-obecny-pruvodce-kultura-tradice.md)**
@@ -255,6 +257,7 @@ Nejkrásnější město Sicílie - "Perla Jónského moře"
 - Kavárny a restaurace většinou otevřené
 
 ### Neděle
+- **OTEVŘENO!** Na rozdíl od siesty, v neděli turistické atrakce, restaurace a kavárny fungují normálně
 - **Ráno:** Většina obchodů zavřeno (mše)
 - **Odpoledne:** Turistické oblasti OTEVŘENO
 - **Rodinný oběd:** 12:00-15:00 (svatý čas!)
@@ -282,6 +285,18 @@ Nejkrásnější město Sicílie - "Perla Jónského moře"
 - **Velmi bezpečná** pro turisty
 - Mafia neútočí na turisty
 - Běžná opatrnost (jako všude)
+
+### Doprava - Dochvilnost
+- **Vlaky, autobusy a taxíky:** Nemají systémový problém s dochvilností
+- **Realita:** Není to Japonsko, ale v porovnání s **ČR, Rakouskem a Německem to není zásadní rozdíl**
+- **Interbus a Trenitalia:** Obvykle jezdí podle jízdního řádu
+- **Tip:** Počítejte s rezervou 10-15 minut, ale není to chaos
+
+### Catania - Realita města
+- ⚠️ **Odpadky:** Catania má problém s čistotou - na ulicích je poměrně hodně odpadků
+- ⚠️ **Bezdomovci:** V centru města je viditelná populace bezdomovců na ulicích
+- **Kontext:** Je to pracovní průmyslové město s letištěm, ne turistické centrum jako Taormina
+- **Tip:** Stejně bezpečné jako jiná italská velkoměsta, jen vizuálně méně upravené
 
 ---
 
