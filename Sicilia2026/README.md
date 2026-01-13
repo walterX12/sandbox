@@ -350,6 +350,17 @@ Nejkrásnější město Sicílie - "Perla Jónského moře"
 - **Výhody:** Citrusy zrají, málo turistů, levné
 - **Lyžování na Etně!** ⛷️
 
+### 🎄 Vánoční období (prosinec-začátek ledna):
+- **Stella di Natale (Vánoční hvězda):** Sicílie je plná poinsettií! 🌺
+  - **Tradice:** V Itálii se nazývá "Stella di Natale" - symbolizuje hvězdu Betlémskou a krev Kristovu
+  - **Unikátní:** Na rozdíl od ČR a Německa jsou poinsettie **venku na ulicích**, ne jen uvnitř!
+  - **Množství:** Itálie je 2. největší producent v Evropě - přes 20 milionů kusů se prodá o Vánocích
+- **Světelná výzdoba:** Velmi barevná a okázalá
+  - **Catania:** Via Etnea a Piazza Università zářící světly, vánoční trhy, "Christmas Town" (6.12-6.1)
+  - **Syrakusy:** Ortygia proměněná v kouzelnou vánoční pohádku
+  - **Svátek Santa Lucia (13.12):** Procesí v Syrakusách s ohňostrojem
+- **Atmosféra:** Na rozdíl od střídmého severního stylu je sicilská vánoční výzdoba plná barev a světel
+
 ---
 
 ## 📚 Další zdroje
