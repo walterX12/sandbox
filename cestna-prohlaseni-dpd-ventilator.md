@@ -62,16 +62,39 @@ Já, níže podepsaný **Petr Komárek**, tímto čestně prohlašuji, že:
 
 ### Přesná specifikace ventilátoru:
 
-4a. **Jedná se o specifický ventilátor:**
-   - **Typ:** EBM fan RG128/1300-3612-020204 for Geminox
-   - **Model číslo:** RG128/1300-3612-020204
-   - **Katalogové číslo:** 87168314640
+4a. **SPECIFIKACE ZTRACENÉHO DÍLU:**
+
+**Základní identifikace:**
+   - **Název dílu:** Ventilátor pro plynový kondenzační kotel
+   - **Výrobce:** EBM Papst
+   - **Model:** RG128/1300-3612-020204
+   - **Katalogové číslo Geminox:** 87168314640
+   - **Starý kód:** C50.31464
    - **SKU:** 87168314640
+
+**TECHNICKÉ PARAMETRY:**
+   - **Typ:** Radiální ventilátor s EC motorem MVL-EBM
+   - **Napětí:** 230V AC
+   - **Příkon:** 67W
+   - **Otáčky:** 7400 RPM
+   - **Průtok vzduchu:** 134 m³/h
+   - **Určení:** Pro plynové kondenzační kotle Geminox THRi série
+
+**KOMPATIBILITA:**
+   - Kompatibilní s modely:
+     - Geminox THRi 5-25 C
+     - Geminox THRi 10-25 C
+     - Geminox THRi 15-25 C
+   - **⚠️ KRITICKÁ POZNÁMKA:** Varianta **020204** je **specifická pouze pro kotle značky Geminox**
+   - Varianta **030204** je určena pro kotle Potterton/Baxi a **NENÍ zaměnitelná**
 
 4b. **Dostupnost náhradního dílu:**
    - Tento **specifický ventilátor není v České republice běžně dostupný** k okamžitému zakoupení
-   - Jedná se o **speciální díl** pro kotle Geminox THRi 2-17 C
-   - V případě ztráty zásilky **požaduji přesně stejný díl** ventilátoru se shodným katalog. číslem 87168314640
+   - Jedná se o **speciální díl** výhradně pro kotle Geminox THRi série
+   - V případě ztráty zásilky **požaduji přesně stejný díl** ventilátoru:
+     - Model: **RG128/1300-3612-020204** (NIKOLI 030204!)
+     - SKU: **87168314640**
+   - **Nelze nahradit** běžně dostupným ventilátorem z jiného modelu
    - Alternativou je pouze **profesionální repase** u specializovaného servisního střediska (Kotle-Rezek)
 
 5. **Funkční stav před odesláním:**
