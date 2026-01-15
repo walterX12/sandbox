@@ -13,7 +13,7 @@
 
 Já, níže podepsaný **Petr Komárek**, tímto čestně prohlašuji, že:
 
-1. **V roce 2007** jsem zakoupil **plynový kotel značky Geminox, model ERR** (dále jen "kotel").
+1. **V roce 2007** jsem zakoupil **kondenzační plynový kotel značky Geminox, model THRi 2-17 C** (dále jen "kotel").
 
 2. **Pořizovací hodnota kotle** v roce 2007 činila **75 000 Kč** (slovy: sedmdesátpět tisíc korun českých).
 
@@ -23,7 +23,7 @@ Já, níže podepsaný **Petr Komárek**, tímto čestně prohlašuji, že:
 
 5. Zásilka byla identifikována pod číslem: **13925049833359**.
 
-6. **Ventilátor je originální součástí** kotle Geminox ERR zakoupeného v roce 2007 za uvedenou pořizovací cenu 75 000 Kč.
+6. **Ventilátor je originální součástí** kotle Geminox THRi 2-17 C zakoupeného v roce 2007 za uvedenou pořizovací cenu 75 000 Kč.
 
 7. Toto prohlášení podávám z důvodu, že jako **fyzická osoba (nepodnikatel)** nedisponuji původní nákupní fakturou z roku 2007.
 
@@ -50,7 +50,7 @@ Petr Komárek
 
 Já, níže podepsaný **Petr Komárek**, tímto čestně prohlašuji, že:
 
-1. Dne .................. (doplňte datum odeslání) jsem prostřednictvím přepravní společnosti **DPD** odeslal **ventilátor (dmychadlo)** z plynového kotle **Geminox ERR** na adresu servisního střediska.
+1. Dne .................. (doplňte datum odeslání) jsem prostřednictvím přepravní společnosti **DPD** odeslal **ventilátor (dmychadlo)** z kondenzačního plynového kotle **Geminox THRi 2-17 C** na adresu servisního střediska.
 
 2. **Zásilka** byla identifikována pod číslem: **13925049833359**.
 
@@ -58,7 +58,7 @@ Já, níže podepsaný **Petr Komárek**, tímto čestně prohlašuji, že:
 
 ### Stav zboží před přepravou:
 
-4. **Ventilátor byl demontován z kotle** Geminox ERR, který vykazoval **chybovou hlášku č. 160** (porucha ventilátoru/dmychadla).
+4. **Ventilátor byl demontován z kotle** Geminox THRi 2-17 C, který vykazoval **chybovou hlášku č. 160** (porucha ventilátoru/dmychadla).
 
 5. **Funkční stav před odesláním:**
    - Ventilátor byl **částečně funkční**
