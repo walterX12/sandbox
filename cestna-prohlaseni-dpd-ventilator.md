@@ -19,7 +19,7 @@ Já, níže podepsaný **Petr Komárek**, tímto čestně prohlašuji, že:
 
 3. **Součástí kotle** je **ventilátor** (dmychadlo), který je nedílnou a kritickou součástí zařízení.
 
-4. Tento **ventilátor** jsem dne .................. (doplňte datum) odeslal prostřednictvím přepravní společnosti **DPD** na adresu servisního střediska za účelem **preventivní repase**.
+4. Tento **ventilátor** jsem dne **6. ledna 2026** odeslal prostřednictvím přepravní společnosti **DPD** na adresu servisního střediska za účelem **preventivní repase**.
 
 5. Zásilka byla identifikována pod číslem: **13925049833359**.
 
@@ -50,7 +50,7 @@ Petr Komárek
 
 Já, níže podepsaný **Petr Komárek**, tímto čestně prohlašuji, že:
 
-1. Dne .................. (doplňte datum odeslání) jsem prostřednictvím přepravní společnosti **DPD** odeslal **ventilátor (dmychadlo)** z kondenzačního plynového kotle **Geminox THRi 2-17 C** na adresu servisního střediska.
+1. Dne **6. ledna 2026** jsem prostřednictvím přepravní společnosti **DPD** odeslal **ventilátor (dmychadlo)** z kondenzačního plynového kotle **Geminox THRi 2-17 C** na adresu servisního střediska.
 
 2. **Zásilka** byla identifikována pod číslem: **13925049833359**.
 
