@@ -60,6 +60,20 @@ Já, níže podepsaný **Petr Komárek**, tímto čestně prohlašuji, že:
 
 4. **Ventilátor byl demontován z kotle** Geminox THRi 2-17 C, který vykazoval **chybovou hlášku č. 160** (porucha ventilátoru/dmychadla).
 
+### Přesná specifikace ventilátoru:
+
+4a. **Jedná se o specifický ventilátor:**
+   - **Typ:** EBM fan RG128/1300-3612-020204 for Geminox
+   - **Model číslo:** RG128/1300-3612-020204
+   - **Katalogové číslo:** 87168314640
+   - **SKU:** 87168314640
+
+4b. **Dostupnost náhradního dílu:**
+   - Tento **specifický ventilátor není v České republice běžně dostupný** k okamžitému zakoupení
+   - Jedná se o **speciální díl** pro kotle Geminox THRi 2-17 C
+   - V případě ztráty zásilky **požaduji přesně stejný díl** ventilátoru se shodným katalog. číslem 87168314640
+   - Alternativou je pouze **profesionální repase** u specializovaného servisního střediska (Kotle-Rezek)
+
 5. **Funkční stav před odesláním:**
    - Ventilátor byl **částečně funkční**
    - Kotel s ventilátorem **občasně fungoval**, ale vykazoval chybové stavy
