@@ -31,7 +31,7 @@ Já, níže podepsaný **Petr Komárek**, tímto čestně prohlašuji, že:
 
 ---
 
-**Místo a datum:** ....................................
+**Místo a datum:** Všenory, 15. ledna 2026
 
 **Podpis:** ....................................
 Petr Komárek
@@ -100,7 +100,7 @@ Já, níže podepsaný **Petr Komárek**, tímto čestně prohlašuji, že:
 
 ---
 
-**Místo a datum:** ....................................
+**Místo a datum:** Všenory, 15. ledna 2026
 
 **Podpis:** ....................................
 Petr Komárek
