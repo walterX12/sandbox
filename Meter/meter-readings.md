@@ -4,27 +4,65 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 ---
 
-## Elektroměr / Electricity Meter
+## Elektroměr 1 / Electricity Meter 1 - Daisy Technology
 
-**Číslo měřidla / Meter ID:** `_DOPLNIT_`
+**Číslo měřidla / Meter ID:** `2080259390`
+**Model:** Daisy Technology ADX12A-AD-U2H-V2C-G1-OK1
+**Typ:** Dvoutarifový (2T) - T1 (VT) / T2 (NT)
 **Jednotka / Unit:** kWh
+
+### Tarif T1 (Vysoký tarif / Peak)
 
 | Datum / Date | Čas / Time | Stav měřidla / Reading (kWh) | Spotřeba / Consumption (kWh) | Foto / Image |
 |--------------|------------|------------------------------|------------------------------|--------------|
-| 2026-01-17 | 10:00 | 12345.6 | - | [IMG_001](images/electricity/IMG_001.jpg) |
-| | | | | |
+| 2026-01-17 | 12:00 | 10003.876 | - | [IMG_T1_001](images/electricity/daisy_T1_001.jpg) |
+
+### Tarif T2 (Nízký tarif / Off-peak)
+
+| Datum / Date | Čas / Time | Stav měřidla / Reading (kWh) | Spotřeba / Consumption (kWh) | Foto / Image |
+|--------------|------------|------------------------------|------------------------------|--------------|
+| 2026-01-17 | 12:00 | 1591.0 | - | [IMG_T2_001](images/electricity/daisy_T2_001.jpg) |
+
+**Celkem (T1 + T2):** 11594.876 kWh
 
 ---
 
-## Plynoměr / Gas Meter
+## Elektroměr 2 / Electricity Meter 2 - ZPA Třífázový
 
-**Číslo měřidla / Meter ID:** `_DOPLNIT_`
+**Číslo měřidla / Meter ID:** `1023298130`
+**Model:** ZE314.D0B1B012-061
+**Typ:** Třífázový, dvoutarifový (2T)
+**Jednotka / Unit:** kWh
+
+### Tarif T1
+
+| Datum / Date | Čas / Time | Stav měřidla / Reading (kWh) | Spotřeba / Consumption (kWh) | Foto / Image |
+|--------------|------------|------------------------------|------------------------------|--------------|
+| 2026-01-17 | 12:00 | 24874.0 | - | [IMG_001](images/electricity/zpa_001.jpg) |
+
+---
+
+## Plynoměr 1 / Gas Meter 1 - Actaris Gallus 2000
+
+**Číslo měřidla / Meter ID:** `005541801`
+**Model:** Actaris G4 Gallus 2000
 **Jednotka / Unit:** m³
 
 | Datum / Date | Čas / Time | Stav měřidla / Reading (m³) | Spotřeba / Consumption (m³) | Foto / Image |
 |--------------|------------|-----------------------------|-----------------------------|--------------|
-| 2026-01-17 | 10:00 | 1234.567 | - | [IMG_001](images/gas/IMG_001.jpg) |
-| | | | | |
+| 2026-01-17 | 12:00 | 3268.094 | - | [IMG_001](images/gas/actaris_001.jpg) |
+
+---
+
+## Plynoměr 2 / Gas Meter 2 - Honeywell BK-G4M
+
+**Číslo měřidla / Meter ID:** `004012869380`
+**Model:** Honeywell BK-G4M (Elster)
+**Jednotka / Unit:** m³
+
+| Datum / Date | Čas / Time | Stav měřidla / Reading (m³) | Spotřeba / Consumption (m³) | Foto / Image |
+|--------------|------------|-----------------------------|-----------------------------|--------------|
+| 2026-01-17 | 12:00 | 1599.855 | - | [IMG_001](images/gas/honeywell_001.jpg) |
 
 ---
 
@@ -35,7 +73,6 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 | Datum / Date | Čas / Time | Stav měřidla / Reading (m³) | Spotřeba / Consumption (m³) | Foto / Image |
 |--------------|------------|-----------------------------|-----------------------------|--------------|
-| 2026-01-17 | 10:00 | 567.890 | - | [IMG_001](images/water/IMG_001.jpg) |
 | | | | | |
 
 ---
@@ -49,17 +86,7 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
    - `images/electricity/` - elektřina
    - `images/gas/` - plyn
    - `images/water/` - voda
-3. **Pošlete Claude prompt:**
-
-```
-Podívej se na obrázek měřidla v souboru [cesta k souboru].
-Identifikuj:
-1. Aktuální stav měřidla (číslo)
-2. Číslo měřidla (pokud je viditelné)
-3. Datum a čas z fotky (pokud je v EXIF datech)
-
-Přidej nový řádek do tabulky v meter-readings.md a vypočítej spotřebu od posledního odečtu.
-```
+3. **Použijte příkaz:** `/meter`
 
 ### Výpočet spotřeby:
 
@@ -70,13 +97,26 @@ Spotřeba = Aktuální stav - Předchozí stav
 ## Souhrn spotřeby / Consumption Summary
 
 ### Elektřina / Electricity
-- **Celková spotřeba:** _vypočítat_ kWh
-- **Průměrná denní spotřeba:** _vypočítat_ kWh/den
+
+**Elektroměr Daisy (2080259390):**
+- Stav T1 (VT): 10003.876 kWh
+- Stav T2 (NT): 1591.0 kWh
+- **Celkem:** 11594.876 kWh
+- Spotřeba od posledního odečtu: - (první odečet)
+
+**Elektroměr ZPA (1023298130):**
+- Stav T1: 24874.0 kWh
+- Spotřeba od posledního odečtu: - (první odečet)
 
 ### Plyn / Gas
-- **Celková spotřeba:** _vypočítat_ m³
-- **Průměrná denní spotřeba:** _vypočítat_ m³/den
+
+**Plynoměr Actaris (005541801):**
+- Stav: 3268.094 m³
+- Spotřeba od posledního odečtu: - (první odečet)
+
+**Plynoměr Honeywell (004012869380):**
+- Stav: 1599.855 m³
+- Spotřeba od posledního odečtu: - (první odečet)
 
 ### Voda / Water
-- **Celková spotřeba:** _vypočítat_ m³
-- **Průměrná denní spotřeba:** _vypočítat_ l/den
+- Zatím žádné odečty
