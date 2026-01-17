@@ -20,25 +20,19 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 # Domácnost 1 - Komárkovi
 
-## Elektroměr - Daisy Technology (Komárkovi)
+## Elektroměr - ZPA Třífázový (Komárkovi)
 
-**Číslo měřidla / Meter ID:** `2080259390`
-**Model:** Daisy Technology ADX12A-AD-U2H-V2C-G1-OK1
-**Typ:** Dvoutarifový (2T) - T1 (VT) / T2 (NT)
+**Číslo měřidla / Meter ID:** `1023298130`
+**Model:** ZE314.D0B1B012-061
+**Typ:** Třífázový, dvoutarifový (2T)
 **Jednotka / Unit:** kWh
 
-### Tarif T1 (Vysoký tarif / Peak)
+### Tarif T1
 
 | Datum / Date | Čas / Time | Stav měřidla / Reading (kWh) | Spotřeba / Consumption (kWh) | Foto / Image |
 |--------------|------------|------------------------------|------------------------------|--------------|
-| 2026-01-01 | 11:00 | 10003.876 | - | [IMG_T1_001](images/electricity/daisy_T1_001.jpg) |
-
-### Tarif T2 (Nízký tarif / Off-peak)
-
-| Datum / Date | Čas / Time | Stav měřidla / Reading (kWh) | Spotřeba / Consumption (kWh) | Foto / Image |
-|--------------|------------|------------------------------|------------------------------|--------------|
-| 2026-01-01 | 11:00 | 1591.0 | - | [IMG_T2_001](images/electricity/daisy_T2_001.jpg) |
-| 2026-01-17 | 14:00 | 1591.0 | 0 | [IMG_T2_002](images/electricity/daisy_T2_002.jpg) |
+| 2026-01-01 | 11:00 | 24736.0 | - | [IMG_001](images/electricity/zpa_001.jpg) |
+| 2026-01-17 | 14:00 | 24874.0 | **138.0** | [IMG_002](images/electricity/zpa_002.jpg) |
 
 ---
 
@@ -56,30 +50,36 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 ---
 
-# Domácnost 2 - Druhá rodina
+# Domácnost 2 - Charvátovi
 
-## Elektroměr - ZPA Třífázový (Druhá rodina)
+## Elektroměr - Daisy Technology (Charvátovi)
 
-**Číslo měřidla / Meter ID:** `1023298130`
-**Model:** ZE314.D0B1B012-061
-**Typ:** Třífázový, dvoutarifový (2T)
+**Číslo měřidla / Meter ID:** `2080259390`
+**Model:** Daisy Technology ADX12A-AD-U2H-V2C-G1-OK1
+**Typ:** Dvoutarifový (2T) - T1 (denní) / T2 (noční)
 **Jednotka / Unit:** kWh
 
-### Tarif T1
+### Tarif T1 (Denní proud / Day)
 
 | Datum / Date | Čas / Time | Stav měřidla / Reading (kWh) | Spotřeba / Consumption (kWh) | Foto / Image |
 |--------------|------------|------------------------------|------------------------------|--------------|
-| 2026-01-01 | 11:00 | 24736.0 | - | [IMG_001](images/electricity/zpa_001.jpg) |
-| 2026-01-17 | 14:00 | 24874.0 | **138.0** | [IMG_002](images/electricity/zpa_002.jpg) |
+| 2026-01-01 | 11:00 | 10003.876 | - | [IMG_T1_001](images/electricity/daisy_T1_001.jpg) |
+
+### Tarif T2 (Noční proud / Night)
+
+| Datum / Date | Čas / Time | Stav měřidla / Reading (kWh) | Spotřeba / Consumption (kWh) | Foto / Image |
+|--------------|------------|------------------------------|------------------------------|--------------|
+| 2026-01-01 | 11:00 | 1591.0 | - | [IMG_T2_001](images/electricity/daisy_T2_001.jpg) |
+| 2026-01-17 | 14:00 | 1591.0 | 0 | [IMG_T2_002](images/electricity/daisy_T2_002.jpg) |
 
 ---
 
-## Plyn - Druhá rodina (výpočet)
+## Plyn - Charvátovi (výpočet)
 
-**Výpočet:** Honeywell (celý dům) - Actaris (Komárci) = spotřeba druhé rodiny
+**Výpočet:** Honeywell (celý dům) - Actaris (Komárci) = spotřeba Charvátů
 
-| Období | Honeywell (dům) | Actaris (Komárci) | Druhá rodina |
-|--------|-----------------|-------------------|--------------|
+| Období | Honeywell (dům) | Actaris (Komárci) | Charvátovi |
+|--------|-----------------|-------------------|------------|
 | 01.01. - 17.01. | 23.478 m³ | 3.519 m³ | **19.959 m³** |
 
 ---
@@ -107,17 +107,17 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 | Energie | Spotřeba | Denní průměr | Měsíční odhad |
 |---------|----------|--------------|---------------|
-| Elektřina T1 | 0 kWh | 0 kWh/den | 0 kWh |
-| Elektřina T2 | 0 kWh | 0 kWh/den | 0 kWh |
+| **Elektřina (ZPA) T1** | **138.0 kWh** | **8.6 kWh/den** | **258 kWh** |
 | **Plyn (Actaris)** | **3.519 m³** | **0.22 m³/den** | **6.6 m³** |
 
 ---
 
-## Domácnost 2 - Druhá rodina
+## Domácnost 2 - Charvátovi
 
 | Energie | Spotřeba | Denní průměr | Měsíční odhad |
 |---------|----------|--------------|---------------|
-| **Elektřina T1** | **138.0 kWh** | **8.6 kWh/den** | **258 kWh** |
+| Elektřina (Daisy) T1 - denní | 0 kWh | 0 kWh/den | 0 kWh |
+| Elektřina (Daisy) T2 - noční | 0 kWh | 0 kWh/den | 0 kWh |
 | **Plyn (Honeywell-Actaris)** | **19.959 m³** | **1.25 m³/den** | **37.5 m³** |
 
 ---
@@ -146,18 +146,26 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 PLYN:
 Honeywell (hlavní - celý dům)
     └── Actaris (podružný - Komárci)
-        Druhá rodina = Honeywell - Actaris
+        Charvátovi = Honeywell - Actaris
 
 ELEKTŘINA:
-├── Daisy T1+T2 (Komárkovi)
-└── ZPA T1 (Druhá rodina)
+├── ZPA T1 (Komárkovi)
+└── Daisy T1+T2 (Charvátovi) - denní/noční proud
 
 VODA:
 └── Sensus (společná)
 ```
 
-### Vzorec pro výpočet plynu druhé rodiny:
+### Vzorec pro výpočet plynu Charvátů:
 
 ```
-Spotřeba druhé rodiny = Honeywell (celý dům) - Actaris (Komárci)
+Spotřeba Charvátů = Honeywell (celý dům) - Actaris (Komárci)
 ```
+
+---
+
+# Poznámky / Notes
+
+- **Komárkovi:** ZPA elektřina + Actaris plyn (podružný měřič)
+- **Charvátovi:** Daisy elektřina (T1 denní, T2 noční) + plyn = rozdíl Honeywell - Actaris
+- **Voda:** společná pro celý dům (Sensus)
