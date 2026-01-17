@@ -22,6 +22,7 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 | Datum / Date | Čas / Time | Stav měřidla / Reading (kWh) | Spotřeba / Consumption (kWh) | Foto / Image |
 |--------------|------------|------------------------------|------------------------------|--------------|
 | 2026-01-17 | 12:00 | 1591.0 | - | [IMG_T2_001](images/electricity/daisy_T2_001.jpg) |
+| 2026-01-17 | 14:00 | 1591.0 | 0 | [IMG_T2_002](images/electricity/daisy_T2_002.jpg) |
 
 **Celkem (T1 + T2):** 11594.876 kWh
 
@@ -38,7 +39,8 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 | Datum / Date | Čas / Time | Stav měřidla / Reading (kWh) | Spotřeba / Consumption (kWh) | Foto / Image |
 |--------------|------------|------------------------------|------------------------------|--------------|
-| 2026-01-17 | 12:00 | 24874.0 | - | [IMG_001](images/electricity/zpa_001.jpg) |
+| 2026-01-17 | 12:00 | 24736.0 | - | [IMG_001](images/electricity/zpa_001.jpg) |
+| 2026-01-17 | 14:00 | 24874.0 | **138.0** | [IMG_002](images/electricity/zpa_002.jpg) |
 
 ---
 
@@ -50,7 +52,8 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 | Datum / Date | Čas / Time | Stav měřidla / Reading (m³) | Spotřeba / Consumption (m³) | Foto / Image |
 |--------------|------------|-----------------------------|-----------------------------|--------------|
-| 2026-01-17 | 12:00 | 3268.094 | - | [IMG_001](images/gas/actaris_001.jpg) |
+| 2026-01-17 | 12:00 | 3264.575 | - | [IMG_001](images/gas/actaris_001.jpg) |
+| 2026-01-17 | 14:00 | 3268.094 | **3.519** | [IMG_002](images/gas/actaris_002.jpg) |
 
 ---
 
@@ -62,18 +65,20 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 | Datum / Date | Čas / Time | Stav měřidla / Reading (m³) | Spotřeba / Consumption (m³) | Foto / Image |
 |--------------|------------|-----------------------------|-----------------------------|--------------|
-| 2026-01-17 | 12:00 | 1599.855 | - | [IMG_001](images/gas/honeywell_001.jpg) |
+| 2026-01-17 | 12:00 | 1576.377 | - | [IMG_001](images/gas/honeywell_001.jpg) |
+| 2026-01-17 | 14:00 | 1599.855 | **23.478** | [IMG_002](images/gas/honeywell_002.jpg) |
 
 ---
 
-## Vodoměr / Water Meter
+## Vodoměr / Water Meter - Sensus
 
-**Číslo měřidla / Meter ID:** `_DOPLNIT_`
+**Číslo měřidla / Meter ID:** `4201238657`
+**Model:** Sensus R80
 **Jednotka / Unit:** m³
 
 | Datum / Date | Čas / Time | Stav měřidla / Reading (m³) | Spotřeba / Consumption (m³) | Foto / Image |
 |--------------|------------|-----------------------------|-----------------------------|--------------|
-| | | | | |
+| 2026-01-17 | 14:00 | 459.0 | - | [IMG_001](images/water/sensus_001.jpg) |
 
 ---
 
@@ -102,21 +107,26 @@ Spotřeba = Aktuální stav - Předchozí stav
 - Stav T1 (VT): 10003.876 kWh
 - Stav T2 (NT): 1591.0 kWh
 - **Celkem:** 11594.876 kWh
-- Spotřeba od posledního odečtu: - (první odečet)
+- Spotřeba T2: 0 kWh
 
 **Elektroměr ZPA (1023298130):**
 - Stav T1: 24874.0 kWh
-- Spotřeba od posledního odečtu: - (první odečet)
+- **Spotřeba T1:** 138.0 kWh
 
 ### Plyn / Gas
 
 **Plynoměr Actaris (005541801):**
 - Stav: 3268.094 m³
-- Spotřeba od posledního odečtu: - (první odečet)
+- **Spotřeba:** 3.519 m³
 
 **Plynoměr Honeywell (004012869380):**
 - Stav: 1599.855 m³
-- Spotřeba od posledního odečtu: - (první odečet)
+- **Spotřeba:** 23.478 m³
+
+**Celková spotřeba plynu:** 26.997 m³
 
 ### Voda / Water
-- Zatím žádné odečty
+
+**Vodoměr Sensus (4201238657):**
+- Stav: 459.0 m³
+- Spotřeba: - (první odečet)
