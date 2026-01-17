@@ -106,30 +106,30 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 ## Domácnost 1 - Komárkovi
 
-| Energie | Spotřeba | Denní průměr | Měsíční odhad |
-|---------|----------|--------------|---------------|
-| **Elektřina (ZPA) T1** | **138.0 kWh** | **8.6 kWh/den** | **258 kWh** |
-| **Plyn (Actaris)** | **3.519 m³** | **0.22 m³/den** | **6.6 m³** |
+| Energie | Spotřeba | Denní průměr | Měsíční odhad | Roční projekce |
+|---------|----------|--------------|---------------|----------------|
+| **Elektřina (ZPA) T1** | **138.0 kWh** | **8.6 kWh/den** | **258 kWh** | **3 139 kWh** |
+| **Plyn (Actaris)** | **3.519 m³** | **0.22 m³/den** | **6.6 m³** | **80 m³** |
 
 ---
 
 ## Domácnost 2 - Charvátovi
 
-| Energie | Spotřeba | Denní průměr | Měsíční odhad |
-|---------|----------|--------------|---------------|
-| **Elektřina (Daisy) T1 - denní** | **74.0 kWh** | **4.6 kWh/den** | **138 kWh** |
-| Elektřina (Daisy) T2 - noční | 0 kWh | 0 kWh/den | 0 kWh |
-| **Plyn (Honeywell-Actaris)** | **19.959 m³** | **1.25 m³/den** | **37.5 m³** |
+| Energie | Spotřeba | Denní průměr | Měsíční odhad | Roční projekce |
+|---------|----------|--------------|---------------|----------------|
+| **Elektřina (Daisy) T1 - denní** | **74.0 kWh** | **4.6 kWh/den** | **138 kWh** | **1 679 kWh** |
+| Elektřina (Daisy) T2 - noční | 0 kWh | 0 kWh/den | 0 kWh | 0 kWh |
+| **Plyn (Honeywell-Actaris)** | **19.959 m³** | **1.25 m³/den** | **37.5 m³** | **456 m³** |
 
 ---
 
 ## Celý dům
 
-| Energie | Spotřeba | Denní průměr | Měsíční odhad |
-|---------|----------|--------------|---------------|
-| Elektřina celkem | 212.0 kWh | 13.3 kWh/den | 399 kWh |
-| **Plyn celkem (Honeywell)** | **23.478 m³** | **1.47 m³/den** | **44.1 m³** |
-| Voda | - | - | - |
+| Energie | Spotřeba | Denní průměr | Měsíční odhad | Roční projekce |
+|---------|----------|--------------|---------------|----------------|
+| Elektřina celkem | 212.0 kWh | 13.3 kWh/den | 399 kWh | **4 855 kWh** |
+| **Plyn celkem (Honeywell)** | **23.478 m³** | **1.47 m³/den** | **44.1 m³** | **537 m³** |
+| Voda | - | - | - | - |
 
 ---
 
