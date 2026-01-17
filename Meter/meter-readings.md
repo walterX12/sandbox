@@ -170,3 +170,16 @@ Spotřeba Charvátů = Honeywell (celý dům) - Actaris (Komárci)
 - **Komárkovi:** ZPA elektřina + Actaris plyn (podružný měřič)
 - **Charvátovi:** Daisy elektřina (T1 denní, T2 noční) + plyn = rozdíl Honeywell - Actaris
 - **Voda:** společná pro celý dům (Sensus)
+
+---
+
+# Poznámky k období 01.01. - 17.01.2026
+
+## Plyn - nižší spotřeba
+- **Od 6. ledna 2026** je plynový kotel mimo provoz (porucha)
+- Čekáme na opravu - **předpokládané dokončení: 25. ledna 2026**
+- Proto je spotřeba plynu v tomto období nižší než obvykle
+
+## Elektřina - vyšší spotřeba
+- Proběhly **2× řezání dřeva** na elektrické cirkulárce (příkon **5 kW**)
+- Toto pravděpodobně navýšilo spotřebu elektřiny
