@@ -63,7 +63,8 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 | Datum / Date | Čas / Time | Stav měřidla / Reading (kWh) | Spotřeba / Consumption (kWh) | Foto / Image |
 |--------------|------------|------------------------------|------------------------------|--------------|
-| 2026-01-01 | 11:00 | 10003.876 | - | [IMG_T1_001](images/electricity/daisy_T1_001.jpg) |
+| 2026-01-01 | 11:00 | 3802.0 | - | [IMG_T1_001](images/electricity/daisy_T1_001.jpg) |
+| 2026-01-17 | 14:00 | 3876.0 | **74.0** | [IMG_T1_002](images/electricity/daisy_T1_002.jpg) |
 
 ### Tarif T2 (Noční proud / Night)
 
@@ -116,7 +117,7 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 | Energie | Spotřeba | Denní průměr | Měsíční odhad |
 |---------|----------|--------------|---------------|
-| Elektřina (Daisy) T1 - denní | 0 kWh | 0 kWh/den | 0 kWh |
+| **Elektřina (Daisy) T1 - denní** | **74.0 kWh** | **4.6 kWh/den** | **138 kWh** |
 | Elektřina (Daisy) T2 - noční | 0 kWh | 0 kWh/den | 0 kWh |
 | **Plyn (Honeywell-Actaris)** | **19.959 m³** | **1.25 m³/den** | **37.5 m³** |
 
@@ -126,7 +127,7 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 
 | Energie | Spotřeba | Denní průměr | Měsíční odhad |
 |---------|----------|--------------|---------------|
-| Elektřina celkem | 138.0 kWh | 8.6 kWh/den | 258 kWh |
+| Elektřina celkem | 212.0 kWh | 13.3 kWh/den | 399 kWh |
 | **Plyn celkem (Honeywell)** | **23.478 m³** | **1.47 m³/den** | **44.1 m³** |
 | Voda | - | - | - |
 
