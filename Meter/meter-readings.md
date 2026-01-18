@@ -251,11 +251,11 @@ Spotřeba Charvátů = Honeywell (celý dům) - Actaris (Komárci)
 
 ## Ceny energií (2025/2026)
 
-### Voda (Aquaconsult - Všenory)
-- **Vodné:** ~57,58 Kč/m³ (vč. DPH)
-- **Stočné:** ~57,43 Kč/m³ (vč. DPH)
-- **Celkem:** ~115 Kč/m³
-- Zdroj: [Aquaconsult](https://aquaconsult.cz/pro-zakazniky/ceny-vodneho-a-stocneho/)
+### Voda (Aquaconsult - Všenory, platné od 1.1.2026)
+- **Vodné:** 76,10 Kč/m³ (vč. DPH 12%)
+- **Stočné:** 80,14 Kč/m³ (vč. DPH 12%)
+- **Celkem:** **156,24 Kč/m³**
+- Zdroj: [Aquaconsult ceník 2026](https://aquaconsult.cz/wp-content/uploads/2024/01/CENIK_VODNE_STOCNE_AKTUALIZACE_01012024.pdf)
 
 ### Plyn
 - TODO: doplnit aktuální cenu
