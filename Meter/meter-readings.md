@@ -15,6 +15,7 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 |--------------|------------|-----------------------------|-----------------------------|--------------|
 | 2026-01-01 | 11:00 | 1576.377 | - | [IMG_001](images/gas/honeywell_001.jpg) |
 | 2026-01-17 | 14:00 | 1599.855 | **23.478** | [IMG_002](images/gas/honeywell_002.jpg) |
+| 2026-01-18 | - | 1608.421 | **8.566** | [IMG_003](images/gas/honeywell_003.jpg) |
 
 ---
 
@@ -33,6 +34,7 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 |--------------|------------|------------------------------|------------------------------|--------------|
 | 2026-01-01 | 11:00 | 24736.0 | - | [IMG_001](images/electricity/zpa_001.jpg) |
 | 2026-01-17 | 14:00 | 24874.0 | **138.0** | [IMG_002](images/electricity/zpa_002.jpg) |
+| 2026-01-18 | - | 24885.0 | **11.0** | [IMG_003](images/electricity/zpa_003.jpg) |
 
 ---
 
@@ -47,6 +49,7 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 |--------------|------------|-----------------------------|-----------------------------|--------------|
 | 2026-01-01 | 11:00 | 3264.575 | - | [IMG_001](images/gas/actaris_001.jpg) |
 | 2026-01-17 | 14:00 | 3268.094 | **3.519** | [IMG_002](images/gas/actaris_002.jpg) |
+| 2026-01-18 | - | 3268.268 | **0.174** | [IMG_003](images/gas/actaris_003.jpg) |
 
 ---
 
@@ -65,6 +68,7 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 |--------------|------------|------------------------------|------------------------------|--------------|
 | 2026-01-01 | 11:00 | 3802.0 | - | [IMG_T1_001](images/electricity/daisy_T1_001.jpg) |
 | 2026-01-17 | 14:00 | 3876.0 | **74.0** | [IMG_T1_002](images/electricity/daisy_T1_002.jpg) |
+| 2026-01-18 | - | 3881.0 | **5.0** | [IMG_T1_003](images/electricity/daisy_T1_003.jpg) |
 
 ### Tarif T2 (Noční proud / Night)
 
@@ -82,6 +86,8 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 | Období | Honeywell (dům) | Actaris (Komárci) | Charvátovi |
 |--------|-----------------|-------------------|------------|
 | 01.01. - 17.01. | 23.478 m³ | 3.519 m³ | **19.959 m³** |
+| 17.01. - 18.01. | 8.566 m³ | 0.174 m³ | **8.392 m³** |
+| **CELKEM 01.01. - 18.01.** | **32.044 m³** | **3.693 m³** | **28.351 m³** |
 
 ---
 
@@ -183,3 +189,18 @@ Spotřeba Charvátů = Honeywell (celý dům) - Actaris (Komárci)
 ## Elektřina - vyšší spotřeba
 - Proběhly **2× řezání dřeva** na elektrické cirkulárce (příkon **5 kW**)
 - Toto pravděpodobně navýšilo spotřebu elektřiny
+
+---
+
+# Poznámky k období 17.01. - 18.01.2026 (sobota)
+
+## Plyn - vysoká spotřeba (8.566 m³ za 1 den!)
+- **Babička s dědou byli doma** - babička vařila (používá plyn)
+- Proto vysoká spotřeba Charvátů: **8.392 m³** za jediný den
+- Komárci spotřebovali pouze **0.174 m³** (bez kotle)
+
+## Elektřina
+- Řezání dřeva na cirkulárce **5 kW** přibližně **2 hodiny** (~10 kWh)
+- ZPA (Komárci): +11 kWh
+- Daisy (Charvátovi): +5 kWh
+- Jinak běžný provoz, nikdo se nekoupal (neohřívali vodu)
