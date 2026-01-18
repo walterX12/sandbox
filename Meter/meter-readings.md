@@ -103,6 +103,7 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 | Datum / Date | Čas / Time | Stav měřidla / Reading (m³) | Spotřeba / Consumption (m³) | Foto / Image |
 |--------------|------------|-----------------------------|-----------------------------|--------------|
 | 2026-01-17 | 14:00 | 459.0 | - | [IMG_001](images/water/sensus_001.jpg) |
+| 2026-01-18 | - | 467.0 | **8.0** | [IMG_002](images/water/sensus_002.jpg) |
 
 ---
 
