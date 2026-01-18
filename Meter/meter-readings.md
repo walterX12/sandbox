@@ -205,3 +205,60 @@ Spotřeba Charvátů = Honeywell (celý dům) - Actaris (Komárci)
 - ZPA (Komárci): +11 kWh
 - Daisy (Charvátovi): +5 kWh
 - Jinak běžný provoz, nikdo se nekoupal (neohřívali vodu)
+
+---
+
+# Profil domácnosti (pro odhady spotřeby)
+
+## Základní údaje
+- **Počet osob:** 7 lidí (2 domácnosti)
+- **Komárkovi:** ? osob
+- **Charvátovi:** ? osob (babička a děda)
+
+## Vybavení domácnosti
+
+### Pračka
+- **Rok výroby:** 2020 (moderní)
+- **Odhadovaná spotřeba:** 35-45 litrů/cyklus
+- **Frekvence praní:** 1-2× denně
+
+### Myčka nádobí
+- **Spotřeba:** 10-15 litrů/cyklus
+- **Nádobí myjeme v myčce** (ne ručně)
+
+### Koupání
+- **Vana:** téměř nepoužíváme (výjimečně)
+- **Sprchy:** 2-4 osoby denně
+- **Spotřeba sprchy:** 30-50 litrů (5 min)
+
+### WC
+- **Odhad splachování:** 7 osob × ~5× denně = 35× denně
+- **Spotřeba:** 6-9 litrů/spláchnutí
+- **Celkem WC:** ~210-315 litrů/den
+
+## Typický denní odhad spotřeby vody
+
+| Činnost | Počet | Spotřeba |
+|---------|-------|----------|
+| Sprchy | 2-4× | 70-150 l |
+| Praní | 1-2× | 40-80 l |
+| Myčka | 1× | 12 l |
+| WC | ~35× | 210-315 l |
+| Pití/vaření/ruce | - | ~40 l |
+| **CELKEM** | | **~370-600 l** |
+
+**Skutečná spotřeba:** 470 l/den = **v normě**
+
+## Ceny energií (2025/2026)
+
+### Voda (Aquaconsult - Všenory)
+- **Vodné:** ~57,58 Kč/m³ (vč. DPH)
+- **Stočné:** ~57,43 Kč/m³ (vč. DPH)
+- **Celkem:** ~115 Kč/m³
+- Zdroj: [Aquaconsult](https://aquaconsult.cz/pro-zakazniky/ceny-vodneho-a-stocneho/)
+
+### Plyn
+- TODO: doplnit aktuální cenu
+
+### Elektřina
+- TODO: doplnit aktuální cenu ČEZ
