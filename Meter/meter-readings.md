@@ -100,6 +100,12 @@ Tento soubor sleduje odečty všech měřidel a automaticky počítá spotřebu.
 **Typ:** Společný vodoměr pro celý dům
 **Jednotka / Unit:** m³
 
+**DŮLEŽITÉ:** Vodoměr měří pouze vodu z obecního vodovodu!
+- ✅ Vaření, mytí, pračka, myčka, WC, sprchy
+- ❌ Zalévání zahrady (používáme studnu)
+- ❌ Bazén (používáme studnu)
+- ❌ Jiné venkovní použití
+
 | Datum / Date | Čas / Time | Stav měřidla / Reading (m³) | Spotřeba / Consumption (m³) | Foto / Image |
 |--------------|------------|-----------------------------|-----------------------------|--------------|
 | 2026-01-01 | 11:00 | 459.0 | - | [IMG_001](images/water/sensus_001.jpg) |
