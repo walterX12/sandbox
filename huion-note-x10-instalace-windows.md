@@ -67,6 +67,33 @@ Huion Note X10 má **dva různé režimy** - je důležité rozumět rozdílu!
 3. Kontrolka bude **bílá** (nebo červená, pokud se nabíjí)
 4. Pero funguje jako myš
 
+### 😴 Sleep Mode (Režim spánku)
+
+**Důležité:** Tablet **automaticky usíná po 15 minutách** nečinnosti pro úsporu baterie!
+
+**Jak poznáte Sleep Mode:**
+- Kontrolka LED **zhasne** úplně
+- Tablet nereaguje na dotyk pera
+- Bluetooth spojení se přeruší
+
+**Jak probudit tablet:**
+1. Lehce se **dotkněte perem** papíru na tabletu
+2. Kontrolka se **rozsvítí** (zelená nebo modrá)
+3. Tablet je připravený k použití
+
+**💡 Tip:** Pokud tablet nereaguje nebo se nepřipojuje, nejčastěji spí! Vždy zkuste dotknout perem papíru.
+
+### 🔄 Automatické Bluetooth připojení
+
+Po **prvním úspěšném Bluetooth připojení** (ne QR kód!) se tablet automaticky připojí při příštím použití:
+
+**Jak to funguje:**
+1. První připojení: **"Connect via Bluetooth"** → vyberte "Huion Note-X10"
+2. Příště: **Stačí otevřít aplikaci** a tablet se automaticky připojí!
+3. Kontrolka změní na **modrou** = připojeno
+
+**⚠️ Poznámka:** QR kód vytvoří pouze **jednorázové** spojení. Pro automatické připojení použijte Bluetooth metodu alespoň jednou.
+
 ## Krok 1: Stažení ovladačů
 
 ### Doporučená cesta - Oficiální web Huion
@@ -214,14 +241,47 @@ Pokud chcete tablet použít pro kreslení v PC aplikacích:
 4. Zkontrolujte, zda máte na tabletu nějaké uložené soubory
 5. Zkuste restartovat aplikaci a tablet
 
-### Nemohu se připojit přes Bluetooth:
+### Nemohu se připojit přes Bluetooth (zařízení problikne a zmizí):
 
-1. Ujistěte se, že **USB kabel NENÍ připojený**
-2. Zapněte **Bluetooth** na telefonu/tabletu
-3. Kontrolka na Huion Note X10 by měla být **zelená**
-4. V aplikaci klikněte na "Connect via Bluetooth"
-5. Vyberte "Huion Note-X10" ze seznamu
-6. Pokud nevidíte zařízení, restartujte tablet a zkuste znovu
+**To je častý problém! Řešení:**
+
+**Krok 1: Probuďte tablet ze sleep mode**
+- Huion Note X10 **usíná po 15 minutách** nečinnosti
+- Kontrolka **zhasne** = tablet spí
+- **Řešení:** Lehce se **dotkněte perem** papíru tabletu
+- Kontrolka se **rozsvítí zeleně** = tablet je probuzený
+
+**Krok 2: Odpojte jiná Bluetooth zařízení**
+1. Jděte do **Android Nastavení → Bluetooth**
+2. **Dočasně odpojte** ostatní zařízení (sluchátka, hodinky)
+3. Zejména zařízení s velkým přenosem dat
+
+**Krok 3: "Zapomeňte" zařízení a spárujte znovu**
+1. V **Android Bluetooth nastavení** najděte "Huion Note-X10"
+2. Klikněte na **⚙️** vedle názvu
+3. Vyberte **"Zapomenout zařízení"**
+4. **Zavřete** Huion Note aplikaci úplně
+5. **Otevřete** aplikaci znovu
+6. **Držte tablet BLÍZKO** telefonu (20-30 cm)
+7. Klikněte **"Connect via Bluetooth"**
+8. **Rychle** klikněte na "Huion Note-X10" jakmile se objeví
+
+**Krok 4: Reset Bluetooth na tabletu**
+1. **Stiskněte a držte** funkční tlačítko (vpravo nahoře) **3 sekundy**
+2. Bluetooth se odpojí (kontrolka → zelená)
+3. Počkejte 5 sekund
+4. Zkuste připojit znovu v aplikaci
+
+**💡 Důležité informace:**
+- Po **prvním úspěšném Bluetooth připojení** se tablet bude **automaticky párovat** při příštím spuštění aplikace
+- QR kód je **jednorázové** připojení - nenastavuje automatické párování
+- **Doporučuji:** Použijte Bluetooth připojení **jednou** správně → pak už to bude automatické!
+
+**✅ Tipy pro stabilní spojení:**
+- Udržujte tablet **blízko** telefonu při připojování
+- Zkontrolujte, že tablet **NENÍ ve sleep mode** (dotkněte se pera)
+- **Zavřete ostatní Bluetooth zařízení** dočasně
+- Nepoužívejte QR a Bluetooth současně
 
 ## Alternativní software
 
