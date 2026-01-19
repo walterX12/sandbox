@@ -11,6 +11,62 @@ Huion Note X10 je hybridní grafický tablet, který funguje jak samostatně (An
 1. **Huion ovladače** - pro rozpoznání tabletu jako kreslícího zařízení
 2. **Huion Note aplikace** - aplikace pro zobrazení a správu vašich kreseb (ekvivalent té Android aplikace, kde vidíte pěkně malování)
 
+## ⚠️ DŮLEŽITÉ: Dva režimy tabletu a význam kontrolek LED
+
+Huion Note X10 má **dva různé režimy** - je důležité rozumět rozdílu!
+
+### 🎨 Režim 1: Note-taking Mode (Režim poznámek)
+**Pro zobrazení vašich kreseb a poznámek**
+
+**Kontrolky LED:**
+- 🟢 **Zelená** = Offline režim (tablet není připojený)
+- 🔵 **Modrá** = Připojeno k aplikaci Huion Note přes Bluetooth
+
+**Co můžete dělat:**
+- Vidět všechny své poznámky v aplikaci Huion Note
+- Synchronizovat kresby mezi tabletem a telefonem/tabletem
+- Export do PDF, JPG, Video
+
+**Jak se do tohoto režimu dostat:**
+- Tablet funguje samostatně (zelená kontrolka)
+- NEBO připojte přes Bluetooth k mobilní aplikaci (modrá kontrolka)
+
+### 🖊️ Režim 2: Pen Tablet Mode (Režim grafického tabletu)
+**Pro kreslení v aplikacích na PC (Photoshop, Krita atd.)**
+
+**Kontrolky LED:**
+- ⚪ **Bílá** = Připojeno k PC přes USB (Pen Tablet Mode)
+- 🔵→⚪ **Modrá změní na bílou** = Připojeno k PC přes Bluetooth (Pen Tablet Mode)
+
+**Co můžete dělat:**
+- Pero funguje jako **myš** v celém Windows
+- Můžete kreslit v grafických programech (Photoshop, Krita, GIMP)
+- Tablet funguje jako profesionální grafický tablet
+
+**❗ Klíčová informace:**
+> Když připojíte Huion Note X10 k PC přes **USB kabel**, automaticky se přepne do **Pen Tablet Mode**! To znamená, že pero bude fungovat jako myš. To je normální chování.
+
+### 🔴 Červená kontrolka
+
+**Červená** má jiný význam:
+- **Trvalá červená** = Tablet se **nabíjí**
+- **Blikající červená** = **Nízká baterie** (pod 10%)
+
+### Jak přepnout mezi režimy:
+
+**Z Pen Tablet Mode → Note-taking Mode:**
+1. **Odpojte USB kabel** od PC
+2. Kontrolka se změní na **zelenou** (offline režim)
+3. Otevřete mobilní aplikaci Huion Note
+4. Připojte přes Bluetooth → kontrolka změní na **modrou**
+5. Nyní vidíte své poznámky!
+
+**Z Note-taking Mode → Pen Tablet Mode:**
+1. **Připojte USB kabel** k PC
+2. Tablet automaticky přepne do Pen Tablet Mode
+3. Kontrolka bude **bílá** (nebo červená, pokud se nabíjí)
+4. Pero funguje jako myš
+
 ## Krok 1: Stažení ovladačů
 
 ### Doporučená cesta - Oficiální web Huion
@@ -68,23 +124,49 @@ Huion Note je aplikace pro Windows/Mac, která zobrazuje vaše kresby z Huion No
 
 3. **Spusťte** aplikaci Huion Note z ikony na ploše nebo nabídky Start
 
-## Krok 5: Připojení tabletu k PC
+## Krok 5: Připojení tabletu pro zobrazení poznámek
 
-### Použití USB kabelu:
+### ⚠️ POZOR: USB připojení spustí Pen Tablet Mode!
 
-1. **Připojte** Huion Note X10 k PC pomocí USB-C kabelu
+Když připojíte tablet k PC přes **USB kabel**, automaticky se aktivuje **Pen Tablet Mode** (pero funguje jako myš). To **NENÍ** režim pro zobrazení poznámek!
+
+### ✅ Doporučený způsob pro zobrazení poznámek:
+
+**Použijte mobilní aplikaci Huion Note s Bluetooth:**
+
+1. **Stáhněte aplikaci** Huion Note na váš telefon/tablet:
+   - **Android**: Google Play Store
+   - **iOS**: Apple App Store
+
+2. **Zapněte tablet** (zelená kontrolka)
+
+3. **Otevřete aplikaci** Huion Note na mobilu/tabletu
+
+4. **Klikněte na "Connect"** v pravém horním rohu
+
+5. **Vyberte "Connect via Bluetooth"**
+
+6. **Vyberte "Huion Note-X10"** ze seznamu dostupných zařízení
+
+7. Kontrolka se změní na **modrou** = úspěšně připojeno!
+
+8. **Uvidíte všechny své kresby a poznámky** v aplikaci
+
+### Alternativa: Použít jako grafický tablet (Pen Tablet Mode):
+
+Pokud chcete tablet použít pro kreslení v PC aplikacích:
+
+1. **Připojte** USB-C kabel k PC
 
 2. **Zapněte** tablet
 
-3. Windows by měl automaticky rozpoznat zařízení
+3. Kontrolka bude **bílá** (nebo **červená** pokud se nabíjí)
 
-4. **Otevřete** aplikaci Huion Note - měli byste vidět obsah tabletu
+4. **Pero funguje jako myš** - to je správně!
 
-### Možnosti připojení:
+5. **Otevřete** kreslící program (Photoshop, Krita, GIMP)
 
-- **USB kabel** - doporučeno pro stabilní spojení
-- **Bluetooth** - možné, ale může být pomalejší
-- **WiFi** - některé modely to podporují
+6. Můžete kreslit přímo v těchto programech
 
 ## Co Huion Note umožňuje:
 
@@ -96,24 +178,50 @@ Huion Note je aplikace pro Windows/Mac, která zobrazuje vaše kresby z Huion No
 
 ## Řešení problémů
 
-### Tablet není rozpoznán:
+### 🔴 Vidím červenou kontrolku a pero funguje jako myš!
+
+**To je NORMÁLNÍ!** Červená znamená, že:
+- Tablet se **nabíjí** z USB
+- A jste v **Pen Tablet Mode** (proto pero funguje jako myš)
+
+**Chcete vidět své poznámky?**
+1. **Odpojte USB kabel** od PC
+2. Kontrolka se změní na **zelenou**
+3. **Stáhněte aplikaci Huion Note** na telefon/tablet (Android/iOS)
+4. **Připojte přes Bluetooth** v aplikaci
+5. Kontrolka se změní na **modrou** = uvidíte poznámky!
+
+### Tablet není rozpoznán jako grafický tablet:
 
 1. Zkontrolujte, zda jsou **ovladače správně nainstalované**
 2. Zkuste **jiný USB port** (preferujte USB 3.0)
 3. Zkuste **jiný USB kabel**
 4. **Restartujte** PC i tablet
+5. Otevřete aplikaci **Huion Tablet Driver** a zkontrolujte, zda je tablet viditelný
 
-### Pero nefunguje:
+### Pero nefunguje v Pen Tablet Mode:
 
 1. Otevřete **Huion Tablet Driver** (aplikace nainstalovaná s ovladači)
 2. Zkontrolujte, zda je tablet viditelný
 3. Zkalibrujte pero v nastavení ovladače
+4. Zkontrolujte, zda je kontrolka **bílá** (nebo červená pokud se nabíjí)
 
-### Huion Note neukazuje kresby:
+### Huion Note aplikace neukazuje kresby:
 
-1. Ujistěte se, že je tablet **připojený a zapnutý**
-2. V Huion Note klikněte na **Refresh / Obnovit**
-3. Zkontrolujte, zda máte na tabletu nějaké uložené soubory
+1. Ujistěte se, že jste **ODPOJILI USB kabel** (USB spustí Pen Tablet Mode!)
+2. Zkontrolujte, že kontrolka je **modrá** (připojeno přes Bluetooth)
+3. V Huion Note klikněte na **Refresh / Obnovit**
+4. Zkontrolujte, zda máte na tabletu nějaké uložené soubory
+5. Zkuste restartovat aplikaci a tablet
+
+### Nemohu se připojit přes Bluetooth:
+
+1. Ujistěte se, že **USB kabel NENÍ připojený**
+2. Zapněte **Bluetooth** na telefonu/tabletu
+3. Kontrolka na Huion Note X10 by měla být **zelená**
+4. V aplikaci klikněte na "Connect via Bluetooth"
+5. Vyberte "Huion Note-X10" ze seznamu
+6. Pokud nevidíte zařízení, restartujte tablet a zkuste znovu
 
 ## Alternativní software
 
@@ -130,12 +238,22 @@ Kromě Huion Note můžete používat i další aplikace:
 
 ## Shrnutí instalace:
 
+### Pro zobrazení poznámek (Note-taking Mode):
+
+1. **Stáhněte aplikaci Huion Note** na telefon/tablet (Android nebo iOS)
+2. **Zapněte Huion Note X10** (zelená kontrolka)
+3. **Otevřete aplikaci** na mobilu a klikněte "Connect"
+4. **Připojte přes Bluetooth** → vyberte "Huion Note-X10"
+5. Kontrolka změní na **modrou** = vidíte všechny poznámky! 🎨
+
+### Pro kreslení v PC aplikacích (Pen Tablet Mode):
+
 1. Stáhněte **Huion Driver** z huion.com
 2. Nainstalujte ovladače a restartujte PC
-3. Stáhněte **Huion Huion Note** z huion.com
-4. Nainstalujte Huion Note
-5. Připojte tablet USB kabelem
-6. Spusťte Huion Note a užívejte si malování! 🎨
+3. **Připojte tablet USB kabelem** k PC
+4. Kontrolka bude **bílá** (nebo **červená** pokud se nabíjí)
+5. Otevřete kreslící program (Photoshop, Krita, GIMP)
+6. Pero funguje jako myš - můžete kreslit! 🖊️
 
 ## Jak aplikace "Huion Note" vypadá a funguje
 
