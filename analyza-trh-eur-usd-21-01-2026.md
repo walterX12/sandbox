@@ -115,8 +115,8 @@
    - Pokud rostou → momentum pokračuje, ale FOMO risky
 
 2. **EUR/USD:**
-   - Pokud EUR dál posiluje → USD slabší → vaše konverze nevýhodná
-   - Pokud EUR klesá zpět → USD síla se vrací → lepší kurz pro CZK→USD
+   - Pokud EUR dál posiluje → USD slabší → dostanete VÍCE USD za CZK (VÝHODA pro nákup!)
+   - Pokud EUR klesá zpět → USD posiluje → dostanete méně USD za CZK
 
 3. **VIX (volatility index):**
    - Pokud VIX klesá → trhy se uklidňují, riziko nižší
@@ -207,12 +207,13 @@
 2. **January effect:** Historicky silný měsíc
 3. **Dlouhodobý horizont:** Pokud investujete na roky, timing není kritický
 4. **Diversifikace:** Pokud už máte portfolio, přidání expozice je rozumné
+5. **Slabý USD:** Za české koruny dostanete VÍCE dolarů (EUR/USD 1.17 = USD levný)
 
 ### ❌ Argumenty PROTI nákupu dnes (v 8:00):
 1. **Kupujete po růstu:** Rally již proběhlo (+1-2%), možná korekce
 2. **Geopolitické riziko:** Trump může kdykoliv eskalovat situaci
-3. **Silné EUR:** Váš CZK→USD převod je momentálně nevýhodný
-4. **Chybí data:** V 8:00 nevidíte pre-market sentiment
+3. **Chybí data:** V 8:00 nevidíte pre-market sentiment
+4. **Možný další pokles:** Futures ukazují -1.5%, může klesnout ještě víc
 
 ---
 

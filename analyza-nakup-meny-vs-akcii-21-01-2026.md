@@ -72,10 +72,10 @@
 
 **Logika:**
 - Akcie klesly -2% (buy the dip)
-- USD je slabý (dostanete méně USD, ALE...)
+- USD je slabý (dostanete VÍCE USD za CZK = VÝHODA!)
 - **Když se obojí vrátí, máte dvojitý profit:**
   1. Akcie vzrostou zpět (+2-5%)
-  2. USD posílí zpět (vaše akcie v USD mají vyšší hodnotu v CZK)
+  2. USD posílí zpět (vaše akcie v USD mají ještě vyšší hodnotu v CZK)
 
 **Příklad:**
 1. **Dnes:**

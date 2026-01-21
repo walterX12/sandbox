@@ -36,7 +36,7 @@
 #### 💵 Měnová situace:
 - **Dollar slábne:** Dollar Index -1%
 - **Euro posiluje:** +0.6% včera, celkem na 1.17
-- **Pro vás:** Směna CZK→USD je NEVÝHODNÁ (dostanete méně dolarů)
+- **Pro vás:** Směna CZK→USD je VÝHODNÁ! (slabý USD = dostanete VÍCE dolarů za stejné CZK)
 
 ---
 
