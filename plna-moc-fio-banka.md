@@ -5,14 +5,18 @@
 | Položka | Údaj |
 |---------|------|
 | **Jméno a příjmení / název** | PETR KOMÁREK |
-| **Rodné číslo / IČ** | 76 01091452 |
+| **Rodné číslo / IČ** | 760109/1452 |
 | **Bydliště** | Váňava-Krčma 190, 252 31 Všenory |
 | **Orgán vydávající průkaz totožnosti** | MěÚ Černošice, platnost do **31.12.2027** |
-| **Druh a číslo dokladu totožnosti** | OP 269038743, místo narození: **Stará** |
+| **Druh a číslo dokladu totožnosti** | OP 269038743, místo narození: **Slaný** |
 
-### ANOŠENÍ
+### Politicky exponovaná osoba *
 
-*Ano/Ne: politicky exponovanou osobu (PEP) se považují osoby dle definice politicky exponované osoby uvedené v platných právních předpisech, zejména v právních předpisech upravujících práva legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů. Definice PEP je k dispozici i na pobočkách banky na vyžádání.*
+**ANO** ☑ / NE ☐
+
+*Se politicky exponovanou osobou (PEP) se považuje osoba dle definice politicky exponované osoby uvedené v platných právních předpisech, zejména v právních předpisech upravujících proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů.*
+
+*Definice PEP je k dispozici i na pobočkách banky na vyžádání.*
 
 ---
 
@@ -31,25 +35,25 @@ Já níže podepsaný/-á zplnomocňuji zmocněnce k tomuto níže uvedeným pr�
 
 ## NEHODÍCÍ SE BODY ŠKRTNĚTE
 
-### Služby komerčního bankovnictví *
+### ☑ Služby komerčního bankovnictví *
 
-▸ **všechna právní jednání týkající se zřizování, změny a rušení účtů/účtů vedených bankou.**
+☑ **všechna právní jednání týkající se zřizování, změny a rušení účtů vedených bankou.**
 
-▸ **disponování se zůstatkem/zůstatky na účtu/účtech a využívání dalších služeb poskytovaných bankou svým klientům.**
+☑ **disponování se zůstatkem/zůstatky na účtu/účtech a využívání dalších služeb poskytovaných bankou svým klientům.**
 
-▸ **nahlížení na účty/účty a pořizování výpisů z účtu/účtů.**
+☑ **nahlížení na účty/účty a pořizování výpisů z účtu/účtů.**
 
-▸ **Upozornění:** Zmocněnec není oprávněn zmocnit další osobu, zejména není oprávněn zmocnit další osobu k nakládání s účtem nebo k disponování se zůstatky na účtech (např. podle smlouvy o elektronické správě účtu).
+**Upozornění:** Zmocněnec není oprávněn zmocnit další osobu, zejména není oprávněn zmocnit další osobu k nakládání s účtem nebo k disponování se zůstatky na účtech (např. podle smlouvy o elektronické správě účtu).
 
-### Služby investičního bankovnictví *
+### ☑ Služby investičního bankovnictví *
 
-▸ **všechna právní jednání spojená s nákupem či prodejem investičních nástrojů, zejména uzavření, změna a ukončení Rámcové smlouvy - investiční, komisionářské smlouvy nebo jiné smlouvy o obstarávání nebo nákupu a prodeje investičních nástrojů**
+☑ **všechna právní jednání spojená s nákupem či prodejem investičních nástrojů, zejména uzavření, změna a ukončení Rámcové smlouvy - investiční, komisionářské smlouvy nebo jiné smlouvy o obstarávání nákupu a prodeje investičních nástrojů**
 
-▸ **disponování s finančními prostředky určenými pro nákup nebo získanými z prodeje investičních nástrojů a disponování s investičními nástroji.**
+☑ **disponování s finančními prostředky určenými pro nákup nebo získanými z prodeje investičních nástrojů a disponování s investičními nástroji.**
 
-▸ **nahlížení na účty/účty a pořizování výpisů z účtu/účtů.**
+☑ **nahlížení na účty/účty a pořizování výpisů z účtu/účtů.**
 
-▸ **další služby týkající se investičních nástrojů poskytované bankou.**
+☑ **další služby týkající se investičních nástrojů poskytované bankou.**
 
 ---
 
@@ -63,12 +67,18 @@ V ........................... dne .................
 
 &nbsp;
 
+.................................................
 **Jméno/obchodní firma zmocnitele**
-**(datum a podpis zmocněnce)**
+**(datum a podpis zmocnitele)**
 
 ---
 
 ## Plnou moc přijímám:
 
+&nbsp;
+
+&nbsp;
+
+.................................................
 **Jméno zmocněnce**
 **(datum a podpis zmocněnce)**
