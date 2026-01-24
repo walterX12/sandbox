@@ -12,7 +12,7 @@
 
 ### Politicky exponovaná osoba *
 
-**ANO** ☑ / NE ☐
+**ANO** ☐ / **NE** ☑
 
 *Se politicky exponovanou osobou (PEP) se považuje osoba dle definice politicky exponované osoby uvedené v platných právních předpisech, zejména v právních předpisech upravujících proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů.*
 
