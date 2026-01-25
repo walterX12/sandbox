@@ -13,6 +13,9 @@
 - [🇹🇭 Thajsko](#-thajsko)
 - [🇻🇳 Vietnam](#-vietnam)
 - [🇱🇰 Srí Lanka](#-srí-lanka)
+- [🇨🇻 Kapverdy](#-kapverdy-cabo-verde)
+- [🇲🇦 Maroko](#-maroko-agadir)
+- [🇵🇹 Madeira](#-madeira-portugalsko)
 - [📊 Srovnání](#-srovnání-destinací)
 
 ---
@@ -22,9 +25,10 @@
 | Destinace | Letenka | Moře | Vzduch | Verdict |
 |-----------|---------|------|--------|---------|
 | **🥇 Egypt** | **4 000-10 000 Kč** | 22-24°C | 20-30°C | **NEJLEPŠÍ VOLBA!** |
-| **🥈 Kanárské ostrovy** | **3 500-5 000 Kč** | 19-20°C | 22-25°C | Levné, ale chladnější moře |
+| **🥈 Kapverdy** | **4 000-12 000 Kč** | 22-24°C | 25-28°C | Perfektní počasí! |
 | **🥉 Thajsko** | **13 000-18 000 Kč** | 28-30°C | 30-35°C | Na hranici rozpočtu |
 | **Dubaj** | 10 000-15 000 Kč | 24-26°C | 25-30°C | Dobré, ale dražší |
+| **⚠️ Maroko** | **1 000-4 000 Kč** | 17-19°C ❄️ | 20-27°C | Super levné, ALE studené moře! |
 
 ---
 
@@ -337,18 +341,304 @@ Srí Lanka má **DVĚ sezóny** podle pobřeží:
 
 ---
 
+## 🇨🇻 Kapverdy (Cabo Verde)
+
+### 🏝️ Africké ostrovy věčného léta
+
+**Proč Kapverdy?**
+- ✅ **TEPLÉ MOŘE** (22-24°C) - příjemné koupání!
+- ✅ **IDEÁLNÍ OBDOBÍ** listopad-duben (přesně váš termín!)
+- ✅ Slunce 10 hodin denně
+- ✅ Krásné pláže (Sal, Boa Vista)
+- ✅ Skvělé podmínky pro windsurfing a kitesurfing
+- ⚠️ Středně drahé letenky (4 000-12 000 Kč)
+
+### 💰 Ceny letenek
+
+| Z Prahy | Cena zpáteční | Způsob |
+|---------|---------------|--------|
+| **S přestupem (Lisabon)** | **4 000-12 000 Kč** | TAP Air Portugal |
+| **Přímý let (přes CK)** | **15 000-20 000 Kč** | Smartwings (zájezd) |
+
+**Doba letu:**
+- Přímý: 5-6 hodin
+- S přestupem: 9-13 hodin
+
+**Nejlevnější:** Rezervovat 3+ měsíce dopředu
+
+### 🌡️ Počasí únor-duben
+
+| Měsíc | Vzduch (den) | Moře | Slunce | Hodnocení |
+|-------|--------------|------|--------|-----------|
+| **Únor** | **25°C** | **23-24°C** | 10h | ✅✅ Perfektní! Vítr opadává |
+| **Březen** | **25-27°C** | **22-23°C** | 10h | ✅✅ Ideální měsíc! |
+| **Duben** | **26-28°C** | **22-23°C** | 10h | ✅✅ Výborné! |
+
+### 🏝️ Kam na Kapverdách?
+
+1. **Sal** 🏆
+   - Nejoblíbenější ostrov
+   - Santa Maria - nejlepší pláže
+   - Skvělé podmínky pro vodní sporty
+   - Letiště přímo na ostrově
+
+2. **Boa Vista**
+   - Klidnější než Sal
+   - Nejkrásnější pláže
+   - Pozorování želv (červen-říjen)
+   - Více fouká (perfektní pro kiting)
+
+3. **Santiago**
+   - Největší ostrov
+   - Hlavní město Praia
+   - Kultura a historie
+   - Méně turistů
+
+4. **Santo Antão**
+   - Nejkrásnější příroda
+   - Turistika v horách
+   - Méně plážové
+
+### 💡 Tip
+
+**Nejlevnější varianta:**
+- Let s přestupem v Lisabonu (TAP)
+- Ubytování: Guesthouse od 3 000 Kč/týden
+- **Celkem: 7 000-15 000 Kč na osobu**
+
+**Pohodlná varianta:**
+- All-inclusive zájezd přes CK
+- Přímý let Smartwings
+- **Celkem: 20 000-30 000 Kč na osobu**
+
+### 📍 Praktické info
+
+- **Vízum:** NENÍ potřeba (do 30 dní)
+- **Měna:** Kapverdské escudo (CVE), ale Euro všude akceptováno
+- **Jazyk:** Portugalština, Kriolu (místní kreolština)
+- **Bezpečnost:** Velmi bezpečné
+- **Časový posun:** -2 hodiny (v zimě), -3 hodiny (v létě)
+
+### ⚠️ POZOR
+
+**Větrné ostrovy!**
+- Únor je ještě větrný (dobré pro surfing, ne pro lenošení)
+- Od března vítr opadává
+- Boa Vista fouká více než Sal
+
+### 🔍 Kde hledat letenky
+
+- 🔗 [KAYAK - Praha → Kapverdy](https://www.cz.kayak.com/trasy-letu/Praha-Vaclava-Havla-PRG/Kapverdy-CV0)
+- 🔗 [Momondo - Praha → Kapverdy](https://www.momondo.cz/lety/praha/kapverdy)
+- 🔗 [TAP Air Portugal](https://www.flytap.com) - přestup v Lisabonu
+- 🔗 [Student Agency - Zájezdy](https://www.studentagency.cz/letenky/afrika/kapverdy)
+
+---
+
+## 🇲🇦 Maroko (Agadir)
+
+### 🏖️ Nejlevnější letenky, ALE...
+
+**Proč Maroko?**
+- ✅ **SUPER LEVNÉ** letenky (1 000-4 000 Kč!)
+- ✅ Krásné pláže
+- ✅ Dobrá teplota vzduchu (20-27°C)
+- ✅ 300 dnů slunce ročně
+- ✅ Krátký let (4 hodiny)
+- ❌ **STUDENÉ MOŘE** (17-19°C) - VELKÝ PROBLÉM!
+
+### 💰 Ceny letenek
+
+| Z Prahy do | Cena zpáteční | Aerolinka |
+|------------|---------------|-----------|
+| **Agadir** | **1 000-4 000 Kč** | Eurowings, Ryanair (přestup) |
+| **Marrákeš** | **1 500-3 500 Kč** | Ryanair |
+| **Casablanca** | **2 000-4 000 Kč** | Air Arabia |
+
+**Nejlevnější měsíc:** Listopad
+
+### 🌡️ Počasí únor-duben
+
+| Měsíc | Vzduch (den) | Moře | Hodnocení |
+|-------|--------------|------|-----------|
+| **Únor** | **20-23°C** | **17-18°C** | ⚠️ Moře STUDENÉ! |
+| **Březen** | **22-25°C** | **17-18°C** | ⚠️ Stále studené! |
+| **Duben** | **24-27°C** | **18-19°C** | ⚠️ Pořád studené! |
+
+### ⚠️ VELKÝ PROBLÉM: STUDENÉ MOŘE
+
+**Teplota moře v Agadiru:**
+- **Únor:** 17-18°C (nejchladnější měsíc!)
+- **Březen-Duben:** 17-19°C
+- **Sezona koupání:** Červen-Říjen (20-22°C)
+
+**Realita:**
+- Moře je **studené** v únoru-dubnu
+- Potřebujete **neopren 4/3 mm** na pohodlné plavání
+- Spíše pro **otužilce**
+- Lepší pro **turistiku než pláž**
+
+### 🏖️ Kam v Maroku?
+
+1. **Agadir**
+   - Nejlepší pláže
+   - Moderní letovisko
+   - All-inclusive hotely
+   - Výchozí bod do Sahary
+
+2. **Marrákeš**
+   -Kultura a historie
+   - Medina (UNESCO)
+   - ŽÁDNÉ MOŘE! (300 km od pobřeží)
+   - Výlety do Atlasu
+
+3. **Essaouira**
+   - Klidnější než Agadir
+   - Surfování (hodně větrné!)
+   - Historické město
+
+### 💡 Doporučení
+
+**Maroko v únoru-dubnu JE DOBRÉ PRO:**
+- ✅ Turistiku a poznávání
+- ✅ Výlety do pouště
+- ✅ Surfing (v neoprenu)
+- ✅ Levnou dovolenou bez koupání
+
+**Maroko v únoru-dubnu NENÍ DOBRÉ PRO:**
+- ❌ Pláž a koupání (moře studené!)
+- ❌ Lenošení u bazénu (může být chladno)
+
+**LEPŠÍ OBDOBÍ PRO KOUPÁNÍ:**
+- **Červen-Říjen** (moře 20-22°C)
+
+### 📍 Praktické info
+
+- **Vízum:** NENÍ potřeba (do 90 dní)
+- **Měna:** Marocký dirham (MAD), 1 MAD = 2,5 Kč
+- **Jazyk:** Arabština, Francouzština
+- **Bezpečnost:** Bezpečné v turistických oblastech
+- **Časový posun:** -1 hodina
+
+### 🔍 Kde hledat letenky
+
+- 🔗 [KAYAK - Praha → Maroko](https://www.cz.kayak.com/trasy-letu/Ceska-republika-CZ0/Maroko-MA0)
+- 🔗 [Ryanair - Praha → Marrákeš](https://www.ryanair.com)
+- 🔗 [Eurowings - Praha → Agadir](https://www.eurowings.com)
+
+---
+
+## 🇵🇹 Madeira (Portugalsko)
+
+### 🌺 Ostrov věčného jara
+
+**Proč Madeira?**
+- ✅ **LEVNÉ letenky** (2 400-7 000 Kč)
+- ✅ Nádherná příroda
+- ✅ Evropská unie (Euro, žádná víza)
+- ✅ Krátký let (4 hodiny)
+- ✅ Turistika v subtropech
+- ⚠️ **CHLADNĚJŠÍ MOŘE** (pod 20°C v únoru-březnu)
+
+### 💰 Ceny letenek
+
+| Z Prahy do Funchal | Cena zpáteční | Způsob |
+|-------------------|---------------|--------|
+| **Přímý let** | **4 000-7 000 Kč** | Smartwings (sezónní) |
+| **S přestupem (Lisabon)** | **2 400-5 000 Kč** | TAP Air Portugal |
+
+**Doba letu:**
+- Přímý: 4 hodiny
+- S přestupem: 6-8 hodin
+
+### 🌡️ Počasí únor-duben
+
+| Měsíc | Vzduch (den) | Moře | Hodnocení |
+|-------|--------------|------|-----------|
+| **Únor** | **15-19°C** | **18-19°C** | ⚠️ Chladněji, moře studené |
+| **Březen** | **16-20°C** | **18-19°C** | ⚠️ Stále chladné |
+| **Duben** | **17-22°C** | **19-20°C** | ✅ Lepší, ale moře stále ne ideální |
+
+### 🏝️ Co dělat na Madeiře?
+
+**MADEIRA JE PRO:**
+- ✅ **Turistiku** (levady, hory)
+- ✅ **Přírodu** (subtropická vegetace)
+- ✅ **Poznávání** (Funchal, vesničky)
+- ✅ **Relax** (ne typická plážová dovolená)
+
+**MADEIRA NENÍ PRO:**
+- ❌ **Pláž** (málo písečných pláží, většinou kameny)
+- ❌ **Koupání** (moře studené v únoru-dubnu)
+
+### 🥾 TOP aktivity
+
+1. **Levady** (zavlažovací kanály)
+   - Turistické trasy podél kanálů
+   - Nádherná příroda
+   - Snadné až náročné túry
+
+2. **Funchal**
+   - Hlavní město
+   - Káblová lanovka
+   - Botanická zahrada
+   - Košíkářské saně
+
+3. **Pico do Arieiro**
+   - 1 818 m n.m.
+   - Výhled nad mraky
+   - Východ slunce
+
+4. **Porto Moniz**
+   - Přírodní bazény z lávy
+   - Severní pobřeží
+
+### 💡 Doporučení
+
+**Madeira v únoru-dubnu JE DOBRÉ PRO:**
+- ✅ Aktivní dovolenou (turistika)
+- ✅ Přírodu a poznávání
+- ✅ Únik z české zimy (teplejší než ČR)
+- ✅ Kombinaci města + příroda
+
+**Madeira v únoru-dubnu NENÍ DOBRÉ PRO:**
+- ❌ Pláž a koupání v moři
+- ❌ Lenošení u moře
+
+**LEPŠÍ OBDOBÍ PRO MOŘE:**
+- **Květen-Září** (moře 20-23°C)
+
+### 📍 Praktické info
+
+- **Vízum:** Není potřeba (EU)
+- **Měna:** Euro (€)
+- **Jazyk:** Portugalština, trochu angličtina
+- **Bezpečnost:** Velmi bezpečné
+- **Časový posun:** -1 hodina
+
+### 🔍 Kde hledat letenky
+
+- 🔗 [Smartwings - Praha → Funchal](https://www.smartwings.com/letenky-praha-funchal)
+- 🔗 [KAYAK - Praha → Madeira](https://www.cz.kayak.com/trasy-letu/Praha-Vaclava-Havla-PRG/Madeira-ESMA)
+- 🔗 [TAP Air Portugal](https://www.flytap.com)
+
+---
+
 ## 📊 Srovnání destinací
 
 ### Podle ceny letenky (zpáteční z Prahy)
 
 | Místo | Cena | Moře | Hodnocení |
 |-------|------|------|-----------|
-| **1. Kanáry** | **3 500-5 000 Kč** | 19-20°C | ⚠️ Studené moře |
-| **2. Egypt** | **4 000-10 000 Kč** | 22-24°C | 🏆 VÍTĚZ! |
-| **3. Dubaj** | **10 000-15 000 Kč** | 24-26°C | ✅ Dobré |
-| **4. Thajsko** | **13 000-18 000 Kč** | 28-30°C | ✅ Na hranici |
-| **5. Vietnam** | **12 000-16 000 Kč** | 25-27°C | ✅ Zajímavé |
-| **6. Srí Lanka** | **15 000-20 000 Kč** | 27-28°C | ⚠️ Nad rozpočet |
+| **1. Maroko** | **1 000-4 000 Kč** | 17-19°C | ❌ LEVNÉ, ale studené moře! |
+| **2. Madeira** | **2 400-7 000 Kč** | 18-20°C | ⚠️ Turistika, ne pláž |
+| **3. Kanáry** | **3 500-5 000 Kč** | 19-20°C | ⚠️ Studené moře |
+| **4. Egypt** | **4 000-10 000 Kč** | 22-24°C | 🏆 VÍTĚZ! |
+| **5. Kapverdy** | **4 000-12 000 Kč** | 22-24°C | 🏆 Skvělé! |
+| **6. Dubaj** | **10 000-15 000 Kč** | 24-26°C | ✅ Dobré |
+| **7. Vietnam** | **12 000-16 000 Kč** | 25-27°C | ✅ Zajímavé |
+| **8. Thajsko** | **13 000-18 000 Kč** | 28-30°C | ✅ Na hranici |
+| **9. Srí Lanka** | **15 000-20 000 Kč** | 27-28°C | ⚠️ Nad rozpočet |
 
 ---
 
@@ -356,12 +646,15 @@ Srí Lanka má **DVĚ sezóny** podle pobřeží:
 
 | Místo | Moře | Vzduch | Letenka |
 |-------|------|--------|---------|
-| **1. Thajsko** | **28-30°C** | 30-35°C | 13-18k Kč |
+| **1. Thajsko** 🔥 | **28-30°C** | 30-35°C | 13-18k Kč |
 | **2. Srí Lanka** | **27-28°C** | 28-32°C | 15-20k Kč |
 | **3. Vietnam (jih)** | **26-28°C** | 30-35°C | 12-16k Kč |
 | **4. Dubaj** | **24-26°C** | 26-33°C | 10-15k Kč |
-| **5. Egypt** | **22-24°C** | 20-30°C | 4-10k Kč |
-| **6. Kanáry** | **19-20°C** | 20-25°C | 3,5-5k Kč |
+| **5. Kapverdy** ⭐ | **22-24°C** | 25-28°C | 4-12k Kč |
+| **6. Egypt** ⭐ | **22-24°C** | 20-30°C | 4-10k Kč |
+| **7. Kanáry** ⚠️ | **19-20°C** | 20-25°C | 3,5-5k Kč |
+| **8. Madeira** ⚠️ | **18-20°C** | 15-22°C | 2,4-7k Kč |
+| **9. Maroko** ❌ | **17-19°C** | 20-27°C | 1-4k Kč |
 
 ---
 
@@ -411,7 +704,8 @@ Srí Lanka má **DVĚ sezóny** podle pobřeží:
 
 1. **🥇 THAJSKO** (13-15k) - nejteplejší moře, perfektní počasí
 2. **🥈 DUBAJ** (10-15k) - luxus, teplé moře
-3. **🥉 EGYPT** (4-10k) - levné, teplé moře, super value
+3. **🥉 KAPVERDY** (4-12k) - ideální počasí únor-duben, teplé moře
+4. **EGYPT** (4-10k) - levné, teplé moře, super value
 
 ### Za 15 000 Kč CELKEM (letenka + týden):
 
@@ -420,15 +714,29 @@ Srí Lanka má **DVĚ sezóny** podle pobřeží:
 - All-inclusive týden: 8 000-10 000 Kč
 - **= 13 000-17 000 Kč celkem**
 
+**🥈 KAPVERDY - runner-up!**
+- Letenka s přestupem: 4 000-8 000 Kč
+- Guesthouse týden: 3 000-5 000 Kč
+- **= 7 000-13 000 Kč celkem**
+- Ideální pro únor-duben!
+
+### ⚠️ POZOR NA MAROKO!
+
+**Maroko má NEJLEVNĚJŠÍ letenky (1 000-4 000 Kč), ALE:**
+- ❌ Moře STUDENÉ (17-19°C v únoru-dubnu)
+- ❌ Potřebujete neopren na koupání
+- ✅ Dobré pro turistiku, ne pro pláž
+- 💡 Raději jet červen-říjen (moře 20-22°C)
+
 ---
 
 ## 📅 Kdy jet kam?
 
-| Měsíc | NEJLEPŠÍ volba | Alternativy |
-|-------|----------------|-------------|
-| **Únor** | Egypt, Dubaj | Thajsko, Vietnam (jih) |
-| **Březen** | Egypt, Thajsko, Dubaj | Vietnam, Kanáry |
-| **Duben** | Egypt, Dubaj, Srí Lanka | Thajsko (horko!), Kanáry |
+| Měsíc | NEJLEPŠÍ volba | Alternativy | Vyhnout se |
+|-------|----------------|-------------|------------|
+| **Únor** | Egypt, Kapverdy, Dubaj | Thajsko, Vietnam (jih) | Maroko (studené moře), Madeira |
+| **Březen** | Egypt, Kapverdy, Thajsko, Dubaj | Vietnam, Kanáry | Maroko (studené moře) |
+| **Duben** | Kapverdy, Egypt, Dubaj, Srí Lanka | Thajsko (horko!), Kanáry | Maroko (studené moře) |
 
 ---
 
@@ -493,15 +801,19 @@ Srí Lanka má **DVĚ sezóny** podle pobřeží:
 
 **Nejlepší volby:**
 
-1. **🏆 EGYPT (Hurghada)** - 5-7k letenka + teplé moře = WIN!
-2. **🥈 THAJSKO** - 13-15k letenka, perfektní moře
-3. **🥉 DUBAJ** - 10-15k letenka, luxus a teplo
+1. **🏆 EGYPT (Hurghada)** - 5-7k letenka + teplé moře (22-24°C) = WIN!
+2. **🥈 KAPVERDY (Sal)** - 4-12k letenka + perfektní počasí + teplé moře (22-24°C)
+3. **🥉 THAJSKO** - 13-15k letenka, nejteplejší moře (28-30°C)
+4. **DUBAJ** - 10-15k letenka, luxus a teplo (24-26°C)
 
 **Nejlevnější:**
-- Kanáry za 3,5k - ALE moře studené!
+- **Maroko za 1-4k** - ALE moře STUDENÉ (17-19°C)! ⚠️
+- Madeira za 2,4-7k - ALE moře studené (18-20°C)! ⚠️
+- Kanáry za 3,5k - ALE moře studené (19-20°C)! ⚠️
 
-**Nejlepší poměr:**
-- Egypt all-inclusive za 13-17k CELKEM!
+**Nejlepší poměr cena/výkon:**
+- **Egypt all-inclusive za 13-17k CELKEM!**
+- **Kapverdy za 7-13k CELKEM!** (ideální pro únor-duben)
 
 ---
 
