@@ -4,7 +4,8 @@
 1. [Malá elektroauta pro 4-5 osob](#malá-elektroauta-pro-4-5-osob)
 2. [Srovnání: Hyundai Kona vs BMW i3 vs Nissan Leaf](#srovnání-hyundai-kona-vs-bmw-i3-vs-nissan-leaf)
 3. [Hyundai Ioniq – dva různé modely](#hyundai-ioniq--dva-různé-modely)
-4. [Aktivní vs pasivní chlazení baterie](#aktivní-vs-pasivní-chlazení-baterie)
+4. [Mazda MX-30 – levná, ale krátký dojezd](#mazda-mx-30--levná-ale-krátký-dojezd)
+5. [Aktivní vs pasivní chlazení baterie](#aktivní-vs-pasivní-chlazení-baterie)
 5. [Rizika aktivního chlazení – BMW i3 vs Leaf](#rizika-aktivního-chlazení--bmw-i3-vs-leaf)
 6. [Stav baterie po 100 000 km](#stav-baterie-po-100-000-km)
 7. [BMW i3 – karbon a koroze](#bmw-i3--karbon-a-koroze)
@@ -31,6 +32,7 @@
 | **Renault Zoe** | 5 | 22-52 kWh | 150-380 km | Pasivní | 200-400 tis. Kč |
 | **VW e-Golf** | 5 | 36 kWh | ~200 km | Pasivní | 300-450 tis. Kč |
 | **BMW i3** | 4 | 22-42 kWh | 130-260 km | **Aktivní** | 250-450 tis. Kč |
+| **Mazda MX-30** | 4 ⚠️ | 35 kWh | 130-200 km | **Aktivní** | 250-400 tis. Kč |
 | **Hyundai Kona EV** | 5 | 39/64 kWh | 300-450 km | **Aktivní** | 400-600 tis. Kč |
 | **Kia e-Niro** | 5 | 39/64 kWh | 280-450 km | **Aktivní** | 450-650 tis. Kč |
 | **Tesla Model 3** | 5 | 50-75 kWh | 350-500 km | **Aktivní** | 500-800 tis. Kč |
@@ -277,6 +279,89 @@ Shanghai výroba:   Obecně lepší kvalita než Fremont
 - → **Aktuálně NEDOPORUČUJI** kvůli spolehlivosti
 
 **Doporučení:** Za cenu Ioniq 5 raději **Kona EV** nebo **Tesla Model 3**.
+
+---
+
+## Mazda MX-30 – levná, ale krátký dojezd
+
+### Základní parametry
+
+| Parametr | Hodnota |
+|----------|---------|
+| **Baterie** | 35,5 kWh (30,5 kWh použitelné) |
+| **Dojezd WLTP** | 200 km |
+| **Dojezd reálný** | 130-160 km (zima/dálnice: 80-100 km!) |
+| **Výkon** | 107 kW (145 koní) |
+| **Chlazení** | ✅ Aktivní (kapalinové) |
+| **Míst oficiálně** | 5 |
+| **Míst reálně** | **4** ⚠️ (prostřední vzadu = nouzovka) |
+| **Spotřeba** | 17-19 kWh/100 km |
+| **Nabíjení DC** | 50 kW max (10-80% za 36 min) |
+
+### Ceny ojetin v ČR
+
+| Rok | Nájezd | Cena |
+|-----|--------|------|
+| 2021 | 40-60 tis. km | 300-400 tis. Kč |
+| 2022 | 30 tis. km | 350-450 tis. Kč |
+| **AAA Auto akce** | | **250-310 tis. Kč** 🔥 |
+
+### ⚠️ Freestyle dveře – problém!
+
+Zadní dveře se otevírají **proti směru jízdy** a vyžadují otevření předních dveří:
+
+```
+┌─────────┬─────────┐
+│ PŘEDNÍ  │ ZADNÍ   │
+│  dveře  │  dveře  │
+│   →     │   ←     │  ← otevírá se dozadu
+└─────────┴─────────┘
+```
+
+**Problémy:**
+- ❌ Na těsném parkovišti skoro nejde otevřít
+- ❌ Složité nastupování dětí do sedaček
+- ❌ Problém pro starší/méně pohyblivé lidi
+- ❌ Pasažéři nechápou, jak to funguje
+
+**Výhoda:** Děti nemohou samy otevřít dveře a vyskočit
+
+### Spolehlivost
+
+| Aspekt | Hodnocení |
+|--------|-----------|
+| **Značka Mazda** | ⭐⭐⭐⭐⭐ Velmi spolehlivá (jako Toyota/Honda) |
+| **Aktivní chlazení** | ✅ Dlouhá životnost baterie |
+| **12V baterie** | ⚠️ Občas problémy (jako u všech EV) |
+| **Dlouhodobé zkušenosti** | ✅ Majitelé hlásí minimum problémů |
+
+### Srovnání s konkurencí za ~250-350 tis.
+
+| Model | Míst | Baterie | Dojezd real | Chlazení | Spolehlivost |
+|-------|------|---------|-------------|----------|--------------|
+| **Mazda MX-30** | 4 ⚠️ | 35 kWh | 130-160 km ⚠️ | ✅ Aktivní | ⭐⭐⭐⭐⭐ |
+| **Nissan Leaf 40** | **5** | 40 kWh | 200-250 km | ❌ Pasivní | ⭐⭐⭐⭐ |
+| **BMW i3 33** | 4 | 33 kWh | 150-180 km | ✅ Aktivní | ⭐⭐⭐ |
+| **Ioniq Electric 28** | **5** | 28 kWh | 180-200 km | ✅ Aktivní | ⭐⭐⭐⭐ |
+| **Renault Zoe 41** | **5** | 41 kWh | 220-280 km | ❌ Pasivní | ⭐⭐⭐ |
+
+### Verdikt MX-30
+
+**✅ Kdy koupit:**
+- Pouze městský provoz (<50 km denně)
+- Max 4 osoby (2+2 děti ideální)
+- Máš doma nabíječku
+- Chceš nejspolehlivější značku
+- Cena pod 300 tis. = výborná koupě!
+
+**❌ Kdy NEKUPOVAT:**
+- Potřebuješ 5 míst → vezmi **Leaf** nebo **Ioniq**
+- Jezdíš delší trasy → potřebuješ větší baterii
+- Nemáš možnost denního nabíjení
+
+**Pro FVE kalkulaci:**
+- Nejlepší poměr cena/kWh kapacity za 250 tis. (7 140 Kč/kWh)
+- Ale malá baterie = menší "úložiště" pro přebytky
 
 ---
 
