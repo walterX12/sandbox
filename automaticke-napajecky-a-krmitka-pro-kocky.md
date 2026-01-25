@@ -57,6 +57,165 @@ Fontánka funguje na principu DC pumpy, která prohání vodu filtry obsahujíc�
 
 ---
 
+## 🔋 Chytré režimy fontánek (NEBĚŽÍ 24/7!)
+
+**Pokud nechcete, aby fontánka běžela nepřetržitě**, existují modely s **pohybovými senzory** nebo **intervalovými časovači**, které šetří energii i životnost čerpadla.
+
+### **Typy režimů:**
+
+#### **1️⃣ POHYBOVÝ SENZOR (Motion Sensor Mode)**
+- ✅ Fontánka se **zapne pouze**, když se kočka přiblíží
+- ✅ Detekční rozsah: **1.2-1.5 metru** (infračervený senzor)
+- ✅ Voda běží **15-30 sekund** po detekci, pak se vypne
+- ✅ **Úspora:** 80-90% energie oproti nepřetržitému provozu
+- ✅ **Tichý provoz:** Čerpadlo neběží, když nikdo není u misky
+
+#### **2️⃣ INTERVALOVÝ REŽIM (Timer/Interval Mode)**
+- ✅ Fontánka běží podle **naprogramovaných intervalů**
+- ✅ Typicky: **15-30 sekund ON, 15-20 minut OFF**
+- ✅ Pravidelné okysličování vody i bez kočky
+- ✅ Kompromis mezi úsporou energie a čerstvostí vody
+
+#### **3️⃣ NEPŘETRŽITÝ REŽIM (Continuous Mode)**
+- ⚠️ Klasický režim 24/7
+- Pro majitele, kteří preferují neustálou cirkulaci
+
+---
+
+### 🏆 **Nejlepší modely s pohybovými senzory a časovači (2026)**
+
+#### **1. PawsPik Stainless Steel Battery-Operated Fountain**
+- **Kapacita:** 2L+ (nerez ocel)
+- **Režimy:**
+  - **Motion Sensor Mode:** Aktivuje se při detekci mazlíčka
+  - **Timer Mode:** 15 sekund každých 15 minut
+  - **Regular Flow Mode:** 24/7 (když je připojeno k napájení)
+- **Hlučnost:** 25 dB (ultra tichá)
+- **Napájení:** Bateriové nebo elektrické
+- **Odkaz:** [PawsPik Fountain](https://pawspik.com/products/boss-cat-water-fountain)
+
+#### **2. Smartpaw Wireless Pet Water Fountain Gen 2** 🔥
+- **Kapacita:** 2L+ (nerez ocel)
+- **Režimy:**
+  - **Motion Sensor:** Detekce do **1.5 metru**, voda běží 20 sekund
+  - **Timer Mode:** 20 sekund každých 15 minut
+- **Výdrž baterie:** Až **2 týdny** (dobíjecí)
+- **Filtrace:** Multi-stage filtrace
+- **Odkaz:** [Smartpaw Gen 2](https://www.sgsmartpaw.com/products/smartpaw-wireless-pet-water-fountain)
+
+#### **3. Walmart Automatic Cat Water Fountain - 2.6L** 💰
+- **Kapacita:** 2.6L (89 oz)
+- **Režimy:** **3 customizovatelné módy**
+  - Motion-Sensing (detekce 4-6 stop / 1.2-1.8 m)
+  - Timed Flow (intervalový)
+  - Continuous Flow (24/7)
+- **Senzor:** Pokročilý infračervený senzor
+- **Hlučnost:** 25 dB
+- **Napájení:** Bezdrátové, dobíjecí
+- **Cena:** Velmi dostupná
+- **Odkaz:** [Walmart 2.6L Fountain](https://www.walmart.com/ip/Wireless-Cat-Water-Fountain-89oz-2-6L-Battery-Operated-Automatic-Dispenser-Pet-Fountain-Cats-Dog-Motion-Sensor-3-Work-Modes-Ultra-Quiet-Drinking-3-Fi/5346101119)
+
+#### **4. Tossca Wireless Cat Water Fountain**
+- **Kapacita:** 2.6L
+- **Režimy:**
+  - **Induction Mode:** Detekce pohybu v rozsahu 1.2M, úhel 120°
+  - **Timing Mode:** 30 sekund každých 20 minut
+  - **Continuous Mode:** 24/7
+- **Napájení:** Dobíjecí, bezdrátové
+- **Materiál:** Nerez ocel (hygienické)
+- **Odkaz:** [Tossca Fountain](https://www.amazon.com/Tossca-Rechargeable-Automatic-Dispenser-Activated/dp/B0CGZ71G5T)
+
+#### **5. UAH Pet ZERO - Motion + Timer** ✅
+- **Kapacita:** 2L
+- **Režimy:**
+  - Motion-Activated Mode
+  - Timer Mode
+  - Continuous Mode
+- **Výdrž baterie:** Až **120 dní** (!)
+- **Ultra tichá:** <30 dB
+- **Již zmíněná v seznamu výše**
+- **Odkaz:** [UAH Pet ZERO](https://www.uahpet.com/products/zero-smart-pet-water-fountain)
+
+#### **6. PETKIT Eversweet 3 Pro - Intelligent Mode**
+- **Kapacita:** 1.8L (nerez)
+- **Režimy:**
+  - **Intelligent Mode:** Intervaly **3 minuty ON/OFF**
+  - **Normal Mode:** Nepřetržitý provoz
+  - **Night Mode:** LED vypnuté, tichý provoz
+- **Extra:** UV sterilizace (99.96% bakterií)
+- **Ovládání:** PETKIT aplikace (Bluetooth)
+- **Dostupné v ČR:** Alza.cz
+- **Odkaz:** Viz sekce níže
+
+#### **7. FEELNEEDY Wireless 4L Fountain with Sensor**
+- **Kapacita:** 4L (135 fl oz) - **VĚTŠÍ KAPACITA!**
+- **Režimy:** Motion sensor + timer
+- **Napájení:** 4000mAh baterie
+- **Materiál:** Nerez ocel
+- **Hlučnost:** Ultra quiet
+- **Odkaz:** [FEELNEEDY 4L](https://www.amazon.com/FEELNEEDY-Fountain-Operated-Stainless-YPD-C004S/dp/B0BWHFS3PK)
+
+---
+
+### 📊 **Srovnání režimů:**
+
+| Režim | Jak funguje | Úspora energie | Čerstvost vody | Pro 14 dní |
+|-------|-------------|----------------|----------------|------------|
+| **Motion Sensor** | Zapne se jen při detekci kočky (15-30s) | ⭐⭐⭐⭐⭐ 90% | ⭐⭐⭐ Dobrá | ✅ Vhodné |
+| **Timer (15min)** | 15-30s každých 15-20 minut | ⭐⭐⭐⭐ 80% | ⭐⭐⭐⭐ Velmi dobrá | ✅ Vhodné |
+| **Timer (3min)** | 3 minuty ON/OFF (PETKIT) | ⭐⭐⭐ 50% | ⭐⭐⭐⭐⭐ Výborná | ✅ Vhodné |
+| **Continuous 24/7** | Běží nepřetržitě | ⭐ 0% | ⭐⭐⭐⭐⭐ Výborná | ⚠️ Vyšší spotřeba |
+
+---
+
+### ✅ **Doporučení pro 14 dní s chytrými režimy:**
+
+#### **Nejlepší volba - Motion Sensor + Timer:**
+- **Smartpaw Gen 2** nebo **PawsPik** (2L, nerez)
+- Výdrž baterie: 2 týdny+ (přesně pro vaši potřebu!)
+- Tichý provoz (25 dB)
+- Pohybový senzor (voda jen když je kočka u misky)
+- Timer mode (pravidelné cirkulování)
+
+#### **Větší kapacita:**
+- **FEELNEEDY 4L** s motion sensorem
+- 4L vody = 16-26 dní bez doplnění
+- Motion sensor + timer
+- Bateriové napájení
+
+#### **Dostupné v ČR:**
+- **PETKIT Eversweet 3 Pro** (Alza.cz)
+- Intelligent mode (3 min intervaly)
+- UV sterilizace
+- Aplikace v češtině
+
+---
+
+### ⚠️ **DŮLEŽITÉ - Údržba s chytrými režimy:**
+
+#### **Výhody:**
+- ✅ Čerpadlo se **méně opotřebovává** (neběží 24/7)
+- ✅ **Tišší provoz** - vypnuté, když nikdo není doma
+- ✅ **Delší výdrž baterie** (2-4 týdny)
+- ✅ **Nižší spotřeba** elektrické energie
+
+#### **Nevýhody:**
+- ⚠️ Voda se **méně okysličuje** než při 24/7 provozu
+- ⚠️ Nutné **častější čištění** (bez cirkulace se bakterie množí rychleji)
+- ⚠️ Některé kočky **preferují tekoucí vodu** - motion sensor je uspokojí
+
+#### **Před odjezdem na 14 dní:**
+1. ✅ Vyměňte **všechny filtry** za nové
+2. ✅ **Důkladně vyčistěte** nádrž, čerpadlo, trysku
+3. ✅ Naplňte **čerstvou vodou**
+4. ✅ Nastavte režim: **Timer Mode** (ne motion sensor!)
+   - Proč? Timer zajistí pravidelnou cirkulaci i když nejste doma
+   - Motion sensor funguuje jen když je kočka u misky
+5. ✅ **Nabijte baterii** na 100% (nebo zapojte do zásuvky s zálohou)
+6. ✅ Otestujte **týden předem** funkčnost
+
+---
+
 ## Automatická krmítka (kapacita na 14+ dní)
 
 ### Kapacita a doba výdrže
@@ -318,6 +477,18 @@ Pokud preferujete vyšší kapacitu a spolehlivost, některé značky nabízejí
 
 ### Pro 14denní nepřítomnost doporučuji:
 
+#### **🔥 Varianta CHYTRÁ (pohybový senzor + timer - ÚSPORA ENERGIE!):**
+- **Napáječka:** Smartpaw Gen 2 nebo PawsPik (2L, nerez, motion sensor)
+- **Krmítko:** PETLIBRO WiFi 5L
+- **Investice:** ~6000-8000 Kč
+- **Výhody:**
+  - ⚡ Fontánka běží JEN když je potřeba (motion sensor)
+  - 🔋 Výdrž baterie 2+ týdny
+  - 🔇 Ultra tichá (25 dB)
+  - 📱 WiFi ovládání krmítka
+  - 💰 Nižší spotřeba energie
+- **Ideální pro:** Majitele, kteří nechtějí aby fontánka běžela 24/7
+
 #### **Varianta ALL-IN-ONE (úspora místa):**
 - **Produkt:** Amazon Automatic Cat Feeder & Water Fountain Set (integrované)
 - **Kapacita:** 3L voda + programovatelné krmítko
@@ -358,18 +529,40 @@ Pokud preferujete vyšší kapacitu a spolehlivost, některé značky nabízejí
 📱 **WiFi/App:** Velmi doporučeno pro kontrolu stavu na dálku
 🔋 **Baterie:** Musí mít zálohu pro případ výpadku proudu
 🏠 **All-in-One:** Skvělé pro úsporu místa, ale ověřte kapacitu pro 14 dní
+🔇 **Motion Sensor/Timer:** Pokud vás ruší hluk 24/7 nebo chcete šetřit energii - ideální volba!
+⏰ **Pro 14 dní:** Nastavte Timer Mode (NE motion sensor!) - zajistí pravidelnou cirkulaci
 
 ---
 
 ## Zdroje
 
-### Napáječky:
+### Napáječky (běžné modely):
 - [Automatické napáječky pro kočky – Vše, co o tom potřebuješ vědět!](https://cricksydog.cz/automaticke-napajecky-pro-kocky-vse-co-o-tom-potrebujes-vedet/)
 - [Automatická napáječka pro kočky s vodní fontánou s filtrem - Sleevy.cz](https://www.sleevy.cz/automaticka-napajecka-pro-kocky-s-vodni-fontanou-s-filtrem-2/)
+- [Nejlepší fontány pro psy i kočky | Elektro-Obojky.cz](https://www.elektro-obojky.cz/Tema/clanky/nejlepsi-fontany-pitka-a-davkovace-vody-pro-psy-i-kocky)
 - [12 Best Cat Water Fountains in 2026 - Cats.com](https://cats.com/best-cat-water-fountain)
 - [HOM Pet Water Fountain - 2L](https://hombrand.com/products/hom-pet-water-fountain-2l-automatic-cat-water-fountain-dog-water-dispenser-with-filtration-system-for-cats-and-dogs-1)
 - [UAH Pet ZERO Automatic Cat Water Fountain](https://www.uahpet.com/products/zero-smart-pet-water-fountain)
 - [Amazon - Cat Water Fountain 2.5L/84oz](https://www.amazon.com/Fountain-Upgraded-Filtration-Drinking-Dispenser/dp/B0FY372Y9R)
+
+### Napáječky s pohybovým senzorem a časovačem (Motion Sensor + Timer):
+- [PawsPik Stainless Steel Battery-Operated Fountain](https://pawspik.com/products/boss-cat-water-fountain)
+- [Smartpaw Wireless Pet Water Fountain Gen 2](https://www.sgsmartpaw.com/products/smartpaw-wireless-pet-water-fountain)
+- [Walmart Automatic Cat Water Fountain 2.6L with Motion Sensor](https://www.walmart.com/ip/Wireless-Cat-Water-Fountain-89oz-2-6L-Battery-Operated-Automatic-Dispenser-Pet-Fountain-Cats-Dog-Motion-Sensor-3-Work-Modes-Ultra-Quiet-Drinking-3-Fi/5346101119)
+- [Tossca Wireless Cat Water Fountain - Motion Activated](https://www.amazon.com/Tossca-Rechargeable-Automatic-Dispenser-Activated/dp/B0CGZ71G5T)
+- [FEELNEEDY Wireless 4L Fountain with Sensor](https://www.amazon.com/FEELNEEDY-Fountain-Operated-Stainless-YPD-C004S/dp/B0BWHFS3PK)
+- [Higooga Cordless Rechargeable Pet Water Fountain with Motion Sensor](https://higooga.com/products/cordless-automatic-pet-water-fountain-with-motion-sensor)
+- [MIAUSTORE Dog & Cat Water Fountain Motion Sensor | Chewy.com](https://www.chewy.com/miaustore-dog-cat-water-fountain/dp/298213)
+
+### Nerezové fontánky a PETKIT modely:
+- [Catit PIXI fontánka, nerezová | bitiba.cz](https://www.bitiba.cz/shop/doplnky_potreby_pro_kocky/fontanky_krmitka/fontany/1216512)
+- [Catit PIXI fontánka, nerezová | zoohit.cz](https://www.zoohit.cz/shop/kocky/misky_krmivo_voda/pitka_fontany/1215583)
+- [Petkit Eversweet 3 Pro (UVC) | Alza.cz](https://www.alza.cz/pet/petkit-eversweet-3-pro-uvc-d8572100.htm)
+- [Oneisall 2L Stainless Steel Cat Water Fountain](https://oneisall.com/products/cat-water-drinker-2l)
+- [PETKIT CES 2026: EVERSWEET ULTRA AI Ecosystem](https://www.prnewswire.com/news-releases/from-automation-to-health-signals-petkit-takes-smart-pet-care-to-the-next-level-with-an-ai-ecosystem-at-ces-2026-302651014.html)
+- [Fontány pro kočky | MALL.CZ](https://www.mall.cz/fontany-pro-kocky)
+- [Fontány pro kočky | Alza.cz](https://www.alza.cz/pet/fontany-pro-kocky/18870719.htm)
+- [Recenze 10 nejlepších fontán pro kočky 2026 | arecenze.cz](https://www.arecenze.cz/fontany-pro-kocky/)
 
 ### Krmítka:
 - [Zásobníky a automatická krmítka pro kočky | Animalshop.cz](https://www.animalshop.cz/zasobniky-na-krmiva/)
@@ -400,4 +593,4 @@ Pokud preferujete vyšší kapacitu a spolehlivost, některé značky nabízejí
 ---
 
 **Datum vytvoření:** 25. ledna 2026
-**Poslední aktualizace:** 25. ledna 2026 (přidána sekce All-in-One zařízení)
+**Poslední aktualizace:** 25. ledna 2026 (přidány chytré režimy - motion sensor a timer fontánky)
