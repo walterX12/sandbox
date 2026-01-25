@@ -135,9 +135,9 @@ I have forgotten my account password and I am unable to complete the standard pa
 
 **Account Information:**
 
-- **Username:** I believe my username is the same as my email address: [DOPLŇ SVŮJ EMAIL]
-- **Email associated with account:** [DOPLŇ SVŮJ EMAIL]
-- **Phone number associated with account:** [DOPLŇ TELEFONNÍ ČÍSLO S PŘEDVOLBOU]
+- **Username:** I believe my username is the same as my email address: komjan@skolavsenory.cz
+- **Email associated with account:** komjan@skolavsenory.cz
+- **Phone number associated with account:** +420 775 201 322
 
 **Proof of Ownership:**
 
@@ -151,13 +151,12 @@ Thank you for your time and assistance.
 
 Best regards,
 
-[TVÉ JMÉNO]
-[KONTAKTNÍ EMAIL - kam ti mají odpovědět]
+Jan Komárek
+komjan@skolavsenory.cz
 
 ---
 
 ### Poznámky k odeslání:
-- Nahraď všechny [HRANATÉ ZÁVORKY] svými údaji
 - Nezapomeň přiložit screenshot platby
 - Odešli přes formulář na https://www.roblox.com/support (kategorie: "Billing" nebo "Account")
 - Odpověď obvykle přijde do 24-72 hodin
