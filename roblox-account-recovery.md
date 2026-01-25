@@ -114,3 +114,50 @@ Thank you.
 4. ⏳ **POČKEJ:** Podpora obvykle odpoví do 24-72 hodin
 
 Doklad o platbě je tvůj nejsilnější argument - Roblox bere nákupy vážně a pomůže ti účet obnovit.
+
+---
+
+## Email na Roblox Support (anglicky)
+
+**To:** support@roblox.com nebo přes https://www.roblox.com/support
+
+**Subject:** Account Recovery Request - Unable to Receive Verification Code
+
+---
+
+Dear Roblox Support Team,
+
+I am writing to request assistance with recovering access to my Roblox account.
+
+**Issue Description:**
+
+I have forgotten my account password and I am unable to complete the standard password recovery process. When I request a 6-digit verification code, I do not receive it - I have tried both the email address and phone number associated with my account, but the code does not arrive through either method. I have checked my spam/junk folders and waited sufficient time, but no code has been delivered.
+
+**Account Information:**
+
+- **Username:** I believe my username is the same as my email address: [DOPLŇ SVŮJ EMAIL]
+- **Email associated with account:** [DOPLŇ SVŮJ EMAIL]
+- **Phone number associated with account:** [DOPLŇ TELEFONNÍ ČÍSLO S PŘEDVOLBOU]
+
+**Proof of Ownership:**
+
+I have made purchases on this account. Please find attached a screenshot of my payment confirmation for Robux. This should serve as verification that I am the legitimate owner of this account.
+
+**Attachment:** Payment confirmation screenshot (bank statement / transaction receipt)
+
+I kindly request your assistance in recovering my account. I am happy to provide any additional information or verification you may require.
+
+Thank you for your time and assistance.
+
+Best regards,
+
+[TVÉ JMÉNO]
+[KONTAKTNÍ EMAIL - kam ti mají odpovědět]
+
+---
+
+### Poznámky k odeslání:
+- Nahraď všechny [HRANATÉ ZÁVORKY] svými údaji
+- Nezapomeň přiložit screenshot platby
+- Odešli přes formulář na https://www.roblox.com/support (kategorie: "Billing" nebo "Account")
+- Odpověď obvykle přijde do 24-72 hodin
