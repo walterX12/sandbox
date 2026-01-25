@@ -122,25 +122,113 @@ Pro zajištění 14denní zásoby je potřeba velkokapacitní krmítko. Běžná
 
 ---
 
-## Kombinované sety (doporučeno!)
+## 🔥 ALL-IN-ONE Zařízení (voda + krmivo v jednom!)
 
-Některé značky nabízejí výhodné sety obsahující jak krmítko, tak napáječku:
+**Ano, existují! Zařízení, která mají napáječku i krmítko přímo v jednom přístroji.**
+
+Toto je ideální řešení, pokud chcete úsporu místa a jednotné ovládání obou funkcí najednou.
+
+### **Typy kombinovaných zařízení:**
+
+#### 1. **Gravitační All-in-One systémy**
+
+##### **GARDENGUARDIAN 3-in-1 Cat Feeding Station**
+- **Funkce:** Gravitační krmítko + gravitační napáječka + absorpční podložka
+- **Kapacita:** Standardní (vhodné pro krátkodobé použití)
+- **Design:** Otočitelný o 180°, easy transport
+- **Typ:** Bez elektřiny, gravitační princip
+- **Cena:** Ekonomická varianta
+- **Výhody:**
+  - Jednoduché, bezúdržbové
+  - Žádná elektřina potřeba
+  - Snadné čištění
+- **Nevýhody:**
+  - Bez filtrace vody
+  - Bez programování krmení
+  - Menší kapacita než chytré modely
+
+##### **ZOMISIA 2-in-1 Gravity System**
+- **Kapacita:** 0.8 galonu (~3L)
+- **Design:** 180° rotační design
+- **Snadné čištění a transport**
+- **Gravitační princip** - voda i krmivo se samo doplňuje
+
+#### 2. **Inteligentní All-in-One systémy**
+
+##### **Amazon Automatic Cat Feeder & Water Fountain Set (All-in-One)**
+- **Krmítko:** Časově ovládané, až 4 jídla denně
+- **Napáječka:** 3L filtrovaná vodní fontána integrovaná v jednotce
+- **Napájení:** Ze sítě + bateriová záloha
+- **Funkce:**
+  - Programovatelné dávkování porcí
+  - Filtrovaná cirkulující voda
+  - Tichý provoz
+  - Jednotné ovládání
+- **Výhody:**
+  - Úspora místa
+  - Jedno napájení pro obě funkce
+  - Kontrola nad krmením i pitím na jednom místě
+
+##### **Flamingo Automatické krmítko a napáječka (1500ml)**
+- **Kapacita:** 1500 ml (1.5L) pro vodu i krmivo
+- **Dostupné v ČR** na Heureka.cz
+- **Kombinovaná konstrukce** "two-in-one"
+- **Otočitelný design** pro snadný transport a skladování
+- **Výhoda:** Dostupné v českých obchodech
+
+### **Výhody All-in-One zařízení:**
+
+✅ **Úspora místa** - Jedna jednotka místo dvou
+✅ **Jedno napájení** - U elektrických modelů jen jedna zásuvka
+✅ **Jednotný design** - Esteticky příjemnější
+✅ **Jednodušší údržba** - Jedno zařízení k čištění
+✅ **Nižší cena** - Obvykle levnější než dvě samostatné jednotky
+
+### **Nevýhody All-in-One zařízení:**
+
+⚠️ **Menší kapacita** - Obvykle menší zásobníky než samostatné jednotky
+⚠️ **Méně funkcí** - Gravitační modely nemají chytré funkce
+⚠️ **Porucha = vše nefunguje** - Pokud se porouchá jednotka, přijdete o vodu i krmivo najednou
+⚠️ **Omezená výdrž** - Pro 14 dní může být kapacita nedostatečná
+
+### **Doporučení pro 14denní použití:**
+
+Pro 14 dní **nedoporučuji** gravitační all-in-one systémy (moc malá kapacita).
+
+**Lepší volba:**
+- Buď **inteligentní all-in-one** s větší kapacitou (3L+ voda, 3L+ krmivo)
+- Nebo **sety** dvou samostatných velkých jednotek (viz níže)
+
+---
+
+## Kombinované sety (dvě samostatné jednotky)
+
+Pokud preferujete vyšší kapacitu a spolehlivost, některé značky nabízejí výhodné **sety** obsahující jak krmítko, tak napáječku jako **dvě samostatné jednotky**:
 
 ### **Oneisall Bundle**
-- Automatické krmítko 3.5L + vodní fontána 2L
+- Automatické krmítko 3.5L + vodní fontána 2L (dvě jednotky)
 - Kompletní řešení
 - Jednotné ovládání přes aplikaci
+- **Ideální pro 14 dní** - dostatečná kapacita
 
 ### **Penthouse Paws Bundle**
-- Chytré krmítko + inteligentní vodní fontána
+- Chytré krmítko + inteligentní vodní fontána (dvě jednotky)
 - Premium kvalita
 - Moderní design
+- Chytré funkce přes aplikaci
 
 ### **Amazon kombinované sety**
 - Krmítko s časovým ovládáním (až 4 jídla denně)
 - 3L filtrovaná vodní fontána
 - Napájení ze sítě s bateriovou zálohou
 - Tichý provoz
+
+### **PETKIT AI Ekosystém (CES 2026)**
+- Tři AI zařízení spolupracující v jednom systému
+- EVERSWEET ULTRA vodní fontána
+- Chytré krmítko s monitoringem zdraví
+- Sledování zdravotních parametrů
+- Premium varianta s cutting-edge technologií
 
 ---
 
@@ -183,18 +271,24 @@ Některé značky nabízejí výhodné sety obsahující jak krmítko, tak napá
 
 ## Kde koupit (Česká republika)
 
-### Online obchody:
+### Online obchody (včetně All-in-One):
 - **Alza.cz** - Chytré misky a krmítka
-- **Bitiba.cz** - Automatická krmítka s akcemi
+- **Bitiba.cz** - Automatická krmítka s akcemi + kombinované systémy
 - **ABC-ZOO.cz** - Automatická krmítka pro kočky
 - **Zoohit.cz** - Dávkovače granulí
-- **Animalshop.cz** - Zásobníky a automatická krmítka
-- **Heureka.cz** - Srovnání cen a modelů
+- **Animalshop.cz** - Zásobníky a automatická krmítka (i kombinované)
+- **Heureka.cz** - Srovnání cen a modelů (včetně Flamingo 1500ml all-in-one)
+- **Allegro.cz** - Velký výběr kombinovaných systémů
 
-### Mezinárodní možnosti:
-- **Amazon.com** - Největší výběr, import
+### Mezinárodní možnosti (největší výběr All-in-One):
+- **Amazon.com** - Největší výběr all-in-one i setů, import
+  - GARDENGUARDIAN 3-in-1
+  - Amazon vlastní značky (all-in-one s 3L)
+  - ZOMISIA gravitační systémy
 - **Petlibro.com** - Oficiální stránky výrobce
-- **Petkit.com** - Premium chytré krmítka
+- **Petkit.com** - Premium chytré krmítka a AI ekosystémy
+- **Oneisall.com** - Kombinované sety s aplikací
+- **Petmate.com** - Automatic Feeders & Waterers
 
 ---
 
@@ -224,29 +318,46 @@ Některé značky nabízejí výhodné sety obsahující jak krmítko, tak napá
 
 ### Pro 14denní nepřítomnost doporučuji:
 
-**Varianta PREMIUM:**
+#### **Varianta ALL-IN-ONE (úspora místa):**
+- **Produkt:** Amazon Automatic Cat Feeder & Water Fountain Set (integrované)
+- **Kapacita:** 3L voda + programovatelné krmítko
+- **Investice:** ~2500-4000 Kč
+- **Výhody:**
+  - Úspora místa
+  - Jedno zařízení
+  - Bateriová záloha
+- **⚠️ Upozornění:** 3L vody starčí na 12-20 dní, ale krmivo musí mít dostatečnou kapacitu
+
+#### **Varianta PREMIUM (dvě jednotky):**
 - **Napáječka:** UAH Pet ZERO 2L (120 dní baterie, ultra tichá)
 - **Krmítko:** PETKIT YumShare 5L (WiFi, kamera, 20 dní kapacita)
 - **Investice:** ~8000-12000 Kč
 - **Výhody:** Kamera, vzdálené ovládání, naprostá spolehlivost
 
-**Varianta OPTIMÁLNÍ:**
+#### **Varianta OPTIMÁLNÍ (dvě jednotky):**
 - **Napáječka:** HOM Pet Water Fountain 2L
 - **Krmítko:** PETLIBRO WiFi 5L
 - **Investice:** ~5000-7000 Kč
 - **Výhody:** WiFi ovládání, dobrý poměr cena/výkon
 
-**Varianta EKONOMICKÁ:**
+#### **Varianta EKONOMICKÁ (dvě jednotky):**
 - **Napáječka:** Amazon 2.5L model
 - **Krmítko:** WOPET/Roffie 7L
 - **Investice:** ~3000-4000 Kč
 - **Výhody:** Velká kapacita, nízká cena
+
+#### **Varianta ULTRA EKONOMICKÁ (gravitační all-in-one):**
+- **Produkt:** GARDENGUARDIAN nebo ZOMISIA gravitační systém
+- **Investice:** ~1000-2000 Kč
+- **Výhody:** Nejlevnější, jednoduché, bez elektřiny
+- **⚠️ Upozornění:** NENÍ vhodné pro 14 dní - pouze 5-7 dní max!
 
 ### Klíčové poznámky:
 ⚠️ **Voda:** 2L je těsně na hranici pro 14 dní - zvažte 2.5L nebo zajistěte možnost doplnění
 ✅ **Krmivo:** 5-7L zásobník bez problémů pokryje 14+ dní
 📱 **WiFi/App:** Velmi doporučeno pro kontrolu stavu na dálku
 🔋 **Baterie:** Musí mít zálohu pro případ výpadku proudu
+🏠 **All-in-One:** Skvělé pro úsporu místa, ale ověřte kapacitu pro 14 dní
 
 ---
 
@@ -269,11 +380,24 @@ Některé značky nabízejí výhodné sety obsahující jak krmítko, tak napá
 - [Super Feeder CSF-3XL](https://superfeederstore.com/automatic-cat-feeder-deal18-csf3xl-hopper-stand-bowl-acdt-20-timer/)
 - [5 Best Automatic Feeders For Cats in 2026 | TechnoMEOW](https://technomeow.com/best-automatic-feeders-for-cats/)
 
-### Kombinované sety:
+### All-in-One zařízení (voda + krmivo v jednom):
+- [Gravity Cat Feeder and Automatic Water Dispenser 3-in-1 | Amazon](https://www.amazon.com/Gravity-Automatic-Dispenser-Spill-Proof-Absorbent/dp/B0FW37X5SL)
+- [Automatic Cat Feeder & Water Fountain Set | Amazon](https://www.amazon.com/Automatic-Cat-Feeder-Water-Fountain/dp/B0FZHGLP9G)
+- [Automatic Cat Feeder And Waterer - Search Results | Amazon](https://www.amazon.com/automatic-cat-feeder-waterer/s?k=automatic+cat+feeder+and+waterer)
+- [Automatické krmítko pro kočky | Heureka.cz](https://www.heureka.cz/?h%5Bfraze%5D=automaticke+krmitko+pro+kocky)
+- [Automatická krmítka | Bitiba.cz](https://www.bitiba.cz/shop/doplnky_potreby_pro_kocky/fontanky_krmitka/krmitka)
+
+### Kombinované sety (dvě samostatné jednotky):
 - [Oneisall 3.5L Automatic Cat Feeder with APP & 2L Cat Water Fountain Set](https://oneisall.com/products/automatic-pet-feeder-and-2l-cat-water-fountain)
 - [Automatic Cat Feeder & Smart Water Fountain Bundle | Penthouse Paws](https://penthousepaws.com/products/automatic-cat-feeder-water-fountain)
+- [From Automation to Health Signals: PETKIT at CES 2026](https://www.prnewswire.com/news-releases/from-automation-to-health-signals-petkit-takes-smart-pet-care-to-the-next-level-with-an-ai-ecosystem-at-ces-2026-302651014.html)
+
+### České obchody s kombinovanými zařízeními:
+- [Zásobníky a automatická krmítka | Animalshop.cz](https://www.animalshop.cz/zasobniky-na-krmiva/)
+- [Automatické Krmítko Pro Kočky | Allegro.cz](https://allegro.cz/vyhledavani?string=automatick%C3%A9+krm%C3%ADtko+pro+ko%C4%8Dky)
+- [Automatická krmítka | ABC-ZOO](https://abc-zoo.cz/1456-automaticka-krmitka-pro-kocky)
 
 ---
 
 **Datum vytvoření:** 25. ledna 2026
-**Poslední aktualizace:** 25. ledna 2026
+**Poslední aktualizace:** 25. ledna 2026 (přidána sekce All-in-One zařízení)
