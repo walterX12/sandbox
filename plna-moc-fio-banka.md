@@ -33,9 +33,9 @@
 
 Já níže podepsaný/-á zplnomocňuji zmocněnce k tomuto níže uvedeným právním jednáním a s ním souvisejícím jednání vůči společnosti **Fio banka, a.s., IČ 61858374, Na Florenci 2139/2, Nové Město, 110 00 Praha 1**, zapsané v obchodním rejstříku vedeném rejstříkovým soudem v Praze, oddíl B, vložka 2704 (dále jen "**banka**"):
 
-## NEHODÍCÍ SE BODY ŠKRTNĚTE
 
-### Služby komerčního bankovnictví *
+
+### Služby komerčního bankovnictví 
 
  **všechna právní jednání týkající se zřizování, změny a rušení účtů vedených bankou.**
 
@@ -45,7 +45,7 @@ Já níže podepsaný/-á zplnomocňuji zmocněnce k tomuto níže uvedeným pr�
 
 **Upozornění:** Zmocněnec není oprávněn zmocnit další osobu, zejména není oprávněn zmocnit další osobu k nakládání s účtem nebo k disponování se zůstatky na účtech (např. podle smlouvy o elektronické správě účtu).
 
-### Služby investičního bankovnictví *
+### Služby investičního bankovnictví 
 
  **všechna právní jednání spojená s nákupem či prodejem investičních nástrojů, zejména uzavření, změna a ukončení Rámcové smlouvy - investiční, komisionářské smlouvy nebo jiné smlouvy o obstarávání nákupu a prodeje investičních nástrojů**
 
