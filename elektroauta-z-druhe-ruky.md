@@ -5,20 +5,21 @@
 2. [Srovnání: Hyundai Kona vs BMW i3 vs Nissan Leaf](#srovnání-hyundai-kona-vs-bmw-i3-vs-nissan-leaf)
 3. [Hyundai Ioniq – dva různé modely](#hyundai-ioniq--dva-různé-modely)
 4. [Mazda MX-30 – levná, ale krátký dojezd](#mazda-mx-30--levná-ale-krátký-dojezd)
-5. [Aktivní vs pasivní chlazení baterie](#aktivní-vs-pasivní-chlazení-baterie)
-5. [Rizika aktivního chlazení – BMW i3 vs Leaf](#rizika-aktivního-chlazení--bmw-i3-vs-leaf)
-6. [Stav baterie po 100 000 km](#stav-baterie-po-100-000-km)
-7. [BMW i3 – karbon a koroze](#bmw-i3--karbon-a-koroze)
-8. [BMW i3 – typické poruchy](#bmw-i3--typické-poruchy)
-9. [Elektroauta která nerezaví](#elektroauta-která-nerezaví)
-10. [Upgrade baterie](#upgrade-baterie)
-11. [Náklady na údržbu: Elektro vs Diesel](#náklady-na-údržbu-elektro-vs-diesel)
-12. [Náklady na opotřebení baterie na 1 km](#náklady-na-opotřebení-baterie-na-1-km)
-13. [Hmotnost baterií](#hmotnost-baterií)
-14. [Elektrické dodávky](#elektrické-dodávky)
-15. [Open source software pro Nissan Leaf](#open-source-software-pro-nissan-leaf)
-16. [Párování baterie a mazání chyb](#párování-baterie-a-mazání-chyb-po-výměně)
-17. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
+5. [MG4 – moderní čínské EV s LFP baterií](#mg4--moderní-čínské-ev-s-lfp-baterií)
+6. [Aktivní vs pasivní chlazení baterie](#aktivní-vs-pasivní-chlazení-baterie)
+7. [Rizika aktivního chlazení – BMW i3 vs Leaf](#rizika-aktivního-chlazení--bmw-i3-vs-leaf)
+8. [Stav baterie po 100 000 km](#stav-baterie-po-100-000-km)
+9. [BMW i3 – karbon a koroze](#bmw-i3--karbon-a-koroze)
+10. [BMW i3 – typické poruchy](#bmw-i3--typické-poruchy)
+11. [Elektroauta která nerezaví](#elektroauta-která-nerezaví)
+12. [Upgrade baterie](#upgrade-baterie)
+13. [Náklady na údržbu: Elektro vs Diesel](#náklady-na-údržbu-elektro-vs-diesel)
+14. [Náklady na opotřebení baterie na 1 km](#náklady-na-opotřebení-baterie-na-1-km)
+15. [Hmotnost baterií](#hmotnost-baterií)
+16. [Elektrické dodávky](#elektrické-dodávky)
+17. [Open source software pro Nissan Leaf](#open-source-software-pro-nissan-leaf)
+18. [Párování baterie a mazání chyb](#párování-baterie-a-mazání-chyb-po-výměně)
+19. [Kde hledat ojetá elektroauta](#kde-hledat-ojetá-elektroauta)
 
 ---
 
@@ -34,6 +35,7 @@
 | **BMW i3** | 4 | 22-42 kWh | 130-260 km | **Aktivní** | 250-450 tis. Kč |
 | **Mazda MX-30** | 4 ⚠️ | 35 kWh | 130-200 km | **Aktivní** | 250-400 tis. Kč |
 | **Hyundai Kona EV** | 5 | 39/64 kWh | 300-450 km | **Aktivní** | 400-600 tis. Kč |
+| **MG4** | 5 | 51/64/77 kWh | 270-400 km | **Aktivní** | 400-550 tis. Kč |
 | **Kia e-Niro** | 5 | 39/64 kWh | 280-450 km | **Aktivní** | 450-650 tis. Kč |
 | **Tesla Model 3** | 5 | 50-75 kWh | 350-500 km | **Aktivní** | 500-800 tis. Kč |
 | **Hyundai Ioniq Electric** | 5 | 38 kWh | ~280 km | **Aktivní** | 350-500 tis. Kč |
@@ -362,6 +364,98 @@ Zadní dveře se otevírají **proti směru jízdy** a vyžadují otevření př
 **Pro FVE kalkulaci:**
 - Nejlepší poměr cena/kWh kapacity za 250 tis. (7 140 Kč/kWh)
 - Ale malá baterie = menší "úložiště" pro přebytky
+
+---
+
+## MG4 – moderní čínské EV s LFP baterií
+
+### Základní parametry
+
+| Parametr | Standard (51 kWh) | Long Range (64 kWh) | Extended (77 kWh) |
+|----------|-------------------|---------------------|-------------------|
+| **Baterie** | 51 kWh LFP | 64 kWh NMC | 77 kWh NMC |
+| **Dojezd WLTP** | 350 km | 435 km | 520 km |
+| **Dojezd reálný** | 270-320 km | 350-400 km | 400-450 km |
+| **Výkon** | 125 kW (170 koní) | 150 kW (204 koní) | 180 kW (245 koní) |
+| **Nabíjení DC** | 117 kW | 135 kW | 140 kW |
+| **0-100 km/h** | 7,7 s | 7,0 s | 6,5 s |
+
+### 🔋 LFP baterie – velká výhoda (51 kWh verze)
+
+| Vlastnost | LFP (MG4 Standard) | NMC (ostatní EV) |
+|-----------|-------------------|------------------|
+| **Životnost** | 3000+ cyklů | 1000-1500 cyklů |
+| **Nabíjení na 100%** | ✅ Bez problému | ⚠️ Degraduje |
+| **Bezpečnost** | ✅ Nehořlavá | ⚠️ Riziko požáru |
+| **Degradace** | Velmi pomalá | Rychlejší |
+| **Výkon v zimě** | ⚠️ Horší (-20-30%) | Lepší |
+
+**Pro FVE ideální:** LFP můžeš nabíjet na 100% každý den bez starostí!
+
+### Ceny ojetin v ČR
+
+| Verze | Rok | Nájezd | Cena |
+|-------|-----|--------|------|
+| **51 kWh LFP** | 2023 | 10-20 tis. km | 400-500 tis. Kč |
+| **64 kWh** | 2023 | 15-25 tis. km | 500-600 tis. Kč |
+| **77 kWh** | 2023 | 10-20 tis. km | 550-700 tis. Kč |
+
+### ✅ Výhody MG4
+
+- **LFP baterie** (51 kWh verze) – bezpečná, dlouhá životnost
+- **7 let záruka** na baterii (do 2030 u 2023 vozů)
+- **Moderní platforma** – nízké těžiště, dobrá jízdní dynamika
+- **5 plnohodnotných míst**
+- **Velký kufr** – 363 L (až 1177 L se sklopenými sedadly)
+- **Dobrá výbava** i v základu
+- **V2L** (Vehicle-to-Load) – možnost napájet spotřebiče
+
+### ⚠️ Nevýhody MG4
+
+| Problém | Závažnost | Poznámka |
+|---------|-----------|----------|
+| **Servisní síť v ČR** | Střední | Málo autorizovaných servisů |
+| **Čínská značka** | Nízká | SAIC – zatím bez dlouhodobých zkušeností |
+| **LFP v zimě** | Střední | Dojezd klesá o 20-30% |
+| **Infotainment** | Nízká | Občas pomalejší reakce |
+| **Plastové interiérové díly** | Nízká | Levnější materiály |
+
+### Spolehlivost
+
+| Aspekt | Hodnocení |
+|--------|-----------|
+| **Zatím známé problémy** | ✅ Minimum (nové auto) |
+| **Záruka** | ✅ 7 let / 150 000 km |
+| **Baterie LFP** | ✅ Velmi bezpečná |
+| **Dlouhodobá spolehlivost** | ❓ Zatím neznámo (na trhu od 2022) |
+
+### Srovnání MG4 vs konkurence
+
+| Model | Míst | Baterie | Dojezd real | Typ baterie | Cena ojetiny |
+|-------|------|---------|-------------|-------------|--------------|
+| **MG4 51 kWh** | 5 | 51 kWh | 270-320 km | **LFP** ✅ | 400-500 tis. |
+| **Kona EV 64** | 5 | 64 kWh | 400-450 km | NMC | 400-500 tis. |
+| **Leaf 62** | 5 | 62 kWh | 300-350 km | NMC (pasiv) | 350-450 tis. |
+| **Ioniq Electric** | 5 | 38 kWh | 250-280 km | NMC | 350-450 tis. |
+
+### Verdikt MG4
+
+**✅ Kdy koupit:**
+- Máš FVE a chceš nabíjet na 100% denně → LFP verze!
+- Chceš novější auto se zárukou
+- Hledáš 5 míst za rozumnou cenu
+- Jezdíš město + občas delší trasy
+
+**❌ Kdy NEKUPOVAT:**
+- Potřebuješ jistotu zavedené značky
+- Máš daleko k autorizovanému servisu
+- Jezdíš hodně v zimě (LFP má horší výkon)
+- Potřebuješ maximální dojezd → vezmi Konu 64
+
+**Pro FVE kalkulaci (51 kWh LFP za 450 tis.):**
+- Cena/kWh: 8 824 Kč/kWh
+- ✅ Možnost nabíjet na 100% = využiješ celou kapacitu
+- ✅ LFP = minimální degradace i při denním nabíjení
 
 ---
 
