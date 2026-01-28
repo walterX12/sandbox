@@ -70,10 +70,22 @@ Domnívám se, že společnost DPD porušila:
 - **Problém č. 2:** Doručení **5 dnů PO TOM**, co DPD potvrdilo ztrátu!
 - **Důkazy o doručení:** DPD dosud nepředložilo
 
+#### **19. ledna 2026 - Tvrzené doručení BEZ INFORMOVÁNÍ zákazníka**
+- DPD tvrdí, že zásilka byla **19. ledna doručena**
+- **🚨 KRITICKÝ PROBLÉM:** DPD **NEINFORMOVALO zákazníka** o doručení!
+  - Žádná SMS notifikace
+  - Žádný email
+  - Žádný update tracking systému (nebo bez notifikace)
+  - **8 dní mlčení** (19. - 27. ledna)
+- **Důsledek:** Nemohl jsem se spojit s příjemcem (pan Rezek) a ověřit doručení
+
 #### **27. ledna 2026 - DPD STORNUJE reklamaci**
 - DPD **jednostranně stornuje** reklamaci
-- **Odůvodnění:** "Zásilka byla doručena 19. ledna"
-- **Problém:** Žádné vyřízení reklamace, žádná náhrada škody
+- **Způsob jakým jsem se dozvěděl o "doručení":**
+  - ❌ NIKOLI informací "doručili jsme zásilku"
+  - ❌ ALE sdělením "stornujeme reklamaci"
+- **Problém:** Až do 27. ledna jsem nevěděl, že DPD tvrdí doručení!
+- **Důsledek:** Žádné vyřízení reklamace, žádná náhrada škody, nemožnost ověření u příjemce
 
 ---
 
@@ -145,7 +157,46 @@ Domnívám se, že společnost DPD porušila:
 
 ---
 
-### 4. **NEPOCTIVÉ OBCHODNÍ PRAKTIKY**
+### 4. **NEINFORMOVÁNÍ ZÁKAZNÍKA O DORUČENÍ ZÁSILKY**
+
+**Skutkový stav:**
+- **19. ledna 2026:** DPD údajně doručilo zásilku (dle pozdějšího tvrzení)
+- **19. - 27. ledna:** DPD **MLČELO** o doručení - žádná informace zákazníkovi!
+- **27. ledna 2026:** První informace - formou **"stornujeme reklamaci"**
+
+**Porušení povinností:**
+
+#### a) **Porušení standardů DPD**
+- DPD **běžně posílá** SMS/email notifikace o doručení
+- V tomto případě: **žádná notifikace** 8 dní!
+
+#### b) **Znemožnění ověření u příjemce**
+- Nevěděl jsem, že DPD tvrdí doručení 19. ledna
+- **Nemohl jsem se spojit** s panem Rezkem (Kotle-Rezek) okamžitě
+- Ověření po 8 dnech je obtížnější
+- **Ztráta možnosti odmítnout převzetí** (pokud pozdě o 13 dní)
+
+#### c) **Podezření na manipulaci s doručením**
+
+**Časová osa vyvolávající pochybnosti:**
+1. **14. ledna:** DPD potvrzuje **ztrátu** ("neví kde zásilka je")
+2. **15. ledna:** Podána **reklamace** s nárokem na náhradu škody
+3. **19. ledna:** DPD údajně **doručuje** (bez informování zákazníka!)
+4. **27. ledna:** DPD **stornuje reklamaci** ("zásilka byla doručena")
+
+**Otázky:**
+- Proč DPD **neinformovalo** o doručení 19. ledna?
+- Proč první informace až při **stornování reklamace**?
+- Byl podpis příjemce **skutečně pořízen 19. ledna**?
+
+**Právní důsledek:**
+- Porušení **informační povinnosti** dopravce
+- Porušení **dobrých mravů** obchodního styku (§ 3 občanského zákoníku)
+- **Znemožnění výkonu práv** spotřebitele
+
+---
+
+### 5. **NEPOCTIVÉ OBCHODNÍ PRAKTIKY**
 
 **Zákon č. 634/1992 Sb., o ochraně spotřebitele:**
 
@@ -219,6 +270,58 @@ Domnívám se, že společnost DPD porušila:
 6. **Doklad o expedici náhradního dílu**
    - Náklady na urgentní dopravu
    - Částka: [DOPLŇTE]
+
+7. **Komunikace s DPD - absence informování o doručení**
+   - Žádná SMS o doručení (19. - 27. ledna)
+   - Žádný email o doručení (19. - 27. ledna)
+   - První informace až formou storna reklamace (27. 1.)
+
+---
+
+## POŽADAVEK NA PŘEDLOŽENÍ DŮKAZŮ OD DPD
+
+**Žádám ČOI, aby vyžádala od DPD následující důkazy:**
+
+### 1. **Dodací list s podpisem příjemce**
+   - Datum a čas doručení: 19. 1. 2026
+   - Jméno a podpis příjemce (údajně pan David Rezek, Kotle-Rezek)
+   - Jméno kurýra
+   - Razítko servisního střediska
+
+### 2. **GPS záznam kurýra** z doručení
+   - Souřadnice místa doručení (Pomezí nad Ohří 30, 350 02 Cheb)
+   - Čas doručení
+   - Identifikace kurýra
+
+### 3. **Důkaz o informování zákazníka**
+   - SMS notifikace odeslaná 19. 1. 2026 (nebo vysvětlení proč nebyla odeslána)
+   - Email notifikace odeslaná 19. 1. 2026 (nebo vysvětlení proč nebyl odeslán)
+   - Log z tracking systému - kdy byl aktualizován stav zásilky na "doručeno"
+   - **VYSVĚTLENÍ:** Proč zákazník NEBYL informován o doručení až do 27. ledna?
+
+### 4. **Vysvětlení rozporů v komunikaci DPD**
+   - Proč **14. ledna** DPD tvrdilo, že zásilku **ztratilo** ("neví kde je")?
+   - Jak je možné, že zásilka byla "ztracena" a pak "nalezena" **5 dní později**?
+   - Proč zásilka trvala **13 dnů místo 2 dnů**?
+   - Proč DPD **neinformovalo** zákazníka o doručení ihned po doručení?
+   - Je podpis na dodacím listu **skutečně z 19. ledna 2026**, nebo byl pořízen později?
+
+### 5. **Ověření u příjemce**
+
+**Vyhrazuji si právo ověřit si u příjemce:**
+- **Jméno:** David Rezek
+- **Firma:** Kotle-Rezek
+- **Telefon:** 603 482 261
+- **Email:** rezekd@seznam.cz
+- **Adresa:** Pomezí nad Ohří 30, 350 02 Cheb
+
+**Co budu ověřovat:**
+- Zda zásilku skutečně převzal **19. ledna 2026**
+- Zda podpis na dodacím listu je **jeho**
+- Zda byl informován o důvodu **zpoždění 13 dní**
+- Zda ventilátor byl ve **stavu jak jsem ho odeslal**
+
+**⚠️ Pokud pan Rezek potvrdí, že zásilku NEPŘEVZAL nebo převzal v jiný den, bude to důkaz o manipulaci ze strany DPD!**
 
 ---
 
