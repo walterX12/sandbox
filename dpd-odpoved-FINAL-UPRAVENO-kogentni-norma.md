@@ -142,13 +142,14 @@ e) **Celková škoda**
 Kdybych NEJEDNAL zodpovědně a NEMINIMALIZOVAL škodu:
 
 Mohl jsem:
-→ Koupit ventilátor za 15 000 Kč (měl jsem takové nabídky)
+→ Koupit ventilátor za 15 000 Kč s expresním dodáním do druhého dne
 → Nechat montáž udělat topenářem za 2 000 Kč
 → Celkem požadovat: 15 000 + 2 000 + 100 = **17 100 Kč**
 
 Místo toho jsem:
-→ Hledal nejlevnější dostupnou variantu (9 205 Kč)
-→ Montáž provedl sám (ušetřil 2 000 Kč)
+→ Zvolil levnější variantu za 9 205 Kč s delší dodací lhůtou
+→ Kvůli DPD jsem mrznul déle bez funkčního vytápění, abych vám ušetřil peníze
+→ Montáž provedl sám (ušetřil jsem vám 2 000 Kč)
 → Požaduji jen skutečné náklady: **9 305 Kč**
 
 **Ušetřil jsem vám 7 795 Kč tím, že jsem minimalizoval škodu.**
@@ -580,10 +581,13 @@ náhradu škody v následující výši:
 
 **Poznámka k minimalizaci škody:**
 Maximální škoda, kterou jsem mohl požadovat:
-- Ventilátor za 15 000 Kč (měl jsem takové nabídky)
+- Ventilátor za 15 000 Kč s expresním dodáním do druhého dne
 - Montáž 2 000 Kč
 - Doprava DPD 100 Kč
 - **CELKEM: 17 100 Kč**
+
+Místo toho jsem zvolil levnější variantu s delší dodací lhůtou
+a mrznul jsem déle bez vytápění, abych minimalizoval škodu.
 
 Tím, že jsem našel levnější řešení a montáž provedl sám,
 **jsem DPD ušetřil 7 795 Kč**.
@@ -692,9 +696,11 @@ Fakta mého případu:
 → DPD zásilku ztratilo - repasovaný díl nebyl dostupný
 → Musel jsem urgentně koupit nový ventilátor za 9 205 Kč
 → Zaplatil jsem DPD 100 Kč za dopravu, kterou jste nerealizovali
-→ Snažil jsem se minimalizovat škodu (našel nejlevnější variantu,
-   montáž sám)
-→ Ušetřil jsem DPD 7 795 Kč (mohlo být 17 100 Kč)
+→ Snažil jsem se minimalizovat škodu:
+   - Zvolil levnější variantu s delší dodací lhůtou (místo expresního dodání)
+   - Mrznul jsem déle bez funkčního vytápění, abych vám ušetřil peníze
+   - Montáž jsem provedl sám
+→ Ušetřil jsem DPD 7 795 Kč (mohlo být 17 100 Kč s expresním dodáním)
 → Požaduji jen SKUTEČNÉ náklady: 9 305 Kč
 
 **To je spravedlivé. To je v souladu se zákonem.**
