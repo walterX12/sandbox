@@ -604,7 +604,7 @@ Tím, že jsem našel levnější řešení a montáž provedl sám,
 
 
 Platební údaje:
-→ Číslo účtu: [DOPLNIT VAŠE ČÍSLO ÚČTU]
+→ Číslo účtu: 379464001/5500
 → Variabilní symbol: 13925049833359
 → Lhůta k úhradě: **14. února 2026** (2 dny)
 
@@ -765,7 +765,7 @@ Přílohy:
 ### ⚠️ CO JEŠTĚ MUSÍTE DOPLNIT:
 
 **V textu emailu:**
-- [ ] **[DOPLNIT VAŠE ČÍSLO ÚČTU]** - váš bankovní účet pro připsání 10 805 Kč
+- [x] **Číslo účtu: 379464001/5500** - doplněno ✅
 
 **Přílohy k emailu:**
 - [ ] Faktura Termogo S.R.L. (PDF/screenshot)
