@@ -1,14 +1,5 @@
-# FINÁLNÍ ODPOVĚĎ DPD - UPRAVENÁ VERZE
-# Email s vysvětlením kogentní normy § 2925 OZ
 
-**Komu:** reklamace@dpd.cz (Lucia Kouřílková)
-**Předmět:** RE: Doplňte prosím doklady k reklamaci č. 13925049833359 [DPD-REQ-6045138]
-**Datum odeslání:** 12. února 2026
-
----
-
-```
-Věc: RE: Doplňte prosím doklady k reklamaci č. 13925049833359 [DPD-REQ-6045138]
+Věc: Návrh vyrovnání k reklamaci č. 13925049833359 [DPD-REQ-6045138]
      NESOUHLASÍM S NABÍDKOU 2 500 KČ - POŽADAVEK NÁHRADY 10 805 KČ
 
 Vážená paní Kouřílková,
@@ -160,9 +151,33 @@ PRÁVNÍ ODŮVODNĚNÍ MÉHO NÁROKU
 ═══════════════════════════════════════════════════════════════════
 
 Nyní mi dovolte uvést formální právní odůvodnění, proč Vaše nabídka
-2 500 Kč je v rozporu se zákonem a proč máte povinnost uhradit mi
-částku 9 305 Kč:
+2 500 Kč je v rozporu se zákonem a proč máte povinnost uhradit mi alespoň částku **9 305 Kč**
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
 
 I. § 2925 OZ - ODPOVĚDNOST DOPRAVCE JE KOGENTNÍ
    (VOP NEMŮŽE BÝT NAD ZÁKONEM!)
@@ -179,35 +194,35 @@ věci od jejího převzetí do jejího vydání."
 Toto ustanovení je **KOGENTNÍ** podle § 2912 OZ.
 
 
+
 2. Co je to "KOGENTNÍ" norma a proč by se mělo DPD bát
 
 V českém právu existují DVA typy zákonných ustanovení:
-
+```
 ┌────────────────────────────────────────────────────────────────┐
-│ A) DISPOZITIVNÍ NORMA (= lze se od ní odchýlit)              │
+│ A) DISPOZITIVNÍ NORMA (= lze se od ní odchýlit)                │
 ├────────────────────────────────────────────────────────────────┤
-│ Zákon říká: "Platí toto, POKUD si strany nedohodnou jinak"    │
+│ Zákon říká: "Platí toto, POKUD si strany nedohodnou jinak"     │
 │                                                                │
-│ Příklad: § 2055 OZ - "Kupní cena je splatná při předání,      │
+│ Příklad: § 2055 OZ - "Kupní cena je splatná při předání,       │
 │          POKUD není sjednáno jinak"                            │
 │                                                                │
-│ → Strany SI MOHOU dohodnout něco jiného ve smlouvě nebo VOP  │
-│ → Například: "Cena je splatná za 14 dní"                      │
-│ → To je v pořádku ✅                                          │
+│ → Strany SI MOHOU dohodnout něco jiného ve smlouvě nebo VOP    │
+│ → Například: "Cena je splatná za 14 dní"                       │
+│ → To je v pořádku ✅                                           │
 └────────────────────────────────────────────────────────────────┘
-
 ┌────────────────────────────────────────────────────────────────┐
-│ B) KOGENTNÍ NORMA (= NELZE se od ní odchýlit!)               │
+│ B) KOGENTNÍ NORMA (= NELZE se od ní odchýlit!)                 │
 ├────────────────────────────────────────────────────────────────┤
-│ Zákon říká: "Platí toto a NELZE se dohodnout jinak"           │
+│ Zákon říká: "Platí toto a NELZE se dohodnout jinak"            │
 │                                                                │
-│ Příklad: § 2925 OZ - "Dopravce ODPOVÍDÁ za škodu"             │
+│ Příklad: § 2925 OZ - "Dopravce ODPOVÍDÁ za škodu"              │
 │                                                                │
-│ → Strany SI NEMOHOU dohodnout něco jiného                     │
-│ → VOP NEMŮŽE tuto odpovědnost vyloučit ani omezit             │
-│ → Pokud to VOP udělá → VOP je NEPLATNÉ ❌                    │
+│ → Strany SI NEMOHOU dohodnout něco jiného                      │
+│ → VOP NEMŮŽE tuto odpovědnost vyloučit ani omezit              │
+│ → Pokud to VOP udělá → VOP je NEPLATNÉ ❌                     │
 └────────────────────────────────────────────────────────────────┘
-
+```
 
 3. Proč je § 2925 OZ KOGENTNÍ?
 
@@ -230,10 +245,10 @@ ustanoveními."
 
 4. Aplikace na váš případ DPD
 
-**Co tvrdí DPD:**
+**Co tvrdíte vy v DPD:**
 
-❌ "Podle našeho oddílu 3.5 Reklamačního řádu aplikujeme amortizaci"
-❌ "Váš ventilátor z roku 2007 má hodnotu jen 2 500 Kč"
+❌ "Podle  oddílu 3.5 Reklamačního řádu aplikujete amortizaci"
+❌ "Ventilátor z roku 2007 má hodnotu jen 2 500 Kč"
 ❌ "Proto vám zaplatíme jen 2 500 Kč"
 
 **Proč je to PROTIPRÁVNÍ:**
@@ -244,12 +259,12 @@ ZÁKON (kogentní § 2925 OZ):  "Dopravce ODPOVÍDÁ za škodu"
                VS
 VOP DPD (oddíl 3.5):         "Uhradíme jen AMORTIZOVANOU částku"
                              "Jen 2 500 Kč"
-
+```
 ─────────────────────────────────────────────────────────────
 
 VÝSLEDEK: VOP DPD je NEPLATNÉ (§ 2912 OZ - kogentní norma)
           Použije se ZÁKON → skutečná škoda = 9 305 Kč
-```
+
 
 **§ 2925 OZ říká:**
 "Dopravce odpovídá za škodu vzniklou **ztrátou** věci"
@@ -260,7 +275,7 @@ VÝSLEDEK: VOP DPD je NEPLATNÉ (§ 2912 OZ - kogentní norma)
 **Vaše situace:**
 → DPD ztratilo ventilátor → § 2925 OZ (KOGENTNÍ odpovědnost)
 → Musel jste koupit nový náhradní ventilátor → § 2952 OZ (skutečné náklady)
-→ **Zákon říká: DPD musí uhradit 9 305 Kč**
+→ **Zákon říká: DPD musí uhradit alespoň 9 305 Kč**
 
 **VOP DPD říká:**
 → "Amortizace → jen 2 500 Kč"
@@ -268,7 +283,7 @@ VÝSLEDEK: VOP DPD je NEPLATNÉ (§ 2912 OZ - kogentní norma)
 **Konflikt:**
 → VOP je v rozporu s KOGENTNÍ normou § 2925 OZ
 → **VOP je NEPLATNÉ** (§ 1726 OZ - nepřiměřené zkrácení práv)
-→ **Použije se ZÁKON** → skutečná škoda = 9 305 Kč
+→ **Použije se ZÁKON** → skutečná škoda = tj., alespoň 9 305 Kč nebo více
 
 
 5. Proč by se mělo DPD bát?
@@ -280,7 +295,7 @@ a) **Soud VŽDY použije zákon místo VOP**
    → Soud řekne: "§ 2925 OZ je KOGENTNÍ"
    → Soud řekne: "VOP DPD je v rozporu s kogentním ustanovením"
    → Soud řekne: "VOP je NEPLATNÉ"
-   → Soud použije ZÁKON → 9 305 Kč (+ úroky + náklady řízení)
+   → Soud použije ZÁKON → alespoň 9 305 Kč (+ úroky + náklady řízení)
 
    **DPD PROHRAJE.**
 
@@ -291,14 +306,6 @@ b) **Česká obchodní inspekce (ČOI) zakáže takové VOP**
    → ČOI může ZVEŘEJNIT případ na svých stránkách
 
    **DPD dostane pokutu + špatnou publicitu.**
-
-c) **Precedens pro další případy**
-
-   → Pokud jeden spotřebitel vyhraje u soudu, ostatní se přidají
-   → DPD bude muset vyplatit tisíce dalších reklamací
-   → VOP bude muset být ZMĚNĚNA
-
-   **DPD ztratí víc než 8 305 Kč (rozdíl mezi 10 805 a 2 500).**
 
 
 6. ZÁVĚR - VOP NEMŮŽE BÝT NAD ZÁKONEM
@@ -314,11 +321,10 @@ c) **Precedens pro další případy**
 
 **Podle § 1726 OZ:**
 → Nepřiměřené zkrácení práv spotřebitele = NEPLATNÉ ujednání
-→ Snížení z 9 305 Kč na 2 500 Kč = nepřiměřené (o 77 %)
 
 **Proto:**
 → Vaše nabídka 2 500 Kč je v rozporu se zákonem
-→ Máte povinnost uhradit 9 305 Kč
+→ Máte povinnost uhradit alespoň 9 305 Kč
 
 
 II. AMORTIZACE JE V MÉM PŘÍPADĚ NEAPLIKOVATELNÁ
@@ -352,27 +358,7 @@ a) **Ventilátor nebyl "opotřebený nefunkční díl"**
    → Hodnota auta ≠ 0 Kč, hodnota = cena funkčního auta po opravě
 
 
-b) **Oddíl 3.6 Reklamačního řádu - zboží posílané DO opravy**
-
-   Váš Reklamační řád v oddíle 3.6 výslovně upravuje případ
-   zboží posílaného DO opravy:
-
-   "U Zásilek obsahujících **zboží posílané do opravy** bude jeho
-   pořizovací cena uvedená na prodejním dokladu přepravovaného zboží
-   vždy **snížena o 20 % a o příslušnou amortizaci**."
-
-   V mém případě:
-   → Pořizovací hodnota kotle (2007): 75 000 Kč
-   → Snížení o 20 %: 75 000 - 15 000 = 60 000 Kč
-   → Amortizace 19 let (cca 5 % ročně): 60 000 - 57 000 = 3 000 Kč
-
-   **Podle vašeho oddílu 3.6 by náhrada měla být cca 3 000 Kč,
-   NIKOLIV 2 500 Kč.**
-
-   Ale ani to není správné - viz bod III níže (§ 2952 OZ).
-
-
-c) **Funkční věc má hodnotu podle TRŽNÍ CENY náhrady**
+b) **Funkční věc má hodnotu podle TRŽNÍ CENY náhrady**
 
    → Hodnota funkční věci ≠ účetní amortizace
    → Hodnota = kolik stojí pořídit FUNKČNÍ náhradu
@@ -394,14 +380,17 @@ V mém případě:
 → Bylo vynaloženo částku za náhradní ventilátor na nákup náhradního ventilátoru
 → Tuto částku jsem vynaložil v PŘÍMÉ souvislosti s tím, že jste
    ztratili mou zásilku
-→ Po ztrátě zásilky nebyl repasovaný díl dostupný
+→ Po ztrátě zásilky nebyla možnost díl repasovat ( protože jste díl ztratili, tak nebylo co repasovat )
+
+<br><br><br>
+
 
 **Skutečná škoda:**
 ```
 = Nový ventilátor (náhradní ventilátor)
 + Doprava DPD (nerealizovaná, 100 Kč)
 ────────────────────────────────────
-= 9 305 Kč
+tj. alespoň  9 305 Kč
 ```
 
 **Amortizace se NEUPLATŇUJE na následnou škodu podle § 2952 OZ!**
@@ -434,7 +423,6 @@ a doporučili jste mi zakoupit nový díl (hovor si nahrávate, ověřte si to).
 
 V té době:
 → Venku mrzlo (leden 2026, teploty pod -10°C)
-→ Kotel bez ventilátoru NELZE provozovat (riziko poškození)
 → Věděl jsem, že musím jednat, protože vaše neschopnost zjistit,
    že je balík ztracený rychle, mi dávala jistotu, že nezajistíte
    ani náhradní díl rychle
@@ -449,9 +437,8 @@ V té době:
 Podle § 2900 a násl. Občanského zákoníku:
 → Poškozený má povinnost přiměřeně **minimalizovat škodu**
 → Tuto povinnost jsem splnil:
-   - Hledal jsem NEJLEVNĚJŠÍ dostupnou variantu (náhradní ventilátor místo 15 000 Kč)
+   - Hledal jsem NEJLEVNĚJŠÍ dostupnou variantu 
    - Montáž jsem provedl sám (ušetřil 2 000 Kč)
-   - Ušetřil jsem DPD celkem **7 795 Kč**
 
 3. Oprávněnost urgentního nákupu
 
@@ -472,23 +459,11 @@ VI. NEMOŽNOST ZAKOUPIT NÁHRADNÍ DÍL ZA 2 500 KČ
 Ventilátor EBM Papst RG128/1300-3612-020204 (varianta 020204
 pro kotle Geminox):
 
-→ České e-shopy: NENÍ skladem nebo 12 000 - 15 000 Kč
-→ Repasovaný díl: 3 500 - 5 000 Kč (nebyl okamžitě dostupný)
+→ České e-shopy: NENÍ možné sehant za 2500 Kč
 → Použitý díl za 2 500 Kč: **NEEXISTUJE** na trhu
 
-2. Výzva k DPD
 
-Pokud tvrdíte, že hodnota ventilátoru je 2 500 Kč, pak:
-
-→ **Sežeňte a dodejte mi** funkční ventilátor EBM Papst
-   RG128/1300-3612-020204 (varianta 020204) za 2 500 Kč
-
-Pokud to dokážete → problém je vyřešen
-
-Pokud to NEDOKÁŽETE (a nelze to) → pak částka 2 500 Kč
-NEKRYJE skutečnou škodu ve smyslu § 2952 OZ
-
-3. Skutečná škoda podle judikatury
+2. Skutečná škoda podle judikatury
 
 Podle konstantní judikatury českých soudů:
 → Skutečná škoda = náklady nutné k obnovení stavu, který tu byl
@@ -496,9 +471,6 @@ Podle konstantní judikatury českých soudů:
 → V mém případě = náklady na pořízení funkčního náhradního
    ventilátoru = částku za náhradní ventilátor
 → Plus vrácení nerealizované dopravy = 100 Kč
-→ **Celkem: 9 305 Kč**
-
-To je má skutečná škoda a na tuto částku mám nárok.
 
 
 VII. PRODLENÍ DPD S VYŘÍZENÍM REKLAMACE
@@ -511,45 +483,11 @@ za **podstatné porušení smlouvy**."
 V mém případě:
 → Reklamace podána: 9. ledna 2026
 → Zákonná lhůta 30 dnů uplynula: 8. února 2026
-→ Dnes je: 12. února 2026
-→ Prodlení: **4 dny**
+→ Dnes je: 11. února 2026
+→ Prodlení: **2 dny**
 
 Marné uplynutí zákonné lhůty je podle § 1925 odst. 2 OZ považováno
 za PODSTATNÉ PORUŠENÍ SMLOUVY.
-
-
-VIII. MŮJ POŽADAVEK NA NÁHRADU ŠKODY
-
-Na základě výše uvedených skutečností a právních důvodů požaduji
-náhradu škody v následující výši:
-
-┌─────────────────────────────────────────────────────────────────┐
-│ POLOŽKA                                    │ ČÁSTKA             │
-├────────────────────────────────────────────┼────────────────────┤
-│ Nový náhradní ventilátor                   │                   │
-│ (faktura přiložena)                        │                    │
-│                                            │                    │
-│ Doprava DPD (nerealizovaná služba)         │    100 Kč         │
-│ Vrácení zaplacené částky (§ 2002 OZ)       │                    │
-│                                            │                    │
-│ Montáž (provedena vlastními silami)        │      0 Kč         │
-│ **NEUPLATŇUJI** (ušetřená částka 2 000 Kč) │                    │
-├────────────────────────────────────────────┼────────────────────┤
-│ **CELKEM**                                 │ **9 305 Kč**      │
-└─────────────────────────────────────────────────────────────────┘
-
-**Poznámka k minimalizaci škody:**
-Maximální škoda, kterou jsem mohl požadovat:
-- Ventilátor za 15 000 Kč s expresním dodáním do druhého dne
-- Montáž 2 000 Kč
-- Doprava DPD 100 Kč
-- **CELKEM: 17 100 Kč**
-
-Místo toho jsem zvolil levnější variantu s delší dodací lhůtou
-a mrznul jsem déle bez vytápění, abych minimalizoval škodu.
-
-Tím, že jsem našel levnější řešení a montáž provedl sám,
-**jsem DPD ušetřil 7 795 Kč**.
 
 
 Platební údaje:
@@ -580,10 +518,8 @@ do 16. února 2026, budu nucen přistoupit k následujícím krokům:
 2. **Podání žaloby o náhradu škody k příslušnému soudu**
 
    Nárok:
-   → Výše škody: 9 305 Kč
-   → Úroky z prodlení (od 17. února 2026)
-   → Náhrada nákladů řízení (soudní poplatek 1 000 Kč,
-     ev. náklady právního zastoupení)
+   →SAotná škoda a Úroky z prodlení (od 17. února 2026)
+   → Náhrada nákladů řízení 
 
    Právní základ:
    → **§ 2912 OZ (§ 2925 je KOGENTNÍ - VOP nemůže omezit)**
@@ -603,20 +539,9 @@ do 16. února 2026, budu nucen přistoupit k následujícím krokům:
    **SOUD POUŽIJE ZÁKON (§ 2925 OZ), NE VOP.**
    **DPD PROHRAJE.**
 
-   **Při soudním řízení budu požadovat PLNOU částku 9 305 Kč
-   + úroky z prodlení + náklady řízení (celkem cca 12 000 - 15 000 Kč).**
+   **Při soudním řízení budu požadovat PLNOU částku
+   + úroky z prodlení + náklady řízení 
 
-
-3. **Veřejné zveřejnění Vašeho postupu**
-
-   → Sociální sítě (Facebook, X/Twitter)
-   → Spotřebitelská fóra (dTest.cz, Hlídač shopů, Recenze.cz)
-   → Negativní hodnocení služeb DPD na Googlu
-   → Medializace případu (kontakt novinářů spotřebitelských rubrik)
-
-   **Nadpis článku:**
-   "DPD odmítá uhradit skutečnou škodu s odkazem na NEPLATNÉ VOP
-   v rozporu s kogentní normou § 2925 OZ"
 
 
 ═══════════════════════════════════════════════════════════════════
@@ -628,41 +553,6 @@ Vážená paní Kouřílková,
 chápu, že se snažíte uplatnit Vaše interní předpisy (amortizační
 doložka oddílu 3.5 Reklamačního řádu). Nicméně tyto předpisy
 NEMOHOU být v rozporu se zákonem.
-
-**A v mém případě jsou.**
-
-
-┌────────────────────────────────────────────────────────────────┐
-│  VOP NEMŮŽE BÝT NAD ZÁKONEM                                    │
-├────────────────────────────────────────────────────────────────┤
-│                                                                │
-│  Zákon (§ 2952 OZ):  "Uhraďte mu, co SKUTEČNĚ vynaložil."     │
-│  Vaše VOP:           "Uhradíme AMORTIZOVANOU hodnotu."         │
-│                                                                │
-│  ➜ TO NEJDE DOHROMADY.                                        │
-│  ➜ ZÁKON MÁ PŘEDNOST.                                         │
-│                                                                │
-│  § 2912 OZ říká: "Nemůže-li se dopravce odpovědnosti zprostit"│
-│  § 2925 OZ je KOGENTNÍ → NELZE omezit VOP                     │
-│  ➜ VOP DPD je NEPLATNÉ                                        │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-
-
-Fakta mého případu:
-→ Ventilátor nebyl nefunkční - byl OPRAVITELNÝ
-→ Po opravě bych dostal zpět plně funkční repasovaný ventilátor
-→ DPD zásilku ztratilo - repasovaný díl nebyl dostupný
-→ Musel jsem urgentně koupit nový ventilátor náhradní ventilátor
-→ Zaplatil jsem DPD 100 Kč za dopravu, kterou jste nerealizovali
-→ Snažil jsem se minimalizovat škodu:
-   - Zvolil levnější variantu s delší dodací lhůtou (místo expresního dodání)
-   - Mrznul jsem déle bez funkčního vytápění, abych vám ušetřil peníze
-   - Montáž jsem provedl sám
-→ Ušetřil jsem DPD 7 795 Kč (mohlo být 17 100 Kč s expresním dodáním)
-→ Požaduji jen SKUTEČNÉ náklady: 9 305 Kč
-
-**To je spravedlivé. To je v souladu se zákonem.**
 
 Vaše nabídka 2 500 Kč:
 ❌ Nekryje skutečné náklady (nelze koupit ventilátor za 2 500 Kč)
@@ -676,11 +566,8 @@ Vaše nabídka 2 500 Kč:
 
 Moje poslední slovo:
 
-Nežádám víc, než kolik jsem skutečně zaplatil.
+Nyní žádám 9305 Kč.
 Nežádám nic nereálného.
-Žádám jen to, co mi zákon dává - náhradu skutečných nákladů.
-
-**9 305 Kč.**
 
 **UPOZORNĚNÍ:**
 Tento kompromisní návrh platí pouze do **16. února 2026**.
@@ -697,182 +584,3 @@ Petr Komárek
 Tel: +420 724 370 941
 Email: petr.komarek2@gmail.com
 
-
-Přílohy:
-1. Faktura za náhradní ventilátor ze 14.1.2026
-```
-
----
-
-## 📋 CHECKLIST PŘED ODESLÁNÍM
-
-### ✅ Co máte:
-- [x] Fakturu za náhradní ventilátor
-- [x] Datum nákupu (14.1.2026)
-- [x] Důkaz o zaplacení (platební karta)
-- [x] Doklad o zaplacení dopravy DPD (100 Kč)
-
-### ⚠️ CO JEŠTĚ MUSÍTE DOPLNIT:
-
-**V textu emailu:**
-- [x] **Číslo účtu: 379464001/5500** - doplněno ✅
-
-**Přílohy k emailu:**
-- [ ] Faktura za náhradní ventilátor (PDF/screenshot)
-- [ ] Doklad o zaplacení dopravy DPD 100 Kč (email s potvrzením objednávky, výpis z účtu)
-
----
-
-## 📧 JAK ODESLAT
-
-### Varianta A: Email (OKAMŽITĚ)
-```
-Komu: reklamace@dpd.cz
-Kopie: petr.komarek2@gmail.com
-Předmět: RE: Doplňte prosím doklady k reklamaci č. 13925049833359 [DPD-REQ-6045138]
-```
-
-### Varianta B: Doporučeně (ZÍTRA)
-```
-Adresa:
-Direct Parcel Distribution CZ s.r.o.
-Reklamace / Lucia Kouřílková
-Modletice 135
-251 01 Říčany u Prahy
-```
-
-### ⭐ DOPORUČUJI: Email DNES + Doporučeně ZÍTRA
-
----
-
-## 💡 KLÍČOVÉ ZMĚNY V TOMTO EMAILU
-
-### ✅ 1. PŘIDÁNO: Vysvětlení KOGENTNÍ NORMY (§ 2912 + § 2925 OZ)
-
-**NOVÁ SEKCE I.** - "VOP NEMŮŽE BÝT NAD ZÁKONEM"
-
-→ Vysvětleno co je kogentní norma vs. dispozitivní norma
-→ Vysvětleno proč § 2925 OZ je kogentní (§ 2912 OZ)
-→ Vysvětleno proč VOP DPD je neplatné
-→ **STRAŠIDELNÉ PRO DPD** - soud použije zákon, ne VOP
-
-**Proč je to důležité:**
-→ DPD pochopí, že PROHRAJE u soudu
-→ DPD pochopí, že VOP nemůže být nad zákonem
-→ DPD se "zalekne" a radši zaplatí
-
-
-### ✅ 2. OPRAVENO: Situace s ventilátorem
-
-**PŮVODNĚ (CHYBNĚ):**
-"Ventilátor fungoval sporadicky"
-
-**NYNÍ (SPRÁVNĚ):**
-"Ventilátor (který vykazoval nespolehlivý chod a chybu 160) šel NA OPRAVU"
-"Po opravě = PLNĚ FUNKČNÍ REPASOVANÝ ventilátor"
-"Po ztrátě zásilky nebyl repasovaný díl dostupný"
-
-**Proč je to důležité:**
-→ Zdůrazňuje, že to nebyl "nefunkční díl na odpis"
-→ Zdůrazňuje, že šlo o opravitelnou technickou závadu
-→ Silnější argument proti amortizaci
-
-
-### ✅ 3. PŘIDÁNO: Vrácení 100 Kč za nerealizovanou dopravu DPD
-
-**NOVÁ POLOŽKA V TABULCE:**
-```
-│ Doprava DPD (nerealizovaná služba)       │    100 Kč   │
-│ Vrácení zaplacené částky (§ 2002 OZ)     │              │
-```
-
-**NOVÁ CELKOVÁ ČÁSTKA: 9 305 Kč** (bylo 10 705 Kč)
-
-**Právní základ:** § 2002 OZ - vrácení peněz za nesplněné plnění
-
-
-### ✅ 4. UPŘESNĚNO: Co NEUPLATŇUJETE
-
-```
-│ Montáž (provedena vlastními silami)        │      0 Kč         │
-│ **NEUPLATŇUJI** (ušetřená částka 2 000 Kč) │                    │
-```
-
-**Proč je to důležité:**
-→ Ukázat, že MINIMALIZUJETE škodu
-→ Ukázat, že jste vstřícní
-→ Silnější pozice pro vyjednávání
-
-
-### ✅ 5. PŘIDÁNO: Více "strašidelných" odstavců pro DPD
-
-**"5. Proč by se mělo DPD bát?"**
-
-→ Soud VŽDY použije zákon místo VOP → **DPD PROHRAJE**
-→ ČOI může zakázat VOP + uložit pokutu → **DPD dostane pokutu**
-→ Precedens pro další případy → **DPD ztratí víc peněz**
-
-**Proč je to důležité:**
-→ DPD pochopí ekonomickou logiku: "Levnější je zaplatit 9 305 Kč než se soudit"
-→ DPD pochopí riziko: "Můžeme dostat pokutu + špatnou publicitu"
-
-
----
-
-## 🎯 CO OČEKÁVAT OD DPD
-
-### Možná reakce 1: Nabídka kompromisu (5 000 - 7 000 Kč)
-**→ Co udělat:** Zvážit, jestli se chcete soudit kvůli rozdílu 3 000 - 5 000 Kč
-
-### Možná reakce 2: Odmítnutí s odkazem na amortizaci
-**→ Co udělat:** Připomenout § 2912 OZ (kogentní norma)
-**→ Pak:** ČOI + soud (máte VELMI silné argumenty)
-
-### Možná reakce 3: Akceptace 9 305 Kč
-**→ Co udělat:** ✅ Problém vyřešen!
-
----
-
-## 📖 SHRNUTÍ PRO VÁS
-
-### SILNÉ BODY (které DPD "zaleknou"):
-
-1. **§ 2912 OZ - kogentní norma**
-   → § 2925 OZ je KOGENTNÍ
-   → VOP NEMŮŽE omezit odpovědnost dopravce
-   → VOP DPD je NEPLATNÉ
-
-2. **§ 2952 OZ - skutečné náklady**
-   → Faktura = DŮKAZ skutečných nákladů
-   → Nelze zpochybnit
-
-3. **Minimalizace škody**
-   → 17 100 Kč → 9 305 Kč
-   → Ušetřil jste DPD 7 795 Kč
-
-4. **Ventilátor byl OPRAVITELNÝ**
-   → Po opravě = plně funkční repasovaný díl
-   → NE "opotřebený díl na odpis"
-   → Repasovaný díl nebyl po ztrátě dostupný
-
-5. **Soud použije zákon, ne VOP**
-   → DPD PROHRAJE u soudu
-   → Bude muset zaplatit víc (úroky + náklady řízení)
-
-
-### SLABŠÍ BODY (které můžete vylepšit):
-
-1. **Doklad o zaplacení dopravy DPD 100 Kč**
-   → Přiložte jako přílohu (email s potvrzením, výpis z účtu)
-
-
----
-
-**Soubor připraven k odeslání!**
-**Stačí doplnit číslo účtu a přiložit přílohy.**
-
-Hodně štěstí! 💪
-
-**PS: Pokud DPD odpoví s odmítnutím, řekněte mi a připravím vám:**
-- **Podnět pro ČOI** (s odkazem na § 2912 OZ - kogentní norma)
-- **Žalobu k soudu** (s právní argumentací)
