@@ -127,9 +127,10 @@ c) **Výzva k DPD:**
 
    Pokud tvrdíte, že hodnota ventilátoru je 2 500 Kč, pak:
 
-   → Sežeňte mi prosím funkční ventilátor EBM Papst
-      RG128/1300-3612-020204 (varianta 020204) za 2 500 Kč
-      a dodejte mi ho
+   → Dodejte mi prosím v řádném termínu reklamačního řízení funkční
+      (repasovaný) ventilátor EBM Papst RG128/1300-3612-020204
+      (varianta 020204) a dodejte mi ho (doplatím vám 1 500 Kč,
+      což by mě stála oprava mého ventilátoru)
 
    Pokud to dokážete → problém vyřešen, reklamaci považuji za vyřízenou
 
