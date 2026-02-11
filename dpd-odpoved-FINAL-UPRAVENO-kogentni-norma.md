@@ -54,7 +54,13 @@ DPD po 8 dnech (14.1.2026) přiznalo, že neví kde balík je.
 V tu chvíli:
 → Venku mrzlo (leden 2026, teploty pod -10°C)
 → Kotel jsem musel vypnout (bez ventilátoru by se poškodil)
-→ Nevěděl jsem, jestli a kdy DPD balík najde
+→ Věděl jsem, že musím jednat, protože neschopnost DPD zjistit,
+   že je balík ztracený rychle, mi dávala jistotu, že DPD nezajistí
+   ani náhradní díl rychle
+→ Hrozilo, že by DPD muselo hradit ještě větší škodu způsobenou
+   tím, že popraskají v bytě trubky
+→ Z toho důvodu jsem objednal ventilátor ihned po přiznání DPD,
+   že je díl nenávratně ztracen
 → Nemohl jsem čekat (doma malé děti, riziko zamrznutí potrubí)
 
 Musel jsem OKAMŽITĚ koupit náhradní ventilátor.
@@ -476,7 +482,13 @@ Dne 14. ledna 2026 jste potvrdili, že "nevíte kde zásilka je".
 V té době:
 → Venku mrzlo (leden 2026, teploty pod -10°C)
 → Kotel bez ventilátoru NELZE provozovat (riziko poškození)
-→ Nevěděl jsem, zda a kdy zásilku najdete
+→ Věděl jsem, že musím jednat, protože vaše neschopnost zjistit,
+   že je balík ztracený rychle, mi dávala jistotu, že nezajistíte
+   ani náhradní díl rychle
+→ Hrozilo, že byste museli hradit ještě větší škodu způsobenou
+   tím, že popraskají v bytě trubky
+→ Z toho důvodu jsem objednal ventilátor ihned po vašem přiznání,
+   že je díl nenávratně ztracen
 → Nemohl jsem čekat (zdraví rodiny, riziko zamrznutí potrubí)
 
 2. Povinnost minimalizovat škodu
