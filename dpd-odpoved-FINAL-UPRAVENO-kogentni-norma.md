@@ -99,22 +99,10 @@ d) **Doprava DPD (nerealizovaná služba)**
    → **POŽADUJI VRÁCENÍ 100 KČ**
 
 
-4. JAK JSEM VÁM UŠETŘIL PENÍZE
+4. POŽADOVANÁ ČÁSTKA
 
-Kdybych NEJEDNAL zodpovědně a NEMINIMALIZOVAL škodu:
-
-Mohl jsem:
-→ Koupit ventilátor za 15 000 Kč s expresním dodáním do druhého dne
-→ Nechat montáž udělat topenářem za 2 000 Kč
-→ Celkem požadovat: 15 000 + 2 000 + 100 = **17 100 Kč**
-
-Místo toho jsem:
-→ Zvolil levnější variantu za 9 205 Kč s delší dodací lhůtou
-→ Kvůli DPD jsem mrznul déle bez funkčního vytápění, abych vám ušetřil peníze
-→ Montáž provedl sám (ušetřil jsem vám 2 000 Kč)
-→ Požaduji jen skutečné náklady: **9 305 Kč**
-
-**Ušetřil jsem vám 7 795 Kč tím, že jsem minimalizoval škodu.**
+Na základě ztráty zásilky a nutnosti koupit náhradní ventilátor
+**požaduji úhradu škody ve výši 9 305 Kč.**
 
 
 5. PROČ 2 500 KČ NEKRYJE SKUTEČNOU ŠKODU
@@ -129,9 +117,11 @@ a) **Ventilátor nebyl nefunkční - byl OPRAVITELNÝ**
    → Po ztrátě zásilky nebyl repasovaný díl dostupný
 
 b) **Nemůžu koupit funkční ventilátor za 2 500 Kč**
-   → Nový stojí 9 000 - 15 000 Kč
+   → Nový díl, který jsem v ČR mohl zakoupit s dodáním kratším než týden,
+     byl dostupný za 18 956,00 Kč
    → Repasovaný/použitý funkční ventilátor nebyl dostupný
-   → Musel jsem koupit nový ventilátor za 9 205 Kč
+   → Musel jsem koupit nový ventilátor (ne kvůli svému rozmaru,
+     ale kvůli chybě DPD)
 
 c) **Výzva k DPD:**
 
@@ -151,7 +141,7 @@ c) **Výzva k DPD:**
 Očekávám náhradu SKUTEČNÝCH nákladů, které jste mi způsobili:
 
 → Ztratili jste můj opravitelný ventilátor (repasovaný díl nebyl dostupný)
-→ Musel jsem urgentně koupit nový ventilátor (zaplatil jsem 9 205 Kč)
+→ Musel jsem urgentně koupit nový ventilátor (zaplatil jsem za náhradní ventilátor)
 → Nerealizovali jste dopravu (vrácení 100 Kč)
 → Montáž jsem provedl sám (ušetřil jsem vám 2 000 Kč)
 
@@ -262,7 +252,7 @@ VÝSLEDEK: VOP DPD je NEPLATNÉ (§ 2912 OZ - kogentní norma)
 
 **Vaše situace:**
 → DPD ztratilo ventilátor → § 2925 OZ (KOGENTNÍ odpovědnost)
-→ Musel jste koupit nový za 9 205 Kč → § 2952 OZ (skutečné náklady)
+→ Musel jste koupit nový náhradní ventilátor → § 2952 OZ (skutečné náklady)
 → **Zákon říká: DPD musí uhradit 9 305 Kč**
 
 **VOP DPD říká:**
@@ -379,8 +369,7 @@ c) **Funkční věc má hodnotu podle TRŽNÍ CENY náhrady**
 
    → Hodnota funkční věci ≠ účetní amortizace
    → Hodnota = kolik stojí pořídit FUNKČNÍ náhradu
-   → Funkční náhrada stojí 9 205 Kč (faktura Termogo)
-
+   → Funkční náhrada stojí částku za náhradní ventilátor 
    Nelze aplikovat lineární amortizaci na funkční majetek!
 
 
@@ -395,14 +384,14 @@ se škodnou událostí..."
 Klíčové slovo: **"bylo SKUTEČNĚ vynaloženo"**
 
 V mém případě:
-→ Bylo vynaloženo 9 205 Kč na nákup náhradního ventilátoru
+→ Bylo vynaloženo částku za náhradní ventilátor na nákup náhradního ventilátoru
 → Tuto částku jsem vynaložil v PŘÍMÉ souvislosti s tím, že jste
    ztratili mou zásilku
 → Po ztrátě zásilky nebyl repasovaný díl dostupný
 
 **Skutečná škoda:**
 ```
-= Nový ventilátor (9 205 Kč)
+= Nový ventilátor (náhradní ventilátor)
 + Doprava DPD (nerealizovaná, 100 Kč)
 ────────────────────────────────────
 = 9 305 Kč
@@ -452,7 +441,7 @@ V té době:
 Podle § 2900 a násl. Občanského zákoníku:
 → Poškozený má povinnost přiměřeně **minimalizovat škodu**
 → Tuto povinnost jsem splnil:
-   - Hledal jsem NEJLEVNĚJŠÍ dostupnou variantu (9 205 Kč místo 15 000 Kč)
+   - Hledal jsem NEJLEVNĚJŠÍ dostupnou variantu (náhradní ventilátor místo 15 000 Kč)
    - Montáž jsem provedl sám (ušetřil 2 000 Kč)
    - Ušetřil jsem DPD celkem **7 795 Kč**
 
@@ -478,7 +467,6 @@ pro kotle Geminox):
 → České e-shopy: NENÍ skladem nebo 12 000 - 15 000 Kč
 → Repasovaný díl: 3 500 - 5 000 Kč (nebyl okamžitě dostupný)
 → Použitý díl za 2 500 Kč: **NEEXISTUJE** na trhu
-→ Nejlevnější DOSTUPNÁ varianta: 363,85 EUR = 9 205 Kč (Termogo)
 
 2. Výzva k DPD
 
@@ -498,7 +486,7 @@ Podle konstantní judikatury českých soudů:
 → Skutečná škoda = náklady nutné k obnovení stavu, který tu byl
    před škodnou událostí
 → V mém případě = náklady na pořízení funkčního náhradního
-   ventilátoru = 9 205 Kč
+   ventilátoru = částku za náhradní ventilátor
 → Plus vrácení nerealizované dopravy = 100 Kč
 → **Celkem: 9 305 Kč**
 
@@ -530,19 +518,14 @@ náhradu škody v následující výši:
 ┌─────────────────────────────────────────────────────────────────┐
 │ POLOŽKA                                    │ ČÁSTKA             │
 ├────────────────────────────────────────────┼────────────────────┤
-│ Nový náhradní ventilátor                   │  9 205 Kč         │
-│ Termogo S.R.L., 14.1.2026                  │                    │
-│ 363,85 EUR × 25,295 Kč/EUR                 │                    │
-│ Faktura č. WFKQUJJMU (příloha)             │                    │
+│ Nový náhradní ventilátor                   │                   │
+│ (faktura přiložena)                        │                    │
 │                                            │                    │
 │ Doprava DPD (nerealizovaná služba)         │    100 Kč         │
 │ Vrácení zaplacené částky (§ 2002 OZ)       │                    │
 │                                            │                    │
 │ Montáž (provedena vlastními silami)        │      0 Kč         │
 │ **NEUPLATŇUJI** (ušetřená částka 2 000 Kč) │                    │
-│                                            │                    │
-│ Doprava nového ventilátoru (Termogo)       │      0 Kč         │
-│ (zdarma od dodavatele)                     │                    │
 ├────────────────────────────────────────────┼────────────────────┤
 │ **CELKEM**                                 │ **9 305 Kč**      │
 └─────────────────────────────────────────────────────────────────┘
@@ -662,7 +645,7 @@ Fakta mého případu:
 → Ventilátor nebyl nefunkční - byl OPRAVITELNÝ
 → Po opravě bych dostal zpět plně funkční repasovaný ventilátor
 → DPD zásilku ztratilo - repasovaný díl nebyl dostupný
-→ Musel jsem urgentně koupit nový ventilátor za 9 205 Kč
+→ Musel jsem urgentně koupit nový ventilátor náhradní ventilátor
 → Zaplatil jsem DPD 100 Kč za dopravu, kterou jste nerealizovali
 → Snažil jsem se minimalizovat škodu:
    - Zvolil levnější variantu s delší dodací lhůtou (místo expresního dodání)
@@ -704,7 +687,7 @@ Email: petr.komarek2@gmail.com
 
 
 Přílohy:
-1. Faktura Termogo S.R.L. č. WFKQUJJMU ze 14.1.2026 (363,85 EUR = 9 205 Kč)
+1. Faktura za náhradní ventilátor ze 14.1.2026
 ```
 
 ---
@@ -712,7 +695,7 @@ Přílohy:
 ## 📋 CHECKLIST PŘED ODESLÁNÍM
 
 ### ✅ Co máte:
-- [x] Fakturu Termogo (363,85 EUR = 9 205 Kč)
+- [x] Fakturu za náhradní ventilátor
 - [x] Datum nákupu (14.1.2026)
 - [x] Důkaz o zaplacení (platební karta)
 - [x] Doklad o zaplacení dopravy DPD (100 Kč)
@@ -723,7 +706,7 @@ Přílohy:
 - [x] **Číslo účtu: 379464001/5500** - doplněno ✅
 
 **Přílohy k emailu:**
-- [ ] Faktura Termogo S.R.L. (PDF/screenshot)
+- [ ] Faktura za náhradní ventilátor (PDF/screenshot)
 - [ ] Doklad o zaplacení dopravy DPD 100 Kč (email s potvrzením objednávky, výpis z účtu)
 
 ---
@@ -801,9 +784,6 @@ Modletice 135
 ```
 │ Montáž (provedena vlastními silami)        │      0 Kč         │
 │ **NEUPLATŇUJI** (ušetřená částka 2 000 Kč) │                    │
-│                                            │                    │
-│ Doprava nového ventilátoru (Termogo)       │      0 Kč         │
-│ (zdarma od dodavatele)                     │                    │
 ```
 
 **Proč je to důležité:**
@@ -851,7 +831,7 @@ Modletice 135
    → VOP DPD je NEPLATNÉ
 
 2. **§ 2952 OZ - skutečné náklady**
-   → Faktura Termogo = DŮKAZ (9 205 Kč)
+   → Faktura = DŮKAZ skutečných nákladů
    → Nelze zpochybnit
 
 3. **Minimalizace škody**
