@@ -49,7 +49,7 @@ Jinými slovy:
 
 2. CO SE STALO PO ZTRÁTĚ ZÁSILKY
 
-DPD po 4 dnech (14.1.2026) přiznalo, že neví kde balík je.
+DPD po 8 dnech (14.1.2026) přiznalo, že neví kde balík je.
 
 V tu chvíli:
 → Venku mrzlo (leden 2026, teploty pod 0°C)
