@@ -83,29 +83,6 @@ a) **Hledání náhradního ventilátoru (14.1.2026 ráno)**
 
 b) **Nákup ventilátoru (14.1.2026 v 11:47)**
 
-   Nakonec jsem našel italského dodavatele Termogo S.R.L., který měl
-   díl skladem a mohl ho expedovat okamžitě:
-
-   ┌──────────────────────────────────────────────────────────┐
-   │ FAKTURA TERMOGO S.R.L. - Ordine: WFKQUJJMU              │
-   │ Datum: 14/01/2026 11:47:47                               │
-   ├──────────────────────────────────────────────────────────┤
-   │ Ventilator EBM RG128/1300-3612-020204                    │
-   │ Kód: 87168314640                                         │
-   │                                                          │
-   │ Cena ventilátoru:        383,00 EUR                      │
-   │ Sleva:                   -19,15 EUR                      │
-   │ DPH (Itálie):            69,07 EUR                       │
-   │ Doprava:                  0,00 EUR (ZDARMA)              │
-   │ ─────────────────────────────────────────────────────    │
-   │ CELKEM ZAPLACENO:        363,85 EUR                      │
-   │                                                          │
-   │ Přepočet kurz ČNB 14.1.2026: 25,295 Kč/EUR              │
-   │ = 363,85 EUR × 25,295 = **9 205 Kč**                    │
-   └──────────────────────────────────────────────────────────┘
-
-   Faktura je přiložena jako příloha č. 1.
-
 
 c) **Montáž ventilátoru**
 
@@ -120,27 +97,6 @@ d) **Doprava DPD (nerealizovaná služba)**
    → DPD však dopravu **NEREALIZOVALO** (zásilka ztracena)
    → Podle § 2002 OZ mám nárok na vrácení peněz za nesplněné plnění
    → **POŽADUJI VRÁCENÍ 100 KČ**
-
-
-e) **Celková škoda**
-
-   ┌─────────────────────────────────────────────────────────┐
-   │ POLOŽKA                                  │ ČÁSTKA       │
-   ├──────────────────────────────────────────┼──────────────┤
-   │ Nový náhradní ventilátor (urgentní nákup)│  9 205 Kč   │
-   │ Termogo S.R.L., faktura ze 14.1.2026     │              │
-   │                                          │              │
-   │ Doprava DPD (nerealizovaná služba)       │    100 Kč   │
-   │ Vrácení zaplacené částky za dopravu      │              │
-   │                                          │              │
-   │ Montáž (provedena vlastními silami)      │      0 Kč   │
-   │ **NEUPLATŇUJI** (ušetřil jsem 2 000 Kč) │              │
-   │                                          │              │
-   │ Expresní doprava nového ventilátoru      │      0 Kč   │
-   │ (zdarma od Termogo)                      │              │
-   ├──────────────────────────────────────────┼──────────────┤
-   │ **CELKEM**                               │ **9 305 Kč** │
-   └─────────────────────────────────────────────────────────┘
 
 
 4. JAK JSEM VÁM UŠETŘIL PENÍZE
