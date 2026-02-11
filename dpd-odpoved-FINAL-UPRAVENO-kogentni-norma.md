@@ -33,18 +33,18 @@ Stav ventilátoru před odesláním:
 → Ventilátor fungoval SPORADICKY (občas se zasekl)
 → Kotel kvůli tomu vykazoval chybovou hlášku č. 160
 → Nešlo o nefunkční díl "na odpis" - šlo o ZNÁMOU opravitelnou poruchu
-→ Technik mi potvrdil, že oprava je možná za 1 500 Kč
+→ Ventilátor jsem posílal na servisní opravu
 
-Co měla zahrnovat oprava za 1 500 Kč:
+Co měla zahrnovat oprava:
 → Opravu známé elektronické poruchy (zasekávání)
 → Preventivní výměnu dalších součástek
-→ Výsledek: **TÉMĚŘ NOVÝ FUNKČNÍ VENTILÁTOR** za 1 500 Kč
+→ Výsledek: PLNĚ FUNKČNÍ REPASOVANÝ VENTILÁTOR
 
 Jinými slovy:
 → Neposílal jsem "starý nefunkční díl na smetiště"
 → Posílal jsem OPRAVITELNÝ ventilátor na servis
-→ Po opravě bych dostal zpět téměř nový díl za 1 500 Kč
-→ To má REÁLNOU HODNOTU 1 500 Kč (téměř nový ventilátor)
+→ Po opravě bych dostal zpět plně funkční repasovaný díl
+→ **Repasovaný díl však po ztrátě zásilky nebyl dostupný**
 
 
 2. CO SE STALO PO ZTRÁTĚ ZÁSILKY
@@ -121,9 +121,6 @@ e) **Celková škoda**
    ┌─────────────────────────────────────────────────────────┐
    │ POLOŽKA                                  │ ČÁSTKA       │
    ├──────────────────────────────────────────┼──────────────┤
-   │ Ztracená oprava ventilátoru              │  1 500 Kč   │
-   │ (téměř nový ventilátor za 1500 Kč)       │              │
-   │                                          │              │
    │ Nový náhradní ventilátor (urgentní nákup)│  9 205 Kč   │
    │ Termogo S.R.L., faktura ze 14.1.2026     │              │
    │                                          │              │
@@ -136,7 +133,7 @@ e) **Celková škoda**
    │ Expresní doprava nového ventilátoru      │      0 Kč   │
    │ (zdarma od Termogo)                      │              │
    ├──────────────────────────────────────────┼──────────────┤
-   │ **CELKEM**                               │ **10 805 Kč**│
+   │ **CELKEM**                               │ **9 305 Kč** │
    └─────────────────────────────────────────────────────────┘
 
 
@@ -147,12 +144,12 @@ Kdybych NEJEDNAL zodpovědně a NEMINIMALIZOVAL škodu:
 Mohl jsem:
 → Koupit ventilátor za 15 000 Kč (měl jsem takové nabídky)
 → Nechat montáž udělat topenářem za 2 000 Kč
-→ Celkem požadovat: 1 500 + 15 000 + 2 000 + 100 = **18 600 Kč**
+→ Celkem požadovat: 15 000 + 2 000 + 100 = **17 100 Kč**
 
 Místo toho jsem:
 → Hledal nejlevnější dostupnou variantu (9 205 Kč)
 → Montáž provedl sám (ušetřil 2 000 Kč)
-→ Požaduji jen skutečné náklady: **10 805 Kč**
+→ Požaduji jen skutečné náklady: **9 305 Kč**
 
 **Ušetřil jsem vám 7 795 Kč tím, že jsem minimalizoval škodu.**
 
@@ -164,14 +161,14 @@ Píšete, že ventilátor podléhá amortizaci kvůli stáří (2007).
 Ale:
 
 a) **Ventilátor nebyl nefunkční - byl OPRAVITELNÝ**
-   → Za 1 500 Kč bych dostal téměř nový ventilátor zpět
-   → To není "opotřebená věc na odpis", to je věc s reálnou hodnotou opravy
-   → Hodnota opravy = 1 500 Kč (téměř nový ventilátor)
+   → Po opravě bych dostal zpět plně funkční repasovaný díl
+   → To není "opotřebená věc na odpis", to je věc s reálnou hodnotou
+   → Po ztrátě zásilky nebyl repasovaný díl dostupný
 
 b) **Nemůžu koupit funkční ventilátor za 2 500 Kč**
    → Nový stojí 9 000 - 15 000 Kč
-   → Repasovaný 3 500 - 5 000 Kč
-   → Použitý za 2 500 Kč NEEXISTUJE
+   → Repasovaný/použitý funkční ventilátor nebyl dostupný
+   → Musel jsem koupit nový ventilátor za 9 205 Kč
 
 c) **Výzva k DPD:**
 
@@ -190,16 +187,12 @@ c) **Výzva k DPD:**
 
 Očekávám náhradu SKUTEČNÝCH nákladů, které jste mi způsobili:
 
-→ Ztratili jste můj opravitelný ventilátor (hodnota opravy 1 500 Kč)
-→ Musel jsem urgentně koupit nový (zaplatil jsem 9 205 Kč)
+→ Ztratili jste můj opravitelný ventilátor (repasovaný díl nebyl dostupný)
+→ Musel jsem urgentně koupit nový ventilátor (zaplatil jsem 9 205 Kč)
 → Nerealizovali jste dopravu (vrácení 100 Kč)
 → Montáž jsem provedl sám (ušetřil jsem vám 2 000 Kč)
 
-**Celková škoda: 10 805 Kč**
-
-To je MÉNĚ než maximum, které jsem mohl požadovat (18 600 Kč).
-To je VÍCE než vaše nabídka (2 500 Kč).
-To je SPRAVEDLIVÉ - skutečně vynaložené náklady.
+**Celková škoda: 9 305 Kč**
 
 
 ═══════════════════════════════════════════════════════════════════
@@ -208,7 +201,7 @@ PRÁVNÍ ODŮVODNĚNÍ MÉHO NÁROKU
 
 Nyní mi dovolte uvést formální právní odůvodnění, proč Vaše nabídka
 2 500 Kč je v rozporu se zákonem a proč máte povinnost uhradit mi
-částku 10 805 Kč:
+částku 9 305 Kč:
 
 
 I. § 2925 OZ - ODPOVĚDNOST DOPRAVCE JE KOGENTNÍ
@@ -295,7 +288,7 @@ VOP DPD (oddíl 3.5):         "Uhradíme jen AMORTIZOVANOU částku"
 ─────────────────────────────────────────────────────────────
 
 VÝSLEDEK: VOP DPD je NEPLATNÉ (§ 2912 OZ - kogentní norma)
-          Použije se ZÁKON → skutečná škoda = 10 805 Kč
+          Použije se ZÁKON → skutečná škoda = 9 305 Kč
 ```
 
 **§ 2925 OZ říká:**
@@ -307,7 +300,7 @@ VÝSLEDEK: VOP DPD je NEPLATNÉ (§ 2912 OZ - kogentní norma)
 **Vaše situace:**
 → DPD ztratilo ventilátor → § 2925 OZ (KOGENTNÍ odpovědnost)
 → Musel jste koupit nový za 9 205 Kč → § 2952 OZ (skutečné náklady)
-→ **Zákon říká: DPD musí uhradit 10 805 Kč**
+→ **Zákon říká: DPD musí uhradit 9 305 Kč**
 
 **VOP DPD říká:**
 → "Amortizace → jen 2 500 Kč"
@@ -315,7 +308,7 @@ VÝSLEDEK: VOP DPD je NEPLATNÉ (§ 2912 OZ - kogentní norma)
 **Konflikt:**
 → VOP je v rozporu s KOGENTNÍ normou § 2925 OZ
 → **VOP je NEPLATNÉ** (§ 1726 OZ - nepřiměřené zkrácení práv)
-→ **Použije se ZÁKON** → skutečná škoda = 10 805 Kč
+→ **Použije se ZÁKON** → skutečná škoda = 9 305 Kč
 
 
 5. Proč by se mělo DPD bát?
@@ -327,7 +320,7 @@ a) **Soud VŽDY použije zákon místo VOP**
    → Soud řekne: "§ 2925 OZ je KOGENTNÍ"
    → Soud řekne: "VOP DPD je v rozporu s kogentním ustanovením"
    → Soud řekne: "VOP je NEPLATNÉ"
-   → Soud použije ZÁKON → 10 805 Kč (+ úroky + náklady řízení)
+   → Soud použije ZÁKON → 9 305 Kč (+ úroky + náklady řízení)
 
    **DPD PROHRAJE.**
 
@@ -361,11 +354,11 @@ c) **Precedens pro další případy**
 
 **Podle § 1726 OZ:**
 → Nepřiměřené zkrácení práv spotřebitele = NEPLATNÉ ujednání
-→ Snížení z 10 805 Kč na 2 500 Kč = nepřiměřené (o 77 %)
+→ Snížení z 9 305 Kč na 2 500 Kč = nepřiměřené (o 77 %)
 
 **Proto:**
 → Vaše nabídka 2 500 Kč je v rozporu se zákonem
-→ Máte povinnost uhradit 10 805 Kč
+→ Máte povinnost uhradit 9 305 Kč
 
 
 II. AMORTIZACE JE V MÉM PŘÍPADĚ NEAPLIKOVATELNÁ
@@ -388,7 +381,7 @@ a) **Ventilátor nebyl "opotřebený nefunkční díl"**
    Můj ventilátor:
    → Fungoval SPORADICKY (nebyl úplně nefunkční)
    → Šel na OPRAVU známé poruchy (zasekávání)
-   → Hodnota opravy 1 500 Kč = téměř nový ventilátor
+   → Po opravě = plně funkční repasovaný ventilátor
    → To není "opotřebení", to je OPRAVITELNÁ technická závada
 
    Analogie:
@@ -442,16 +435,14 @@ V mém případě:
 → Bylo vynaloženo 9 205 Kč na nákup náhradního ventilátoru
 → Tuto částku jsem vynaložil v PŘÍMÉ souvislosti s tím, že jste
    ztratili mou zásilku
-→ Bez ztráty zásilky bych zaplatil jen 1 500 Kč za opravu
+→ Po ztrátě zásilky nebyl repasovaný díl dostupný
 
 **Skutečná škoda:**
 ```
 = Nový ventilátor (9 205 Kč)
-- Ušetřená oprava (1 500 Kč)
-+ Ztracená hodnota opravy (1 500 Kč)
 + Doprava DPD (nerealizovaná, 100 Kč)
 ────────────────────────────────────
-= 10 805 Kč
+= 9 305 Kč
 ```
 
 **Amortizace se NEUPLATŇUJE na následnou škodu podle § 2952 OZ!**
@@ -539,9 +530,8 @@ Podle konstantní judikatury českých soudů:
    před škodnou událostí
 → V mém případě = náklady na pořízení funkčního náhradního
    ventilátoru = 9 205 Kč
-→ Plus ztracená hodnota opravy = 1 500 Kč
 → Plus vrácení nerealizované dopravy = 100 Kč
-→ **Celkem: 10 805 Kč**
+→ **Celkem: 9 305 Kč**
 
 To je má skutečná škoda a na tuto částku mám nárok.
 
@@ -571,9 +561,6 @@ náhradu škody v následující výši:
 ┌─────────────────────────────────────────────────────────────────┐
 │ POLOŽKA                                    │ ČÁSTKA             │
 ├────────────────────────────────────────────┼────────────────────┤
-│ Ztracená oprava ventilátoru                │  1 500 Kč         │
-│ (hodnota téměř nového ventilátoru)         │                    │
-│                                            │                    │
 │ Nový náhradní ventilátor                   │  9 205 Kč         │
 │ Termogo S.R.L., 14.1.2026                  │                    │
 │ 363,85 EUR × 25,295 Kč/EUR                 │                    │
@@ -588,16 +575,15 @@ náhradu škody v následující výši:
 │ Doprava nového ventilátoru (Termogo)       │      0 Kč         │
 │ (zdarma od dodavatele)                     │                    │
 ├────────────────────────────────────────────┼────────────────────┤
-│ **CELKEM**                                 │ **10 805 Kč**     │
+│ **CELKEM**                                 │ **9 305 Kč**      │
 └─────────────────────────────────────────────────────────────────┘
 
 **Poznámka k minimalizaci škody:**
 Maximální škoda, kterou jsem mohl požadovat:
 - Ventilátor za 15 000 Kč (měl jsem takové nabídky)
 - Montáž 2 000 Kč
-- Ztracená oprava 1 500 Kč
 - Doprava DPD 100 Kč
-- **CELKEM: 18 600 Kč**
+- **CELKEM: 17 100 Kč**
 
 Tím, že jsem našel levnější řešení a montáž provedl sám,
 **jsem DPD ušetřil 7 795 Kč**.
@@ -611,7 +597,7 @@ Platební údaje:
 
 IX. VAROVÁNÍ A DALŠÍ POSTUP
 
-V případě, že nebude náhrada škody ve výši 10 805 Kč uhrazena
+V případě, že nebude náhrada škody ve výši 9 305 Kč uhrazena
 do 14. února 2026, budu nucen přistoupit k následujícím krokům:
 
 1. **Podání podnětu na Českou obchodní inspekci (ČOI)**
@@ -631,7 +617,7 @@ do 14. února 2026, budu nucen přistoupit k následujícím krokům:
 2. **Podání žaloby o náhradu škody k příslušnému soudu**
 
    Nárok:
-   → Výše škody: 10 805 Kč
+   → Výše škody: 9 305 Kč
    → Úroky z prodlení (od 15. února 2026)
    → Náhrada nákladů řízení (soudní poplatek 1 000 Kč,
      ev. náklady právního zastoupení)
@@ -654,7 +640,7 @@ do 14. února 2026, budu nucen přistoupit k následujícím krokům:
    **SOUD POUŽIJE ZÁKON (§ 2925 OZ), NE VOP.**
    **DPD PROHRAJE.**
 
-   **Při soudním řízení budu požadovat PLNOU částku 10 805 Kč
+   **Při soudním řízení budu požadovat PLNOU částku 9 305 Kč
    + úroky z prodlení + náklady řízení (celkem cca 12 000 - 15 000 Kč).**
 
 
@@ -701,15 +687,15 @@ NEMOHOU být v rozporu se zákonem.
 
 
 Fakta mého případu:
-→ Ventilátor nebyl nefunkční - byl OPRAVITELNÝ za 1 500 Kč
-→ Za 1 500 Kč bych dostal téměř nový ventilátor zpět
-→ DPD zásilku ztratilo
+→ Ventilátor nebyl nefunkční - byl OPRAVITELNÝ
+→ Po opravě bych dostal zpět plně funkční repasovaný ventilátor
+→ DPD zásilku ztratilo - repasovaný díl nebyl dostupný
 → Musel jsem urgentně koupit nový ventilátor za 9 205 Kč
 → Zaplatil jsem DPD 100 Kč za dopravu, kterou jste nerealizovali
 → Snažil jsem se minimalizovat škodu (našel nejlevnější variantu,
    montáž sám)
-→ Ušetřil jsem DPD 7 795 Kč (mohlo být 18 600 Kč)
-→ Požaduji jen SKUTEČNÉ náklady: 10 805 Kč
+→ Ušetřil jsem DPD 7 795 Kč (mohlo být 17 100 Kč)
+→ Požaduji jen SKUTEČNÉ náklady: 9 305 Kč
 
 **To je spravedlivé. To je v souladu se zákonem.**
 
@@ -729,7 +715,7 @@ Nežádám víc, než kolik jsem skutečně zaplatil.
 Nežádám nic nereálného.
 Žádám jen to, co mi zákon dává - náhradu skutečných nákladů.
 
-**10 805 Kč.**
+**9 305 Kč.**
 
 **Pokud to nepřijmete, soud použije § 2925 OZ (kogentní) a DPD prohraje.**
 **VOP nemůže být nad zákonem.**
@@ -821,12 +807,13 @@ Modletice 135
 "Ventilátor fungoval sporadicky"
 
 **NYNÍ (SPRÁVNĚ):**
-"ROZBITÝ ventilátor šel NA OPRAVU za 1 500 Kč"
-"Po opravě = TÉMĚŘ NOVÝ ventilátor za 1 500 Kč"
+"ROZBITÝ ventilátor šel NA OPRAVU"
+"Po opravě = PLNĚ FUNKČNÍ REPASOVANÝ ventilátor"
+"Po ztrátě zásilky nebyl repasovaný díl dostupný"
 
 **Proč je to důležité:**
 → Zdůrazňuje, že to nebyl "nefunkční díl na odpis"
-→ Zdůrazňuje HODNOTU OPRAVY = 1 500 Kč (téměř nový díl)
+→ Zdůrazňuje, že šlo o opravitelnou technickou závadu
 → Silnější argument proti amortizaci
 
 
@@ -838,7 +825,7 @@ Modletice 135
 │ Vrácení zaplacené částky (§ 2002 OZ)     │              │
 ```
 
-**NOVÁ CELKOVÁ ČÁSTKA: 10 805 Kč** (bylo 10 705 Kč)
+**NOVÁ CELKOVÁ ČÁSTKA: 9 305 Kč** (bylo 10 705 Kč)
 
 **Právní základ:** § 2002 OZ - vrácení peněz za nesplněné plnění
 
@@ -868,7 +855,7 @@ Modletice 135
 → Precedens pro další případy → **DPD ztratí víc peněz**
 
 **Proč je to důležité:**
-→ DPD pochopí ekonomickou logiku: "Levnější je zaplatit 10 805 Kč než se soudit"
+→ DPD pochopí ekonomickou logiku: "Levnější je zaplatit 9 305 Kč než se soudit"
 → DPD pochopí riziko: "Můžeme dostat pokutu + špatnou publicitu"
 
 
@@ -883,7 +870,7 @@ Modletice 135
 **→ Co udělat:** Připomenout § 2912 OZ (kogentní norma)
 **→ Pak:** ČOI + soud (máte VELMI silné argumenty)
 
-### Možná reakce 3: Akceptace 10 805 Kč
+### Možná reakce 3: Akceptace 9 305 Kč
 **→ Co udělat:** ✅ Problém vyřešen!
 
 ---
@@ -902,12 +889,13 @@ Modletice 135
    → Nelze zpochybnit
 
 3. **Minimalizace škody**
-   → 18 600 Kč → 10 805 Kč
+   → 17 100 Kč → 9 305 Kč
    → Ušetřil jste DPD 7 795 Kč
 
 4. **Ventilátor byl OPRAVITELNÝ**
-   → Hodnota opravy = 1 500 Kč (téměř nový)
+   → Po opravě = plně funkční repasovaný díl
    → NE "opotřebený díl na odpis"
+   → Repasovaný díl nebyl po ztrátě dostupný
 
 5. **Soud použije zákon, ne VOP**
    → DPD PROHRAJE u soudu
