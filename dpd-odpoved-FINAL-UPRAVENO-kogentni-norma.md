@@ -49,7 +49,8 @@ Jinými slovy:
 
 2. CO SE STALO PO ZTRÁTĚ ZÁSILKY
 
-DPD po 8 dnech (14.1.2026) přiznalo, že neví kde balík je.
+DPD po 8 dnech (14.1.2026) přiznalo, že balík je nenávratně ztracen
+a doporučilo mi zakoupit nový díl (hovor si nahrávate, tak si to ověřte).
 
 V tu chvíli:
 → Venku mrzlo (leden 2026, teploty pod -10°C)
@@ -434,7 +435,8 @@ V. URGENTNÍ SITUACE ODŮVODŇOVALA NÁKUP NOVÉHO DÍLU
 
 1. Skutkový stav
 
-Dne 14. ledna 2026 jste potvrdili, že "nevíte kde zásilka je".
+Dne 14. ledna 2026 jste potvrdili, že zásilka je nenávratně ztracena
+a doporučili jste mi zakoupit nový díl (hovor si nahrávate, ověřte si to).
 
 V té době:
 → Venku mrzlo (leden 2026, teploty pod -10°C)
