@@ -146,7 +146,7 @@ Očekávám náhradu SKUTEČNÝCH nákladů, které jste mi způsobili:
 → Nerealizovali jste dopravu (vrácení 100 Kč)
 → Montáž jsem provedl sám (ušetřil jsem vám 2 000 Kč)
 
-**Celková škoda: 9 305 Kč**
+**Návrh na kompenzaci: 9 305 Kč**
 
 
 ═══════════════════════════════════════════════════════════════════
