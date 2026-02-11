@@ -74,16 +74,10 @@ a) **Hledání náhradního ventilátoru (14.1.2026 ráno)**
    Začal jsem zoufale hledat ventilátor EBM Papst RG128/1300-3612-020204
    (varianta 020204 - specifická pro Geminox):
 
-   → České e-shopy: NENÍ skladem nebo cena 12 000 - 15 000 Kč
-   → Repasované: Nejsou okamžitě dostupné
-   → Zahraniční dodavatelé: Nalezeny nabídky od 12 000 do 15 000 Kč
-
-   V čestném prohlášení z 15.1. jsem uvedl odhad 15 000 Kč,
-   protože to byla reálná cenová hladina, kterou jsem v té době našel.
-
+   → e-shopy: NENÍ dostupný nebo cena 18 956 Kč
+   → Repasované: Nejsou dostupné
 
 b) **Nákup ventilátoru (14.1.2026 v 11:47)**
-
 
 c) **Montáž ventilátoru**
 
@@ -137,7 +131,7 @@ c) **Výzva k DPD:**
    → Dodejte mi prosím v řádném termínu reklamačního řízení funkční
       (repasovaný) ventilátor EBM Papst RG128/1300-3612-020204
       (varianta 020204) a dodejte mi ho (doplatím vám 1 500 Kč,
-      což by mě stála oprava mého ventilátoru)
+      což by mě stála oprava mého ventilátoru) a můžete si ode mě odkoupit zpět nový ventilátor, který jsem zakoupil ( cena za ventilátor Vás vyjde méně než faktura za náhradní bydlení a za opravu popraskaných trubek) abych odvrátil škodu na majektu
 
    Pokud to dokážete → problém vyřešen, reklamaci považuji za vyřízenou
 
