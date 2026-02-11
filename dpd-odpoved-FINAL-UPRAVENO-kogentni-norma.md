@@ -731,10 +731,6 @@ Email: petr.komarek2@gmail.com
 
 Přílohy:
 1. Faktura Termogo S.R.L. č. WFKQUJJMU ze 14.1.2026 (363,85 EUR = 9 205 Kč)
-2. Čestná prohlášení (již dříve doložená dne 15.1.2026)
-3. Screenshot kurzu ČNB k 14.1.2026 (25,295 Kč/EUR)
-4. Fotodokumentace nefunkčního kotle
-5. Kopie emailové korespondence s DPD
 ```
 
 ---
@@ -745,7 +741,6 @@ Přílohy:
 - [x] Fakturu Termogo (363,85 EUR = 9 205 Kč)
 - [x] Datum nákupu (14.1.2026)
 - [x] Důkaz o zaplacení (platební karta)
-- [x] Čestná prohlášení (z 15.1.2026)
 - [x] Doklad o zaplacení dopravy DPD (100 Kč)
 
 ### ⚠️ CO JEŠTĚ MUSÍTE DOPLNIT:
@@ -755,9 +750,6 @@ Přílohy:
 
 **Přílohy k emailu:**
 - [ ] Faktura Termogo S.R.L. (PDF/screenshot)
-- [ ] Screenshot kurzu ČNB k 14.1.2026 (https://www.cnb.cz/cs/financni-trhy/devizovy-trh/kurzy-devizoveho-trhu/kurzy-devizoveho-trhu/)
-- [ ] Fotografie nefunkčního kotle (pokud máte)
-- [ ] Čestná prohlášení z 15.1.2026
 - [ ] Doklad o zaplacení dopravy DPD 100 Kč (email s potvrzením objednávky, výpis z účtu)
 
 ---
@@ -906,9 +898,6 @@ Modletice 135
 
 1. **Doklad o zaplacení dopravy DPD 100 Kč**
    → Přiložte jako přílohu (email s potvrzením, výpis z účtu)
-
-2. **Fotodokumentace nefunkčního kotle**
-   → Pokud máte, přiložte
 
 
 ---
