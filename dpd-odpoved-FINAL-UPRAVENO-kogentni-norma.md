@@ -52,7 +52,7 @@ Jinými slovy:
 DPD po 8 dnech (14.1.2026) přiznalo, že neví kde balík je.
 
 V tu chvíli:
-→ Venku mrzlo (leden 2026, teploty pod 0°C)
+→ Venku mrzlo (leden 2026, teploty pod -10°C)
 → Kotel jsem musel vypnout (bez ventilátoru by se poškodil)
 → Nevěděl jsem, jestli a kdy DPD balík najde
 → Nemohl jsem čekat (doma malé děti, riziko zamrznutí potrubí)
@@ -474,7 +474,7 @@ V. URGENTNÍ SITUACE ODŮVODŇOVALA NÁKUP NOVÉHO DÍLU
 Dne 14. ledna 2026 jste potvrdili, že "nevíte kde zásilka je".
 
 V té době:
-→ Venku mrzlo (leden 2026, teploty pod 0°C)
+→ Venku mrzlo (leden 2026, teploty pod -10°C)
 → Kotel bez ventilátoru NELZE provozovat (riziko poškození)
 → Nevěděl jsem, zda a kdy zásilku najdete
 → Nemohl jsem čekat (zdraví rodiny, riziko zamrznutí potrubí)
