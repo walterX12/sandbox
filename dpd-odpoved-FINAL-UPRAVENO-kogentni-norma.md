@@ -26,8 +26,8 @@ JAK TO CELÉ VIDÍM JÁ - BĚŽNÝ ČLOVĚK, KTERÝ POTŘEBOVAL VYTOPIT DŮM
 
 1. CO SE STALO - PŘESNÝ POPIS SITUACE
 
-Dne 6. ledna 2026 jsem poslal DPD ROZBITÝ ventilátor z mého kotle
-NA OPRAVU.
+Dne 6. ledna 2026 jsem poslal přes DPD ventilátor z mého kotle
+(který vykazoval nespolehlivý chod a chybu 160) NA OPRAVU.
 
 Stav ventilátoru před odesláním:
 → Ventilátor fungoval SPORADICKY (občas se zasekl)
@@ -805,7 +805,7 @@ Modletice 135
 "Ventilátor fungoval sporadicky"
 
 **NYNÍ (SPRÁVNĚ):**
-"ROZBITÝ ventilátor šel NA OPRAVU"
+"Ventilátor (který vykazoval nespolehlivý chod a chybu 160) šel NA OPRAVU"
 "Po opravě = PLNĚ FUNKČNÍ REPASOVANÝ ventilátor"
 "Po ztrátě zásilky nebyl repasovaný díl dostupný"
 
