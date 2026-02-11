@@ -104,6 +104,12 @@ d) **Doprava DPD (nerealizovaná služba)**
 Na základě ztráty zásilky a nutnosti koupit náhradní ventilátor
 **požaduji úhradu škody ve výši 9 305 Kč.**
 
+**DŮLEŽITÁ PODMÍNKA:**
+Tento kompromisní návrh platí pouze za předpokladu, že bude částka
+vyplacena na účet **do 16. 2. 2026** bez dalšího plýtvání mým časem
+a časem právníka. V případě další komunikace předám věc plně
+na právního zástupce a podám podnět na ČOI.
+
 
 5. PROČ 2 500 KČ NEKRYJE SKUTEČNOU ŠKODU
 
@@ -147,6 +153,11 @@ Očekávám náhradu SKUTEČNÝCH nákladů, které jste mi způsobili:
 → Montáž jsem provedl sám (ušetřil jsem vám 2 000 Kč)
 
 **Návrh na kompenzaci: 9 305 Kč**
+
+*Tento kompromisní návrh platí pouze za předpokladu, že bude částka
+vyplacena na účet do 16. 2. 2026 bez dalšího plýtvání mým časem
+a časem právníka. V případě další komunikace předám věc plně
+na právního zástupce a podám podnět na ČOI.*
 
 
 ═══════════════════════════════════════════════════════════════════
@@ -548,13 +559,13 @@ Tím, že jsem našel levnější řešení a montáž provedl sám,
 Platební údaje:
 → Číslo účtu: 379464001/5500
 → Variabilní symbol: 13925049833359
-→ Lhůta k úhradě: **14. února 2026** (2 dny)
+→ Lhůta k úhradě: **16. února 2026** (2 dny)
 
 
 IX. VAROVÁNÍ A DALŠÍ POSTUP
 
 V případě, že nebude náhrada škody ve výši 9 305 Kč uhrazena
-do 14. února 2026, budu nucen přistoupit k následujícím krokům:
+do 16. února 2026, budu nucen přistoupit k následujícím krokům:
 
 1. **Podání podnětu na Českou obchodní inspekci (ČOI)**
 
@@ -574,7 +585,7 @@ do 14. února 2026, budu nucen přistoupit k následujícím krokům:
 
    Nárok:
    → Výše škody: 9 305 Kč
-   → Úroky z prodlení (od 15. února 2026)
+   → Úroky z prodlení (od 17. února 2026)
    → Náhrada nákladů řízení (soudní poplatek 1 000 Kč,
      ev. náklady právního zastoupení)
 
@@ -675,10 +686,14 @@ Nežádám nic nereálného.
 
 **9 305 Kč.**
 
+**UPOZORNĚNÍ:**
+Tento kompromisní návrh platí pouze do **16. února 2026**.
+Pokud bude částka vyplacena na účet do tohoto data, považuji věc
+za vyřízenou. V případě další komunikace nebo odmítnutí předám věc
+plně na právního zástupce a podám podnět na ČOI.
+
 **Pokud to nepřijmete, soud použije § 2925 OZ (kogentní) a DPD prohraje.**
 **VOP nemůže být nad zákonem.**
-
-Prosím o úhradu do **14. února 2026**.
 
 
 S pozdravem,
