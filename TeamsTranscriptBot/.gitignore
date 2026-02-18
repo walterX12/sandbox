@@ -1,0 +1,17 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+## Výstupní soubory (zápisy ze schůzek)
+output/
+
+## Tajné hodnoty – NIKDY necommituj appsettings s reálnými klíči
+appsettings.Production.json
+appsettings.Local.json
+
+## IDE
+.idea/
+.vscode/settings.json
